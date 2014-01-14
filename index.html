@@ -1,28 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title>  Rinon Ninqueon Electronix </title>
-  <link rel="stylesheet" href="/css/styles.css" />
-</head>
-<body>
- 
-  <div id="main">
- 
-    <header>
-      <h1> Rinon Ninqueon Electronix </h1>
-    <header>
- 
-    <nav role="navigation">
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/portfolio/">Portfolio</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/contact">Contact</a></li>
-      </ul>
-    </nav>
- 
-    <section role="banner">
+﻿---
+layout: default
+---
+<section role="banner">
   <img src="/img/banner.jpg" />
 </section>
  
@@ -31,11 +10,12 @@
   Welcome to Rinon Ninqueon Electronix!
   </p> 
 </section>
- 
-    <footer>
-      <p>@copy; Rinon Ninqueon Electronix 2014 | All Rights Reserved. </p>
-    </footer>
- 
-  </div>
-</body>
-</html>
+
+<div id="home">
+  <h1>Блог</h1>
+  <ul class="entries">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> -- <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
