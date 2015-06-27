@@ -4,7 +4,7 @@ function()
 	$('li img').on('click',function(){
 	var src = $(this).attr('alt');
     var img = '<img src="' + src + '" class="img-responsive"/>';
-    $('#myModal').modal();
+    $('#myModal').modal('hide');
     $('#myModal').on('shown.bs.modal',
 		function()
 		{
