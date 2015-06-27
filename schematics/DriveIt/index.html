@@ -25,6 +25,7 @@
 	<script src="/assets/js/bootstrap.js"></script>
 	<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/popup.js"></script>
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -94,21 +95,6 @@ ript>
 Теперь до перегруза надо сигнал раскачать. Операционник поставить надо. Тут-то и произошёл интересный косяк. Что-то в симуляторе я попутал, и зацепил обратную связь совсем не туда. А именно, не на выход, а к обратной связи второго каскада. Подумал, &quot;ну работает, чё&quot;, и оставил.
 После тоже надо операционник, ибо пассивный темброблок сильно ослабляет сигнал.
 Ну, готово. Схема такова:
-<script>
-$(document).ready(function(){
-           $(&#39;li img&#39;).on(&#39;click&#39;,function(){
-                var src = $(this).attr(&#39;alt&#39;);
-                var img = &#39;<img src="' + src + '" class="img-responsive"/>&#39;;
-                $(&#39;#myModal&#39;).modal();
-                $(&#39;#myModal&#39;).on(&#39;shown.bs.modal&#39;, function(){
-                    $(&#39;#myModal .modal-body&#39;).html(img);
-                });
-                $(&#39;#myModal&#39;).on(&#39;hidden.bs.modal&#39;, function(){
-                    $(&#39;#myModal .modal-body&#39;).html(&#39;&#39;);
-                });
-           });<br>
-        })
-</script>
 <div class="thumbnails">
     <li>
       <img src="/img/DriveIt_1_preview.JPG" alt="/img/DriveIt_1.JPG">
