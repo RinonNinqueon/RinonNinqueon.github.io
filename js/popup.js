@@ -8,6 +8,7 @@ function()
     $('#myModal').on('shown.bs.modal',
 		function()
 		{
+			$(this).find('.modal-dialog').css({width:'auto', height:'auto', 'max-height':'100%'});
 			$('#myModal .modal-body').html(img);
 		});
 	$('#myModal').on('hidden.bs.modal',
