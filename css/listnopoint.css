@@ -1,11 +1,15 @@
 	ul.tmb	{
         padding:0 0 0 0;
         margin:0 0 0 0;
+		list-style:none;
+        margin-bottom:25px;
+		cursor: pointer;
     }
-    ul.tmb li.tmb	{
+    li.tmb {
         list-style:none;
-        margin-bottom:25px;           
+        margin-bottom:25px;
+		cursor: pointer;
     }
-    ul.tmb li.tmb img	{
+    img {
         cursor: pointer;
     }
