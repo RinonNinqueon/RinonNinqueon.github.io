@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Rinon Ninqueon</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <link href="/css/bootstrap.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="/css/sticky.css" />
+	<link rel="stylesheet" href="/css/listnopoint.css" />
+	<link rel="shortcut icon" href="http://rinonninqueon.github.io/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="http://rinonninqueon.github.io/favicon.ico" type="image/x-icon" />
+	
+<!--	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+
+	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script> -->
+	
+    <style>
+      body {
+        padding-top: 60px;
+      }
+    </style>
+	<script src="/js/jquery-2.1.4.js"></script>
+	<script src="/js/jquery-2.1.4.min.js"></script>
+	<script src="/js/bootstrap.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/popup.js"></script>
+	<script src="/js/audio.min.js"></script>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></sc\
+ript>
+    <![endif]-->
+  </head>
+
+  <body>
+	<script>
+  (function(i,s,o,g,r,a,m)
+  {
+	i['GoogleAnalyticsObject']=r;
+	i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+	a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];
+	a.async=1;
+	a.src=g;
+	m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26503292-3', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+	  <div class="container">
+          <a class="navbar-brand" href="/">Rinon Ninqueon</a>
+          <ul class="nav navbar-nav">
+			<li><a href="/">Главная</a></li>
+			<li><a href="/schematics">Схемы</a></li>
+			<li><a href="http://github.com/RinonNinqueon/source">Исходники</a></li>
+			<li><a href="/music">Музыка</a></li>
+			<li><a href="/video">Видео</a></li>
+			<li><a href="/about">Об авторе</a></li>
+          </ul>
+      </div>
+    </div>
+
+    <div class="container">
+		<div class="content">
+			<div class="wrapper">
+				<div class="proper-content">
+					<div class="row">
+						<div class="col-xs-12 col-md-12">
+						<center>
+							<h1>Заметки и статьи по электронике и музыке<h1>
+						</center>
+						<hr>
+<h1>Правильный блок питания для гитарных эффектов. Часть 1</h1>
+<p class="meta">02 Jul 2015</p>
+<hr>
+<div class="post">
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+        <center>
+          <div class="modal-body">               
+          </div>
+        </center>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+<div class="thumbnails">
+</div>
+
+<h3>Что такое и зачем?</h3>
+
+<p>Как вы питаете гитарные эффекты? Наверняка, один блок питания и разветвитель. Или с батарейки.<br>
+В этом случае возникает такая неприятная штука, как &ldquo;земляная петля&rdquo;. Это когда земля девайса соединяется больше чем в одной точке. Например, две педали соединены аудио-кабелем &mdash; одно соединение; и разветвитель питания &mdash; вторая петля.<br>
+При этом весь тракт может начать фонит, свистеть и издавать другие неприятные звуки.<br>
+<br>
+Что делать, спросите вы? А использовать блок питания с раздельными каналами. Каждая земля независимая. Ну или батарейки, если педали мало жрут.<br></p>
+
+<h3>Сделаем!</h3>
+
+<p>Нашедши в закромах трансформатор ТП-30-2, решил перемотать его. Транс выдаёт 27 ватт, так что этого хватит на много педалей.<br>
+Начал мотать &mdash; 15 витков на вольт. В результате, 8 обмоток. На каждой половинке по 4 &mdash; по 135 витков. Выдаёт ровно 9 вольт без нагрузки. Нагрузить руки ещё не дошли. Может, придётся ещё сматывать.<br>
+<br>
+И тут мне захотелось защиту от короткого замыкания (КЗ). Ибо та, что в микросхеме стабилизатора &mdash; не  самая надёжная.<br>
+Нашёл интересное решение с реле и оптопарой. Но реле потребляет много, так что решил заменить его на MOSFET, причём он должен быть <b>P-канальным<b>! Добавил пару транзюков для согласования уровней, и получилось вот что:<br>
+<div class="thumbnails">
+    <li class="tmb">
+    <span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+      <img src="/img/CoolPS/BP_1_preview.png" alt="/img/CoolPS/BP_1.png" class="img-thumbnail"><br>
+      <center>Схема 1</center>
+    </span>
+    </li>
+</div>
+<br>
+Работает оно так: принудительно замыкаем транзистор оптопары, открывается MOSFET, напряжение проходит, стабилизируется, включает светодиод оптопары, открывает транзистор. После этого кнопку можно отпускать. Всё происходит быстро.<br>
+При КЗ на выходе нуль, светодиод оптопары не горит, транзистор закрыт, при этом MOSFET закрывается и прекращает подачу напряжения.<br></p>
+
+<h4>Вариант 2</h4>
+
+<p>Если упростить, то можно убрать транзисторы согласования уровня, и дёргать затвор MOSFET&#39;а на землю непосредственно транзистором оптопары.<br>
+Вот так вот:<br>
+<div class="thumbnails">
+    <li class="tmb">
+    <span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+      <img src="/img/CoolPS/BP_2_preview.png" alt="/img/CoolPS/BP_2.png" class="img-thumbnail"><br>
+      <center>Схема 2</center>
+    </span>
+    </li>
+</div>
+<br></p>
+
+<h3>Тесты</h3>
+
+<p>Собрал на макетке вторую схему. Работает. Так что стоит задуматься о необходимости транзисторов согласования.<br>
+Как будет чего рассказать &mdash; напишу. Если не забуду :P</p>
+
+<p><br><br><br><br><br></p>
+
+</div>
+ 					</div>
+		        </div>
+		      </div><!-- /.proper-content -->
+ 
+		      <div class="push"></div>
+ 
+		    </div><!-- /.wrapper -->
+
+	<div class="footer-wrapper">
+	<footer>
+		<div class="container">
+			<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="small" data-yashareQuickServices="vkontakte,facebook,twitter,gplus" data-yashareTheme="counter"></div>
+		</div><br>
+		<div class="container" id="id_border">
+			<div class="container">
+				<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"></a> Материалы сайта, для которых не указано иное, доступны по лицензии <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.ru">Creative Commons «Attribution-ShareAlike» («Атрибуция — На тех же условиях») 4.0 Всемирная.</a>
+			</div>
+			<div class="container">
+				Ссылочки: <a href="http://www.youtube.com/user/RinonNinqueon">YouTube</a> <a href="http://plus.google.com/u/0/b/112338577909918454670/112338577909918454670">Google+</a>
+			</div>
+		</div>
+	</footer><br>
+	</div>
+	</div>
+  </body>
+</html>
