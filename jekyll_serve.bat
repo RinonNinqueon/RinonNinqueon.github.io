@@ -1,2 +1,1 @@
-set PATH=C:\Ruby200\bin;%PATH%
-jekyll build
+C:\Ruby22-x64\bin\jekyll build
