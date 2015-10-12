@@ -58,6 +58,13 @@ ript>
   audiojs.events.ready(function() {
     var as = audiojs.createAll();
   });
+  jQuery(document).ready(function($) {
+  $('ul.nav li.dropdown, ul.nav li.dropdown-submenu').hover(function() {
+		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeIn();
+	}, function() {
+		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeOut();
+	});
+});
 </script>
     <div class="navbar navbar-inverse navbar-fixed-top">
 	  <div class="container">
@@ -66,7 +73,7 @@ ript>
 			<li><a href="/">Главная</a></li>
 			<li><a href="/schematics">Схемы</a></li>
 			<li class="dropdown" dropdown>
-				<a class="dropdown-toggle" data-toggle="dropdown" href="#">Переводы<span class="caret"></span></a>
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Переводы<span class="caret"></span></a>
 				<ul class="dropdown-menu">
 					<li class="dropdown-header"><a href="/translate">Переводы</a></li>
 					<li><a href="/translate/manga">Манга</a></li>
