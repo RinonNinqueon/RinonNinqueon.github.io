@@ -7,6 +7,15 @@
 		<atom:link href="http://rinonninqueon.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Делаем комбик 12&quot;, часть 1</title>
+				        
+				<description>Идея Давно я хотел нормальный кабинет, да чтобы с 12&amp;quot; динамиком. А после того, как начал ламповый усилитель делать, так решил, что кабинет &amp;mdash; неотъемлемая часть для головы. И было решено таки собрать его. Что понадобится Во-первых надо определится с размерами. У меня усилитель 60 см в ширину и 30...</description>
+				<pubDate>Tue, 20 Oct 2015 05:30:21 +0600</pubDate>
+				<link>http://rinonninqueon.com/schematics/cabinet_1/</link>
+				<guid isPermaLink="true">http://rinonninqueon.com/schematics/cabinet_1/</guid>
+			</item>
+		
+			<item>
 				<title>Опенинг к &#39;One Punch Man&#39;</title>
 				        
 				<description>
@@ -223,15 +232,6 @@ Team AA [Akari Mamiya (Ayane Sakura) &amp;amp; Aria Holmes Kanzaki (Rie Kugimiya
 				<pubDate>Fri, 11 Sep 2015 21:45:50 +0600</pubDate>
 				<link>http://rinonninqueon.com/translate/manga/nagato_yuki_chan_no_shoushitsu_chapter_1/</link>
 				<guid isPermaLink="true">http://rinonninqueon.com/translate/manga/nagato_yuki_chan_no_shoushitsu_chapter_1/</guid>
-			</item>
-		
-			<item>
-				<title>Педаль перегруза DriveIt! -- финал</title>
-				        
-				<description>(Начало &amp;mdash; Педаль перегруза DriveIt!) Последние штрихи Я уже довольно подробно расписал про эту педаль. Но всё же, есть пара заметок. Детектор Чтобы он не пердел, надо ставить повторитель. Транзистор любой. Я нашёл BC547. Финальная схема Перегруз первого каскада Да, оно есть. Педаль проектировалась для стратокастера. А там синглы со...</description>
-				<pubDate>Mon, 17 Aug 2015 05:30:21 +0600</pubDate>
-				<link>http://rinonninqueon.com/schematics/DriveIt_final/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/schematics/DriveIt_final/</guid>
 			</item>
 		
 	</channel>
