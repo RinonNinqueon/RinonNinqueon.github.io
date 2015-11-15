@@ -7,6 +7,15 @@
 		<atom:link href="http://rinonninqueon.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Делаем комбик 12&quot;, часть 2</title>
+				        
+				<description>Что теперь В прошлой части я рассказал, как я делал дупло. Дупло уже рабочее, но тут мне ударила в голову известная жидкость. Так что на этот раз поговорим об электронной начинке. УМЗЧ Первым делом надо определиться с выходной мощностью. Так как мой динамик 30 Вт, то и усилитель стоит делать...</description>
+				<pubDate>Sun, 15 Nov 2015 21:30:21 +0600</pubDate>
+				<link>http://rinonninqueon.com/schematics/cabinet_2/</link>
+				<guid isPermaLink="true">http://rinonninqueon.com/schematics/cabinet_2/</guid>
+			</item>
+		
+			<item>
 				<title>Эндинг к &#39;Исчезновение Юки Нагато&#39;</title>
 				        
 				<description>Minori Chihara &amp;ndash; Arigatou, Daisuki (ありがとう、だいすき) Перевод с японского &amp;mdash; Rinon Ninqueon Лишь услышав голос твой зовёт меня В груди разгорелось пламя Быть с тобою рядом счастливо мне Не упусти тот миг Лёгким ветерком подуло, принесло любовь Ветерком, что грезит о грядущих днях Передать хочу, то волнение Что сделало меня...</description>
@@ -85,15 +94,6 @@
 				<pubDate>Fri, 16 Oct 2015 21:45:50 +0600</pubDate>
 				<link>http://rinonninqueon.com/translate/anime/rakudai_kishi_no_cavalry_op/</link>
 				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/rakudai_kishi_no_cavalry_op/</guid>
-			</item>
-		
-			<item>
-				<title>Опенинг к &#39;Noragami Aragoto&#39;</title>
-				        
-				<description>THE ORAL CIGARETTES &amp;ndash; Kyouran Hey Kids!! (狂乱Hey Kids!!) Перевод с японского &amp;mdash; Rinon Ninqueon Для Asada Shire &amp;ldquo;Ночью мы чествуем героя!&amp;rdquo; Чтоб не сломали маску, спрячься от безумцев. Ты видишь ложь? разлад? Отбрось подальше их. Тягучий аромат мёда ты почувствовал. Он возбуждает, -дает, -дает. Твоей руки хочу. &amp;ldquo;Эй, люди!...</description>
-				<pubDate>Sun, 11 Oct 2015 21:45:50 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/noragami_aragoto_op/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/noragami_aragoto_op/</guid>
 			</item>
 		
 	</channel>
