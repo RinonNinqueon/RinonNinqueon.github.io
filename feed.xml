@@ -7,6 +7,15 @@
 		<atom:link href="http://rinonninqueon.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Локализация &quot;Faraway Story RPG&quot;</title>
+				        
+				<description>Faraway Story RPG Насмотрелся я на эту игру. Очень она мне понравилась. Но русской версии нету. &amp;ldquo;Почему бы не сделать?&amp;rdquo;, подумалось мне. И я делаю. Игра большая, так что процесс не быстрый. Если я в течении дня что-то сделал, я обновляю репозиторий. Английский перевод можете найти тут. Пока что, мой...</description>
+				<pubDate>Fri, 27 Nov 2015 15:00:00 +0600</pubDate>
+				<link>http://rinonninqueon.com/blog/FarawayStoryRPG/</link>
+				<guid isPermaLink="true">http://rinonninqueon.com/blog/FarawayStoryRPG/</guid>
+			</item>
+		
+			<item>
 				<title>Делаем комбик 12&quot;, часть 2</title>
 				        
 				<description>Что теперь В прошлой части я рассказал, как я делал дупло. Дупло уже рабочее, но тут мне ударила в голову известная жидкость. Так что на этот раз поговорим об электронной начинке. УМЗЧ Первым делом надо определиться с выходной мощностью. Так как мой динамик 30 Вт, то и усилитель стоит делать...</description>
@@ -85,15 +94,6 @@
 				<pubDate>Sat, 17 Oct 2015 21:45:50 +0600</pubDate>
 				<link>http://rinonninqueon.com/translate/anime/taimadou_gakuen_35_shiken_shoutai_op/</link>
 				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/taimadou_gakuen_35_shiken_shoutai_op/</guid>
-			</item>
-		
-			<item>
-				<title>Опенинг к &#39;Rakudai Kishi no Cavalry&#39;</title>
-				        
-				<description>Mikio Sakai &amp;ndash; Identity (アイデンティティ) Перевод с японского &amp;mdash; Rinon Ninqueon Редактура &amp;ndash; Esito Для Asada Shire Пришла пора мечтать о высоком &amp;ndash; дивный новый мир, Сделай выбор свой на острие чувств! В этом месте высеку на память душу свою! (Ээй)! Никому не позволю коснуться личности, Повинуясь велению сердца; И...</description>
-				<pubDate>Fri, 16 Oct 2015 21:45:50 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/rakudai_kishi_no_cavalry_op/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/rakudai_kishi_no_cavalry_op/</guid>
 			</item>
 		
 	</channel>
