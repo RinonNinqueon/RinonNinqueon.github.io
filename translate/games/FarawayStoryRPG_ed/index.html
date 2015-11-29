@@ -1,0 +1,317 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Rinon Ninqueon</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Заметки по электронике и музыке и переводы.">
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	
+<!--	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+
+	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script> -->
+	
+    <style>
+      body {
+        padding-top: 60px;
+      }
+    </style>
+	<script src="/js/jquery-2.1.4.js"></script>
+	<script src="/js/jquery-2.1.4.min.js"></script>
+	<script src="/js/bootstrap.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/popup.js"></script>
+	<script src="/js/audio.min.js"></script>
+	
+	<link rel="stylesheet" href="/css/bootstrap.css"/>
+	<link rel="stylesheet" href="/css/sticky.css" />
+	<link rel="stylesheet" href="/css/listnopoint.css" />
+	
+	<script src="/js/fotorama.js"></script>
+	<link rel="stylesheet" href="/css/fotorama.css" />
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></sc\
+ript>
+    <![endif]-->
+  </head>
+
+  <body>
+	<script>
+  (function(i,s,o,g,r,a,m)
+  {
+	i['GoogleAnalyticsObject']=r;
+	i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+	a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];
+	a.async=1;
+	a.src=g;
+	m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26503292-3', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+  jQuery(document).ready(function($) {
+  $('ul.nav li.dropdown, ul.nav li.dropdown-submenu').hover(function() {
+		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeIn();
+	}, function() {
+		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeOut();
+	});
+});
+</script>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+	  <div class="container">
+          <a class="navbar-brand" href="/">Rinon Ninqueon</a>
+          <ul class="nav navbar-nav">
+			<li><a href="/">Главная</a></li>
+			<li><a href="/schematics">Схемы</a></li>
+			<li class="dropdown nav navbar-nav" dropdown>
+				<a href="/translate" >Переводы<span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="/translate/manga">Манга</a></li>
+					<li><a href="/translate/anime">Аниме</a></li>
+				</ul>
+			</li>
+			<li><a href="http://github.com/RinonNinqueon/source">Исходники</a></li>
+			<li><a href="/music">Музыка</a></li>
+			<li><a href="/video">Видео</a></li>
+			<li><a href="/about">Об авторе</a></li>
+          </ul>
+      </div>
+    </div>
+
+    <div class="container">
+		<div class="content">
+			<div class="wrapper">
+				<div class="proper-content">
+					<div class="row">
+						<div class="col-xs-12 col-md-12">
+						<center>
+							<h1>Заметки по электронике и музыке и переводы.<h1>
+						</center>
+						<hr>
+<h1>Эндинг к 'Faraway Story RPG'</h1>
+<p class="meta">30 Nov 2015</p>
+<hr>
+<div class="post">
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+        <center>
+          <div class="modal-body">               
+          </div>
+        </center>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+<div class="thumbnails">
+</div>
+
+<h3>Tamaki Kinoshita &ndash; 空の邂逅 / Sora no kaigou</h3>
+
+<p>A Chance Meeting in the Sky<br>
+Случайная Встреча в Небесах<br>
+<hr>
+Перевод с японского &mdash; Rinon Ninqueon<br>
+Translated from japanese &mdash; Rinon Ninqueon<br>
+<hr></p>
+
+<h4>Русский</h4>
+
+<p>Рукою до нежного облака дотянуться почти невозможно<br>
+Так дотянись до своего сердца ты взамен<br>
+Лёгкий ветер в колыбель небесную, собирает все думы сокрытые<br>
+Соединив, как судьба соединила наши руки<br>
+<br>
+Листву тополя с голубем почтовым передай<br>
+Этого города, неба чтоб аромат мне передать<br>
+<br>
+Там за башней с часами так ветренно, ароматом листвы всё наполнено<br>
+Поднимемся давай мы туда, где дыхание ветра сильней ощущается<br>
+Желаний далёкие голоса, навсегда в горизонт устремляются<br>
+Наши встретились взгляды, здесь, сейчас<br>
+Потому что любим<br>
+<br>
+Погрузились холмы в тёмны сумерки, расставаться немного мучительно<br>
+Прохладное дуновение ветра почувствую<br>
+Слух ласкает мелодия лёгкая, что поёт насекомых гармония<br>
+И приобняв прикоснёмся мы, до себя и до сердца<br>
+<br>
+Синюю ленточку с голубем почтовым передай<br>
+Чтобы ветра и облака думы все мне передать<br>
+<br>
+Там за башней с часами так ветренно, время вспять повернуть не удастся<br>
+И чувства те необъятные, хочу навсегда в своём сердце оставить<br>
+Волна колокольного отзвона, далеко в горизонт устремляется<br>
+Мы обнимемся крепко, здесь, сейчас<br>
+<br>
+Потому что любим<br></p>
+
+<h4>English</h4>
+
+<p>You cannot access the clouds with hands<br>
+Just touch your big heart<br>
+Gentle wind put together all thoughts<br>
+And connects like fate conneced our hands<br>
+<br>
+Send leaves of poplar with a pigeon post<br>
+To let me know this city&rsquo;s, this sky&rsquo;s flavour<br>
+<br>
+Behind clock-tower wind dance with leaves smell<br>
+Let&rsquo;s climb up to the place, where gentle wind is<br>
+Our voices fly away for ever to horizon<br>
+Me met each other&rsquo;s eyes, now and there<br>
+For reason to love<br>
+<br>
+Hills plunge into night, leaving you&rsquo;s little painful<br>
+Cold wind blowing I can feel<br>
+Gentle melody pleasing to the ear, it&rsquo;s insects sing in harmony<br>
+And in one big hug, we touched each other&rsquo;s hearts<br>
+<br>
+Send blue ribbon with a pigeon post<br>
+To let me know this wind&rsquo;s, this cloud&rsquo;s thoughts<br>
+<br>
+Behind clock-tower time will not stop<br>
+And all vast feellings I want to keep in my heart<br>
+Wave of bell&rsquo;s tinkling fly away for ever to horizon<br>
+We hug each other, now and there<br>
+For reason to love<br>
+<br></p>
+
+<h4>Kanji</h4>
+
+<p>消えてく空の雲は　いつも手に届かなくて<br>
+かすかに触れ合う心だけ<br>
+風のカーテンが 空にふわり 想いを重ねる<br>
+柔らかくつなぐ ボクらの手のように<br>
+<br>
+伝承鳩にポプラの葉をつけて<br>
+この街の、空の、香り伝える&hellip;<br>
+<br>
+街の時計台越えて　風舞う木の葉の香り<br>
+広がる柔らかな風にどこまでも登って行こう<br>
+想い続けた声を届けた空の果てには<br>
+今、ここに見つめ合う<br>
+恋のすどうり<br>
+<br>
+夕暮れに染まる丘はいつも少し切なくて<br>
+流れる風が冷たく感じた<br>
+耳に奏でる音色は歌う虫たちのハーモニー<br>
+心に柔らかく、深く伝ってく<br>
+<br>
+伝承鳩に青いリボン添えて<br>
+この風の、雲の、想い伝える&hellip;<br>
+<br>
+街の時計台越えて 時をとめた今だけは<br>
+止まらぬこの気持ち ずっと走り続けさせたくて<br>
+鳴り止まぬ鐘の音に 寄り添う空の果てには<br>
+今、ここに抱きしめた<br>
+恋のすどうり<br>
+<br></p>
+
+<h4>Romaji</h4>
+
+<p>Kiete ku sora no kumo wa itsumo te ni todokanakute<br>
+Kasuka ni fureru kokoro dake<br>
+Kaze no kaaten ga sora ni fuwari omoi o kasaneru<br>
+Yawarakaku tsunagu bokura no te no you ni<br>
+<br>
+Denshou hato ni popura no ha o tsukete<br>
+Kono machi no, sora no, kaori tsutaeru&hellip;<br>
+<br>
+Machi no tokei-dai koete kazemau konoha no kaori<br>
+Hirogaru yawarakana kaze ni doko made mo nobotte ikou<br>
+Omoi tsudzuketa koe o todoketa sora no hate ni wa<br>
+Ima, koko ni mitsume au<br>
+Koi no su douri<br>
+<br>
+Yuugure ni somaru oka wa itsumo sukoshi setsunakute<br>
+Nagareru kaze ga tsumetaku kanjita<br>
+Mimi ni kanaderu neiro wa utau mushi-tachi no HARMONY<br>
+Kokoro ni yawarakaku, fukaku tsutatte ku<br>
+<br>
+Denshou hato ni aoi ribon soete<br>
+Kono kaze no, kumo no, omoi tsutaeru&hellip;<br>
+<br>
+Machi no tokei-dai koete toki o tometa ima dake wa<br>
+Tomaranu kono kimochi zutto hashiri tsudzuke sasetakute<br>
+Nari yamanu kanenone ni yorisou sora no hate ni wa<br>
+Ima, koko ni dakishimeta<br>
+Koi no su douri<br>
+<br>
+<br><br><br><br><br></p>
+
+</div>
+ 					</div>
+		        </div>
+		      </div><!-- /.proper-content -->
+ 
+		      <div class="push"></div>
+ 
+		    </div><!-- /.wrapper -->
+
+	<div class="footer-wrapper">
+	<footer>
+		<div class="container">
+			<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="small" data-yashareQuickServices="vkontakte,facebook,twitter,gplus" data-yashareTheme="counter"></div>
+		</div>
+		<hr>
+		<div class="container">
+				<div id="disqus_thread"></div>
+			</div>
+		<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    var disqus_shortname = 'rinonninqueon';
+    
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//rinonninqueon.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">комментарии от <span class="logo-disqus">Disqus</span></a>
+<hr>
+		
+		<div class="container" id="id_border">
+			<div class="container">
+				<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"></a> Материалы сайта, для которых не указано иное, доступны по лицензии <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.ru">Creative Commons «Attribution-ShareAlike» («Атрибуция — На тех же условиях») 4.0 Всемирная.</a>
+			</div>
+		</div>
+	</footer><br>
+	</div>
+	</div>
+  </body>
+</html>
