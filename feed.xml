@@ -7,6 +7,15 @@
 		<atom:link href="http://rinonninqueon.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Укрощение Ardour</title>
+				        
+				<description>Хотите заниматься звукозаписью на Linux? Не проблема! Для вас есть чудесная DAW &amp;mdash; Ardour. Система Итак, сперва нам надо поставить какой-нибудь дистрибутив. Например, Ubuntu. Заходим сюда, качаем Desktop версию нужной вам разрядности. Прожигаем диск, или сливаем на флешку, перезагружаемся, ставим. Отдельная история, если у вас стоит Windows и вы хотите...</description>
+				<pubDate>Mon, 01 Feb 2016 19:00:00 +0600</pubDate>
+				<link>http://rinonninqueon.com/it/ArdourInstall/</link>
+				<guid isPermaLink="true">http://rinonninqueon.com/it/ArdourInstall/</guid>
+			</item>
+		
+			<item>
 				<title>Эндинг к &#39;Faraway Story RPG&#39;</title>
 				        
 				<description>Tamaki Kinoshita &amp;ndash; 空の邂逅 / Sora no kaigou A Chance Meeting in the Sky Случайная Встреча в Небесах Перевод с японского &amp;mdash; Rinon Ninqueon Translated from japanese &amp;mdash; Rinon Ninqueon Русский Рукою до нежного облака дотянуться почти невозможно Так дотянись до своего сердца ты взамен Лёгкий ветер в колыбель небесную,...</description>
@@ -85,15 +94,6 @@
 				<pubDate>Tue, 20 Oct 2015 05:30:21 +0600</pubDate>
 				<link>http://rinonninqueon.com/schematics/cabinet_1/</link>
 				<guid isPermaLink="true">http://rinonninqueon.com/schematics/cabinet_1/</guid>
-			</item>
-		
-			<item>
-				<title>Опенинг к &#39;One Punch Man&#39;</title>
-				        
-				<description>JAM Project &amp;ndash; THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~ (THE HERO !! ～怒れる拳に火をつけろ～) Перевод с японского &amp;mdash; Rinon Ninqueon Редактура &amp;ndash; ждём Для YukioSub Один Удар! 3, 2, 1, прекрасно! Бой, триумф, в истории сильнейший! Что сказал ты, разочарование? Не остановить! Одним ударом, побеждай, раз за разом!...</description>
-				<pubDate>Mon, 19 Oct 2015 21:45:50 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/one_punch_man_op/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/one_punch_man_op/</guid>
 			</item>
 		
 	</channel>
