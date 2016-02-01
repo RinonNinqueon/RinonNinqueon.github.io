@@ -112,7 +112,7 @@ ript>
 			<div class="wrapper">
 				<div class="proper-content">
 					<div class="row">
-						<div class="col-xs-12 col-md-12">
+						<div class="col-xs-10 col-md-10">
 						<center>
 							<h1>Заметки по электронике и музыке и переводы.<h1>
 						</center>
@@ -142,8 +142,7 @@ ript>
 <code>sudo apt-get install linux-lowlatency</code><br>
 Всё было бы прекрасно, но по умолчанию Grub не даёт времени на выбор. Надо его подправить.<br>
 Проще всего это сделать через GUI.<br>
-<code>
-sudo add-apt-repository ppa:danielrichter2007/grub-customizer <br>
+<code>sudo add-apt-repository ppa:danielrichter2007/grub-customizer <br>
 sudo apt-get update <br>
 sudo apt-get install grub-customizer<br>
 </code>
@@ -158,16 +157,14 @@ sudo apt-get install grub-customizer<br>
 Ставим Git:<br>
 <code>sudo apt-get install git</code><br>
 Заходим в какую-нибудь папку, например в домашнюю, создаём папку, клонируем туда репозиторий.<br>
-<code>
-mkdir git<br>
+<code>mkdir git<br>
 cd git<br>
 git clone https://github.com/calf-studio-gear/calf.git<br>
 </code>
 Пока оно клонируется, можно установить зависимости.<br>
 Открываем ещё одно окно терминала.<br>
 Делаем именно в этом порядке:<br>
-<code>
-sudo apt-get install libtool<br>
+<code>sudo apt-get install libtool<br>
 sudo apt-get install autoconf<br>
 sudo apt-get install libexpat1-dev<br>
 sudo apt-get install libfftw3-dev<br>
@@ -180,8 +177,7 @@ sudo apt-get install libfluidsynth-dev<br>
 </code>
 По пути Jack вас спросит, &ldquo;Использовать ядро реального времени?&rdquo; &mdash; соглашайтесь.<br>
 Ещё пара плюшек:<br>
-<code>
-sudo apt-get install pulseaudio-module-jack<br>
+<code>sudo apt-get install pulseaudio-module-jack<br>
 sudo adduser ВАШЕ<em>ИМЯ</em>ПОЛЬЗОВАТЕЛЯ audio<br>
 </code>
 Первая добавить поддержку Jack в PulseAudio &mdash; надо будет открыть настройки звука и выбрать интерфейс Jack.<br>
@@ -189,8 +185,7 @@ sudo adduser ВАШЕ<em>ИМЯ</em>ПОЛЬЗОВАТЕЛЯ audio<br>
 
 <p>Если репозиторий не склонировался, можете попить чаю.<br>
 Как только всё готово, будем компилировать и ставить:<br>
-<code>
-cd calf<br>
+<code>cd calf<br>
 sh ./autogen.sh<br>
 make -j8<br>
 make install<br>
@@ -208,8 +203,7 @@ make install<br>
 Что с ним делать?<br>
 Открываете терминал, доберитесь до него. Скорей всего, он будет в папке ~/Загрузки.<br>
 Запускаем:<br>
-<code>
-sh ./Ardour_64bit-4.6.0.run<br>
+<code>sh ./Ardour_64bit-4.6.0.run<br>
 </code>
 Может сам спросить root-права.<br></p>
 
@@ -222,6 +216,10 @@ sh ./Ardour_64bit-4.6.0.run<br>
 
 </div>
  					</div>
+					<div class="col-xs-2 col-md-2">
+							<a class="twitter-timeline" href="https://twitter.com/RinonNinqueon" data-widget-id="694081717812989952">Твиты от @RinonNinqueon</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+					</div>
 		        </div>
 		      </div><!-- /.proper-content -->
  
