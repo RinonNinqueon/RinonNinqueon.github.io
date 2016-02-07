@@ -30,3 +30,13 @@
 		box-shadow: 0 0 2px #AAA;
 		background-color:#F0F0F0;
 	}
+	@font-face
+		{
+			font-family: BRUSHSCI;
+			src: url(/fonts/BRUSHSCI.TTF);
+			src: local(BRUSHSCI), url(/fonts/BRUSHSCI.TTF);
+		}
+	.rinonlogo
+		{
+			font-family: BRUSHSCI;
+		}
