@@ -41,3 +41,8 @@
 			font-family: BRUSHSCI;
 			font-size: 38px;
 		}
+		
+	code
+	{
+		padding: 2px 0px;
+	}
