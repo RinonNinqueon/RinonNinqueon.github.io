@@ -132,7 +132,7 @@ categories: schematics
 
 Абстрактное бряканье, Pink Floyd, Metallica<br>
 <audio src="/samples/DriveIt!_sample_1_1.mp3" preload="none">
-</audio><br>
+<br>
 
 Это страт, синглы<br>
 00:00 Сначала максимум верхов (ахтунг!)<br>
