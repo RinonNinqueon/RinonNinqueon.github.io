@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keitai - японофон"
-date:   2016-02-29 15:00:00
+date:   2016-02-29 10:00:00
 categories: blog
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
