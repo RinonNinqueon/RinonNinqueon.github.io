@@ -5,7 +5,7 @@ description: "Заметки по электронике и музыке и пе
 baseurl: ""
 url: "http://rinonninqueon.com"
 
-destination: ./_site
+destination: ./
 markdown: kramdown
 kramdown:
   extensions: ["strikethrough", "smart"]
