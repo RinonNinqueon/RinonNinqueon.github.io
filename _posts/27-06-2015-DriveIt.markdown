@@ -131,7 +131,8 @@ categories: schematics
 #### Схема 1
 
 Абстрактное бряканье, Pink Floyd, Metallica<br>
-<audio src="/samples/DriveIt!_sample_1_1.mp3" preload="none" /><br>
+<audio src="/samples/DriveIt!_sample_1_1.mp3" preload="none">
+</audio><br>
 
 Это страт, синглы<br>
 00:00 Сначала максимум верхов (ахтунг!)<br>
