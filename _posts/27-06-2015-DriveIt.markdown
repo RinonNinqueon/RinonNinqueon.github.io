@@ -128,7 +128,7 @@ categories: schematics
 
 Их много скопилось.<br>
 
-####Схема 1
+#### Схема 1
 
 Абстрактное бряканье, Pink Floyd, Metallica<br>
 <audio src="/samples/DriveIt!_sample_1_1.mp3" preload="none" /><br>
