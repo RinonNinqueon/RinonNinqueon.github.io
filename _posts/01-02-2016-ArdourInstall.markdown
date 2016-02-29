@@ -2,7 +2,7 @@
 layout: post
 title:  "Укрощение Ardour"
 date:   2016-02-01 13:00:00
-categories: IT
+categories: it
 ---
 
 Хотите заниматься звукозаписью на Linux? Не проблема!<br>
