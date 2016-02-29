@@ -1,0 +1,11 @@
+name: Rinon Ninqueon
+destination: ./_site
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough", "smart"]
+relative_permalinks: true
+permalink: /:categories/:title/
+pagination: 15
+paginate_path : "/page:num"
+pygments: false
+encoding: utf-8

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Альбом 'Shinkyuu'"
+date:   2015-10-29 15:00:00
+categories: music
+---
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+		<center>
+          <div class="modal-body">               
+          </div>
+		</center>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+<div class="thumbnails">
+</div>
+
+Вышел новый альбом.<br>
+<img src="/img/music/shinkyuu_preview.png"><br>
+<iframe id="widget" scrolling="no" frameborder="0" width="400" height="430" style="width: 400px; height: 430px;" src="//widgets.jamendo.com/v3/album/153411?autoplay=0&amp;layout=standard&amp;manualWidth=400&amp;width=400&amp;theme=light&amp;highlight=0&amp;tracklist=true&amp;tracklist_n=8&amp;embedCode="></iframe><br>
+Для справки, 新旧 / Shinkyuu — старое и новое.<br>
+Здесь две вещи, которые записывались ещё в 2011 году (Летнее Солнце и Поезд), но я их реанимировал, перезаписал гитарные партии. И "Ore No Nichijou" уже записывал полгода назад. Но сейчас у меня новое оборудование, поэтому перезаписал.<br>
+Почему японский? А вот. Переводы сказываются. И захотелось мне.<br>
+А с названиями композиций всегда туго...<br>
+<br><br><br><br><br>

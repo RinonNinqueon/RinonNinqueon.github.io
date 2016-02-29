@@ -1,100 +1,23 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Rinon Ninqueon</title>
-		<description>Заметки по электронике и музыке и переводы.</description>		
-		<link>http://rinonninqueon.com</link>
-		<atom:link href="http://rinonninqueon.com/feed.xml" rel="self" type="application/rss+xml" />
-		
+		<title>{{ site.name | xml_escape }}</title>
+		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
+		<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.posts limit:10 %}
 			<item>
-				<title>Эндинг к &#39;Shisha no Teikoku&#39;</title>
-				        
-				<description>EGOIST &amp;ndash; Door Перевод с японского &amp;mdash; Rinon Ninqueon Отсчитав секунды что остались И потом глаза открыв, Желание ты осуществишь на том же месте, где его и загадал. Заведя остановившееся часы C тобою встретиться смогу Под конец завтрашнего дня, Что повторяется без конца. Тебе обещание дала, О будущем с тобой,...</description>
-				<pubDate>Fri, 19 Feb 2016 21:45:50 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/shisha_no_teikoku_ed/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/shisha_no_teikoku_ed/</guid>
+				<title>{{ post.title | xml_escape }}</title>
+				{% if post.author.name %}
+				<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
+				{% endif %}        
+				<description>{{ post.content | strip_html | xml_escape | truncatewords:50}}</description>
+				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
-		
-			<item>
-				<title>Эндинг к &#39;Musaigen no Phantom World&#39;</title>
-				        
-				<description>Azusa Tadokoro &amp;ndash; Junshin Always (純真Always) Перевод с японского &amp;mdash; Rinon Ninqueon Редактура &amp;ndash; Rise-sun Открывши новую себя, Пред тяжкой судьбой такого времени, Улыбку людям надо даровать! Любимым делом заниматься я могу И даже, если нет отдачи, Если не удовлетворена, Поделиться с кем-нибудь хочу Я слишком счастлива, что хочется рыдать...</description>
-				<pubDate>Mon, 15 Feb 2016 02:00:00 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/musaigen_no_phantom_world_ed/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/musaigen_no_phantom_world_ed/</guid>
-			</item>
-		
-			<item>
-				<title>Опенинг к &#39;Musaigen no Phantom World&#39;</title>
-				        
-				<description>SCREEN mode &amp;ndash; Naked Dive Перевод с японского &amp;mdash; Rinon Ninqueon Редактура &amp;ndash; Rise-sun Что же такое правильный мир? Чрез нашу жизнь проходит лишь ложь [Что есть реальность?] Отчаяние и радость ведь пролетают мимо, как яркий мираж. Переизбыток информации, сомнительная явь Спокойный красный, страстный синий - неясные суждения Иисуса всевидящего...</description>
-				<pubDate>Mon, 08 Feb 2016 02:00:00 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/musaigen_no_phantom_world_op/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/musaigen_no_phantom_world_op/</guid>
-			</item>
-		
-			<item>
-				<title>Укрощение Ardour</title>
-				        
-				<description>Хотите заниматься звукозаписью на Linux? Не проблема! Для вас есть чудесная DAW &amp;mdash; Ardour. Система Итак, сперва нам надо поставить какой-нибудь дистрибутив. Например, Ubuntu. Заходим сюда, качаем Desktop версию нужной вам разрядности. Прожигаем диск, или сливаем на флешку, перезагружаемся, ставим. Отдельная история, если у вас стоит Windows и вы хотите...</description>
-				<pubDate>Mon, 01 Feb 2016 19:00:00 +0600</pubDate>
-				<link>http://rinonninqueon.com/it/ArdourInstall/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/it/ArdourInstall/</guid>
-			</item>
-		
-			<item>
-				<title>Эндинг к &#39;Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season&#39;</title>
-				        
-				<description>Tuka (Hisako Kanemoto), Lelei (Nao Touyama), Rory (Risa Taneda) &amp;ndash; Itsudatte Communication (いつだってコミュニケーション) Перевод с японского &amp;mdash; Rinon Ninqueon Редактура &amp;ndash; Rise-sun Для DIMON43 Ты плечом меня слегка коснись. Цени то время, что мы провели с тобой. Мы с тобой в одной лодке поплывём под музыку живой мечты. Желание своё...</description>
-				<pubDate>Sun, 24 Jan 2016 21:00:00 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/gate_2_ed/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/gate_2_ed/</guid>
-			</item>
-		
-			<item>
-				<title>Опенинг к &#39;Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season&#39;</title>
-				        
-				<description>Kishida Kyoudan &amp;amp; The Akeboshi Rockets &amp;ndash; GATE II: Sekai wo Koete (GATE Ⅱ ～世界を超えて～) Перевод с японского &amp;mdash; Rinon Ninqueon Редактура &amp;ndash; Rise-sun Для DIMON43 Не думай ты, что правильно поступил тогда, - это не так. Решение, рождённое в страстном споре,- дураков мечта. Но мечтать свойственно всем: без мечты...</description>
-				<pubDate>Sun, 24 Jan 2016 20:00:00 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/gate_2_op/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/gate_2_op/</guid>
-			</item>
-		
-			<item>
-				<title>Эндинг к &#39;Faraway Story RPG&#39;</title>
-				        
-				<description>Tamaki Kinoshita &amp;ndash; 空の邂逅 / Sora no kaigou A Chance Meeting in the Sky Случайная Встреча в Небесах Перевод с японского &amp;mdash; Rinon Ninqueon Translated from japanese &amp;mdash; Rinon Ninqueon Русский Рукою до нежного облака дотянуться почти невозможно Так дотянись до своего сердца ты взамен Лёгкий ветер в колыбель небесную,...</description>
-				<pubDate>Mon, 30 Nov 2015 08:30:50 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/games/FarawayStoryRPG_ed/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/games/FarawayStoryRPG_ed/</guid>
-			</item>
-		
-			<item>
-				<title>Локализация &quot;Faraway Story RPG&quot;</title>
-				        
-				<description>Faraway Story RPG Насмотрелся я на эту игру. Очень она мне понравилась. Но русской версии нету. &amp;ldquo;Почему бы не сделать?&amp;rdquo;, подумалось мне. И я делаю. Игра большая, так что процесс не быстрый. Если я в течении дня что-то сделал, я обновляю репозиторий. Английский перевод можете найти тут. Пока что, мой...</description>
-				<pubDate>Fri, 27 Nov 2015 15:00:00 +0600</pubDate>
-				<link>http://rinonninqueon.com/blog/FarawayStoryRPG/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/blog/FarawayStoryRPG/</guid>
-			</item>
-		
-			<item>
-				<title>Делаем комбик 12&quot;, часть 2</title>
-				        
-				<description>Что теперь В прошлой части я рассказал, как я делал дупло. Дупло уже рабочее, но тут мне ударила в голову известная жидкость. Так что на этот раз поговорим об электронной начинке. УМЗЧ Первым делом надо определиться с выходной мощностью. Так как мой динамик 30 Вт, то и усилитель стоит делать...</description>
-				<pubDate>Sun, 15 Nov 2015 21:30:21 +0600</pubDate>
-				<link>http://rinonninqueon.com/schematics/cabinet_2/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/schematics/cabinet_2/</guid>
-			</item>
-		
-			<item>
-				<title>Эндинг к &#39;Исчезновение Юки Нагато&#39;</title>
-				        
-				<description>Minori Chihara &amp;ndash; Arigatou, Daisuki (ありがとう、だいすき) Перевод с японского &amp;mdash; Rinon Ninqueon Лишь услышав голос твой зовёт меня В груди разгорелось пламя Быть с тобою рядом счастливо мне Не упусти тот миг Лёгким ветерком подуло, принесло любовь Ветерком, что грезит о грядущих днях Передать хочу, то волнение Что сделало меня...</description>
-				<pubDate>Sun, 08 Nov 2015 21:45:50 +0600</pubDate>
-				<link>http://rinonninqueon.com/translate/anime/nagato_yuki_chan_no_shoushitsu_ed/</link>
-				<guid isPermaLink="true">http://rinonninqueon.com/translate/anime/nagato_yuki_chan_no_shoushitsu_ed/</guid>
-			</item>
-		
+		{% endfor %}
 	</channel>
 </rss>

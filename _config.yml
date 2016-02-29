@@ -1,0 +1,17 @@
+name: Rinon Ninqueon
+title: Rinon Ninqueon Electronics
+email: mail@rinonninqueon.com
+description: "Заметки по электронике и музыке и переводы."
+baseurl: ""
+url: "http://rinonninqueon.com"
+
+destination: ./_site
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough", "smart"]
+relative_permalinks: true
+permalink: /:categories/:title/
+pagination: 15
+paginate_path : "/page:num"
+highlighter: false
+encoding: utf-8

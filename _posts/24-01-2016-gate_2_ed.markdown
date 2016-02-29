@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Эндинг к 'Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season'"
+date:   2016-01-24 15:00:00
+categories: [translate, anime]
+---
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+		<center>
+          <div class="modal-body">               
+          </div>
+		</center>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+<div class="thumbnails">
+</div>
+
+### Tuka (Hisako Kanemoto), Lelei (Nao Touyama), Rory (Risa Taneda) &ndash; Itsudatte Communication (いつだってコミュニケーション)
+
+Перевод с японского --- Rinon Ninqueon<br>
+Редактура -- Rise-sun<br>
+Для <a href="http://vk.com/id25368686">DIMON43</a><br>
+<hr>
+Ты плечом меня слегка коснись. Цени то время, что мы провели с тобой.<br>
+Мы с тобой в одной лодке поплывём под музыку живой мечты.<br>
+<br>
+Желание своё поведай нам. Все постараются его исполнить.<br>
+Все зеленью покрыто, звёзды сияют - вот, чего я хочу!<br>
+<br>
+Ты приготовься только!<br>
+<br>
+Далеко, очень далеко с тобою вместе мы пойдём плечом к плечу!<br>
+Прислушайся - стучат наши сердца, и каждый день прекраснее другого.<br>
+Далеко, на краешке Земли, надежды наши и грядущее.<br>
+Ты слезам не дай пролиться зря, не плохо бы возвращаться нам иногда.<br>
+<br><p>Также можете заглянуть в <a href="https://github.com/RinonNinqueon/source/tree/master/translate">репозиторий</a>. Тут можете найти подробный разбор переводов.</p>
+<br><br><br><br><br>

@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Опенинг к 'Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season'"
+date:   2016-01-24 14:00:00
+categories: [translate, anime]
+---
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+		<center>
+          <div class="modal-body">               
+          </div>
+		</center>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+<div class="thumbnails">
+</div>
+
+### Kishida Kyoudan & The Akeboshi Rockets &ndash; GATE II: Sekai wo Koete (GATE Ⅱ ～世界を超えて～)
+
+Перевод с японского --- Rinon Ninqueon<br>
+Редактура -- Rise-sun<br>
+Для <a href="http://vk.com/id25368686">DIMON43</a><br>
+<hr>
+Не думай ты, что правильно поступил тогда, - это не так.<br>
+Решение, рождённое в страстном споре,- дураков мечта.<br>
+Но мечтать свойственно всем: без мечты нам не прожить и дня.<br>
+Кого-то потеряв, уже не вернёшь, незаменим здесь каждый...<br>
+Но если так случилось, что мы сделать можем?<br>
+Наверное, в эти времена осталось только одно нам... Давай сражаться до конца!<br>
+<br>
+Значение мира бескрайнего сего мы знаем<br>
+И, следуя за ветром, продолжаем свою борьбу.<br>
+Хоть мы и смеялись в прошлом над людьми, сейчас все позабыто!<br>
+Будущее наше радужно сверкает. Просто сделай шаг вперёд!<br>
+<br><p>Также можете заглянуть в <a href="https://github.com/RinonNinqueon/source/tree/master/translate">репозиторий</a>. Тут можете найти подробный разбор переводов.</p>
+<br><br><br><br><br>

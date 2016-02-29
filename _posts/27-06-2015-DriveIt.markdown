@@ -1,0 +1,202 @@
+---
+layout: post
+title:  "Педаль перегруза DriveIt!"
+date:   2015-06-27 21:31:41
+categories: schematics
+---
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+		<center>
+          <div class="modal-body">               
+          </div>
+		</center>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+<div class="thumbnails">
+</div>
+
+### Предыстория
+
+Долгое время играл с такой педалью как [OmniDrive](https://guitar-gear.ru/forum/topic/86-omni-drive/). Штука хорошая, много чего есть, прямо аналоговый процессор.<br>
+Но меня доканал повышений фон. Что-то заводилось иногда. Питать от блока питания бесполезно, только батарейка. Да и то, когда напряжение просаживается, начинает выть.<br>
+Вероятно, виновата сборка, но выяснять причины не хочется.<br>
+Так же с покупкой страта хотелось чуть больше перегруза на слабых синглах, да и точность нот побольше.<br>
+
+### Начало
+
+Начал я пересматривать схемы в поисках интересного решения. Да вот и нашёл!<br>
+Это Mesa Boogie V-Twin Preamp. Там стоит интересный ограничитель. Добавил ему один диод и положил за основу. Только не на землю, а в обратную связь операционника.<br>
+Так же меня заинтересовала схема Boss Heavy Metal HM-2(3). Там используются германиевые диоды как "бюджетный" Noise Gate. Ну и дополнительное ограничение после них. Берём!<br>
+Темброблок взял со своего комбика --- Marshall Valvestate 8020. Ну уж очень мне нравятся эти регулировки.<br>
+Теперь до перегруза надо сигнал раскачать. Операционник поставить надо. Тут-то и произошёл интересный косяк. Что-то в симуляторе я попутал, и зацепил обратную связь совсем не туда. А именно, не на выход, а к обратной связи второго каскада. Подумал, "ну работает, чё", и оставил.<br>
+После тоже надо операционник, ибо пассивный темброблок сильно ослабляет сигнал.<br>
+В последнее время я повадился делать подсветку педалям. Вдохновился [этим](http://datagor.ru/practice/diy-tech/2009-sdelay-sam-led-bordyur-dlya-korpusa-gitarnoy-primochki.html).<br>
+Но мало мне! Сделал динамическую подсветку. Просто --- детектор, транзистор, светодиод. На выхлоп брать там, где амплитуда больше. В данном случае --- после OP1:B.<br>
+Ну, готово. Схема такова:<br>
+<div class="thumbnails">
+	<li class="tmb">
+	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+      <img src="/img/DriveIt/DriveIt_1_preview.JPG" alt="/img/DriveIt/DriveIt_1.JPG" class="img-thumbnail"><br>
+	  <center>Схема 1</center>
+	</span>
+   	</li>
+</div>
+
+### Исправления
+
+Выложив это творение на суд педалестроителей, меня ткнули мордой в ошибки.<br>
+Во первых, входное сопротивление. Оно получилось низким. Так что можно задействовать половину OP2:B, сгородив на нём повторитель.<br>
+Сказано --- сделано. Но теперь девайс выдавал кучу высоких.<br>
+Побороть их получилось, добавив один кондёр на 1.2 нФ между инверсным входом и выходом OP1:B. Дополнительно  изменил C3 на 200 пф и добавил 22 пФ параллельно R25. C2 поставил побольше --- 200 нФ.<br>
+Усиление прибрал --- R4 сделал 75 кОм, R6 --- 470 кОм.<br>
+Итого:<br>
+<div class="thumbnails">
+	<li class="tmb">
+	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+      <img src="/img/DriveIt/DriveIt_2_preview.JPG" alt="/img/DriveIt/DriveIt_2.JPG" class="img-thumbnail"><br>
+	  <center>Схема 2</center>
+	</span>
+   	</li>
+</div>
+
+### Те же яйца, только больше
+
+Погоняв ~~лысого~~ педаль, понял, что она может больше, чем только перегруз. При минимуме усиления выдаёт очень вкусный чистый, особенно со стратом. Так было решено добавить второй канал.<br>
+Усиление чистого будет от 1 до 10. Остальное --- перегруз.<br>
+Так же надо второй темброблок для чистого. И отцепить диоды нойз-гейта.<br>
+Вроде, ничего сложного. Только второй футсвитч появляется.<br>
+Номиналы не поменялись, разве что дополнительный резистор последовательно с переменником Gain на перегрузе, чтобы в чистый не сказывался (хотя, ему диоды не дадут).<br>
+<div class="thumbnails">
+	<li class="tmb">
+	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+      <img src="/img/DriveIt/DriveIt_3_preview.JPG" alt="/img/DriveIt/DriveIt_3.JPG" class="img-thumbnail"><br>
+	  <center>Схема 3</center>
+	</span>
+   	</li>
+</div>
+
+### Общие замечания
+
+Я тут экспериментировал с диодами, и пришёл к выводу, что 1N4148 --- фигня. Ну не нравится звук и всё тут. В результате, остался на советских Д220Б.<br>
+Германиевые --- Д2, Д9, Д18, Д311. Напряжение открывания около 280 мВ. Можно попробовать использовать переход германиевого транзистора МП или ГТ (сам не пробовал)<br>
+
+Так же, стоит отрегулировать усиление R4 под звукосниматели. Я тут свою SG воткнул --- это была мясорубка! Звучки-то зверские, выдают почти вольт амплитуды. Зато митол рубить самое-то.<br>
+
+Выяснилось, что детектор подсирает в звук на чистом. Поэтому рекомендую поставить в разрыв C7 какой-нибудь резюк от 20 кОм.<br>
+
+### Сборка
+
+Остались кое-какие файлики для Proteus 7.10.<br>
+В репозитории: [Схема 1](https://github.com/RinonNinqueon/source/tree/master/schematics/proteus/DriveIt/1) [Схема 3](https://github.com/RinonNinqueon/source/tree/master/schematics/proteus/DriveIt/3).<br>
+	
+<div class="row">
+	<div class="col-xs-6 col-md-3">
+		<li class="tmb">
+		<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+			<img src="/img/DriveIt/1_preview.JPG" alt="/img/DriveIt/1.JPG" class="img-thumbnail">
+		</span>
+		</li>
+	</div>
+	<div class="col-xs-6 col-md-3">
+		<li class="tmb">
+		<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+			<img src="/img/DriveIt/2_preview.JPG" alt="/img/DriveIt/2.JPG" class="img-thumbnail">
+		</span>
+		</li>
+	</div>
+	<div class="col-xs-6 col-md-3">
+		<li class="tmb">
+		<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+			<img src="/img/DriveIt/3_preview.JPG" alt="/img/DriveIt/3.JPG" class="img-thumbnail">
+		</span>
+		</li>
+	</div>
+	<div class="col-xs-6 col-md-3">
+		<li class="tmb">
+		<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+			<img src="/img/DriveIt/4_preview.JPG" alt="/img/DriveIt/4.JPG" class="img-thumbnail">
+		</span>
+		</li>
+	</div>
+</div>
+
+
+### Семплы
+
+Их много скопилось.<br>
+
+####Схема 1
+
+Абстрактное бряканье, Pink Floyd, Metallica<br>
+<audio src="/samples/DriveIt!_sample_1_1.mp3" preload="none" /><br>
+
+Это страт, синглы<br>
+00:00 Сначала максимум верхов (ахтунг!)<br>
+00:15 Потом прибрал громкость на гитаре.<br>
+00:35 Потом Нэковый сингл.<br>
+00:55 Громкость в норму, бридж.<br>
+01:00 Ручка Contour<br>
+01:08 Ручка Presence<br>
+01:20 Металлика на бриджевом сингле.<br>
+02:02 Более митольный звук сделал.<br>
+02:30 Gain на максимум.<br>
+
+Pearl Kyoudai --- Omae to Ore no Enjou Douro<br>
+<audio src="/samples/DriveIt!_sample_1_2.mp3" preload="none" /><br>
+
+Ритм -- страт, синглы<br>
+Соло -- SG, хамбакеры<br>
+
+Абстрактное бряканье, Dondake Fanfare, Kenka Yohou no Jikan dayo, Pink Floyd<br>
+<audio src="/samples/DriveIt!_sample_1_3.mp3" preload="none" /><br>
+
+Это страт, комбик сделал погромче, микрофон подальше.<br>
+
+#### Схема 2
+
+God Knows...<br>
+<audio src="/samples/DriveIt!_sample_2_1.mp3" preload="none" /><br>
+
+Страт.<br>
+
+Dondake Fanfare<br>
+<audio src="/samples/DriveIt!_sample_2_2.mp3" preload="none" /><br>
+
+Страт.<br><br>
+
+Абстрактное бряканье, Pink Floyd, Metallica<br>
+<audio src="/samples/DriveIt!_sample_2_3.mp3" preload="none" /><br>
+
+Страт.<br>
+
+Iwasaki Motoyoshi --- Chotto Mysterious<br>
+<audio src="/samples/DriveIt!_sample_2_4.mp3" preload="none" /><br>
+
+Страт.<br>
+
+#### Схема 3
+
+Абстрактное бряканье, Creedence, AC/DC, трэш, <br>
+<audio src="/samples/DriveIt!_sample_2_3.mp3" preload="none" /><br>
+
+Страт, после 3:30 --- SG<br>
+Пердёж --- детектор блока индикации. Ставьте резистор последовательно.<br>
+
+### Итог
+
+Педаль получилась хорошая. Звуком доволен. Пара знакомых гитаристов тоже выразили своё одобрение.<br>
+Общие затраты --- около 1100 рублей. Дороже всего корпус и кнопки.<br>
+Морду я уже нарисовал. Вариант для FrontDesigner 3.0: [тыц](https://github.com/RinonNinqueon/source/raw/master/schematics/proteus/DriveIt/DriveIt!.fpl).<br>
+<div class="row">
+	<div class="col-xs-6 col-md-3">
+		<li class="tmb">
+		<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+			<img src="/img/DriveIt/front_preview.JPG" alt="/img/DriveIt/front.JPG" class="img-thumbnail">
+		</span>
+		</li>
+	</div>
+</div>
+<br><br><br><br><br>
