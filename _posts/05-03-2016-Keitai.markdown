@@ -173,11 +173,11 @@ Menu->Tool->Schedule, выбираете день, New.<br>
 	data-maxwidth="1000"
 	data-minheight="300"
     data-maxheight="100%">
-	<a href="/img/keitai/DSC00852.JPG"><img src="/img/keitai/preview/DSC00852.JPG" data-caption="Philips Xenium X623"></a>
-	<a href="/img/keitai/DSC00853.JPG"><img src="/img/keitai/preview/DSC00853.JPG"data-caption="Philips Xenium X623"></a>
-	<a href="/img/keitai/DSC00854.JPG"><img src="/img/keitai/preview/DSC00854.JPG" data-caption="Sony Ericsson Z550i"></a>
-	<a href="/img/keitai/DSC00855.JPG"><img src="/img/keitai/preview/DSC00855.JPG" data-caption="Sony Ericsson Z550i"></a>
-	<a href="/img/keitai/DSC00858.JPG"><img src="/img/keitai/preview/DSC00858.JPG" data-caption="Рабочий стол"></a>
-	<a href="/img/keitai/DSC00859.JPG"><img src="/img/keitai/preview/DSC00859.JPG" data-caption="При включении"></a>
-	<a href="/img/keitai/DSC00860.JPG"><img src="/img/keitai/preview/DSC00860.JPG" data-caption="Выключение"></a>
+	<a href="/img/Keitai/DSC00852.JPG"><img src="/img/Keitai/preview/DSC00852.JPG" data-caption="Philips Xenium X623"></a>
+	<a href="/img/Keitai/DSC00853.JPG"><img src="/img/Keitai/preview/DSC00853.JPG"data-caption="Philips Xenium X623"></a>
+	<a href="/img/Keitai/DSC00854.JPG"><img src="/img/Keitai/preview/DSC00854.JPG" data-caption="Sony Ericsson Z550i"></a>
+	<a href="/img/Keitai/DSC00855.JPG"><img src="/img/Keitai/preview/DSC00855.JPG" data-caption="Sony Ericsson Z550i"></a>
+	<a href="/img/Keitai/DSC00858.JPG"><img src="/img/Keitai/preview/DSC00858.JPG" data-caption="Рабочий стол"></a>
+	<a href="/img/Keitai/DSC00859.JPG"><img src="/img/Keitai/preview/DSC00859.JPG" data-caption="При включении"></a>
+	<a href="/img/Keitai/DSC00860.JPG"><img src="/img/Keitai/preview/DSC00860.JPG" data-caption="Выключение"></a>
 </div>
