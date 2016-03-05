@@ -161,6 +161,11 @@ Menu->Tool->Schedule, выбираете день, New.<br>
 Если её долго держать, то можно вкл/выкл беззвучный режим (manner mode)<br>
 А при входящем смс нажатием на эту кнопку можно читать сообщения не открывая аппарат.<br>
 
+### Время работы
+Не скажу, что ожидал многого, но два-три дня -- это очень хорошо для аппарата 2012 года.<br>
+Заряжается девайс или через подставку, или через разъём FOMA. Зарядку надо покупать отдельно, потому что она в комплекте не идёт. Зато подходит абсолютно ко всем японофонам. Поэтому она у них переходит от телефона к телефону.<br>
+Можно через FOMA-USB кабель ещё.
+
 ### Фото:
 Несколько фото.<br>
 <div class="fotorama"
@@ -168,16 +173,15 @@ Menu->Tool->Schedule, выбираете день, New.<br>
 	data-allowfullscreen="true"
 	data-keyboard="true"
 	data-width="50%"
-	data-ratio="976/1400"
 	data-minwidth="400"
-	data-maxwidth="1000"
-	data-minheight="300"
+	data-maxwidth="1280"
+	data-minheight="720"
     data-maxheight="100%">
-	<a href="/img/Keitai/DSC00852.JPG"><img src="/img/Keitai/preview/DSC00852.JPG" data-caption="Philips Xenium X623"></a>
-	<a href="/img/Keitai/DSC00853.JPG"><img src="/img/Keitai/preview/DSC00853.JPG"data-caption="Philips Xenium X623"></a>
-	<a href="/img/Keitai/DSC00854.JPG"><img src="/img/Keitai/preview/DSC00854.JPG" data-caption="Sony Ericsson Z550i"></a>
-	<a href="/img/Keitai/DSC00855.JPG"><img src="/img/Keitai/preview/DSC00855.JPG" data-caption="Sony Ericsson Z550i"></a>
-	<a href="/img/Keitai/DSC00858.JPG"><img src="/img/Keitai/preview/DSC00858.JPG" data-caption="Рабочий стол"></a>
-	<a href="/img/Keitai/DSC00859.JPG"><img src="/img/Keitai/preview/DSC00859.JPG" data-caption="При включении"></a>
-	<a href="/img/Keitai/DSC00860.JPG"><img src="/img/Keitai/preview/DSC00860.JPG" data-caption="Выключение"></a>
+	<a href="/img/Keitai/DSC00852.JPG" data-caption="Philips Xenium X623"><img src="/img/Keitai/preview/DSC00852.JPG"></a>
+	<a href="/img/Keitai/DSC00853.JPG" data-caption="Philips Xenium X623"><img src="/img/Keitai/preview/DSC00853.JPG"></a>
+	<a href="/img/Keitai/DSC00854.JPG" data-caption="Sony Ericsson Z550i"><img src="/img/Keitai/preview/DSC00854.JPG"></a>
+	<a href="/img/Keitai/DSC00855.JPG" data-caption="Sony Ericsson Z550i"><img src="/img/Keitai/preview/DSC00855.JPG"></a>
+	<a href="/img/Keitai/DSC00858.JPG" data-caption="Рабочий стол"><img src="/img/Keitai/preview/DSC00858.JPG"></a>
+	<a href="/img/Keitai/DSC00859.JPG" data-caption="При включении"><img src="/img/Keitai/preview/DSC00859.JPG"></a>
+	<a href="/img/Keitai/DSC00860.JPG" data-caption="Выключение"><img src="/img/Keitai/preview/DSC00860.JPG"></a>
 </div>
