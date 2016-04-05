@@ -69,7 +69,7 @@ sudo adduser ВАШЕ_ИМЯ_ПОЛЬЗОВАТЕЛЯ audio<br>
 <code>cd calf<br>
 sh ./autogen.sh<br>
 make -j8<br>
-make install<br>
+sudo make install<br>
 </code>
 
 Перезагрузитесь.<br>
