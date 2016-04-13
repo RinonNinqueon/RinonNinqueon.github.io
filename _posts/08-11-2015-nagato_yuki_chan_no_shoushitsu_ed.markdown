@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Эндинг к 'Исчезновение Юки Нагато'"
+title:  "Эндинг к 'Nagato Yuki-chan no Shoushitsu'"
 date:   2015-11-08 15:45:50
 categories: [translate, anime]
 ---

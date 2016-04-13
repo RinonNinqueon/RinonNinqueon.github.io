@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Опенинг к 'Исчезновение Юки Нагато'"
+title:  "Опенинг к 'Nagato Yuki-chan no Shoushitsu'"
 date:   2015-11-06 15:45:50
 categories: [translate, anime]
 ---
