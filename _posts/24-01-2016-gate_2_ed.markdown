@@ -2,7 +2,7 @@
 layout: post
 title:  "Эндинг к 'Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season'"
 date:   2016-01-24 15:00:00
-categories: [translate, anime]
+categories: [translate, song]
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

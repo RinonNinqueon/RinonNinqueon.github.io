@@ -2,7 +2,7 @@
 layout: post
 title:  "Эндинг к 'Faraway Story RPG'"
 date:   2015-11-30 2:30:50
-categories: [translate, games]
+categories: [translate, song]
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

@@ -1,0 +1,18 @@
+---
+layout: default
+title: Переводы аниме || Rinon Ninqueon
+---
+
+<div class="container">
+<p>С некоторого времени увлёкся переводами с японского.<br>
+В основном это манга, аниме и песни -- опенинги, эндинги.</p>
+<h3>Песни:</h3>
+<ul class="posts">
+    {% for post in site.categories.song %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+<p>Также можете заглянуть в <a href="https://github.com/RinonNinqueon/source/tree/master/translate">репозиторий</a>. Тут можете найти подробный разбор переводов.</p>
+<br>
+На Kage: <a href="http://fansubs.ru/base.php?au=3177">тыц</a>.<br>
+</div>

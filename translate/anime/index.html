@@ -1,18 +1,23 @@
 ---
 layout: default
-title: Переводы аниме || Rinon Ninqueon
+title: Переводы || Rinon Ninqueon
 ---
 
 <div class="container">
 <p>С некоторого времени увлёкся переводами с японского.<br>
-В основном это манга и песни -- опенинги, эндинги.</p>
-<h3>Песни:</h3>
+В основном это манга, аниме и песни -- опенинги, эндинги.</p>
+<h3>Аниме:</h3>
 <ul class="posts">
-    {% for post in site.categories.anime %}
+	<li><span>Весна 2016</span> &raquo; <a href ="http://www.fansubs.ru/base.php?id=5413">Anne Happy</a> &ndash; перевод трейлеров с японского, перевод сериала, оформление</li>
+	<li><span>Зима 2016 (Осень 2015)</span> &raquo; <a href ="http://www.fansubs.ru/base.php?id=5367">Shisha no Teikoku</a> &ndash; перевод фильма с японского</li>
+	<li><span>Зима 2016</span> &raquo; <a href ="http://www.fansubs.ru/base.php?id=5290">Musaigen no Phantom World</a> &ndash; перевод трейлеров с японского, перевод сериала, оформление</li>
+	<li><span>Зима 2016</span> &raquo; <a href ="http://www.fansubs.ru/base.php?id=5306">Dagashi Kashi</a> &ndash; перевод трейлеров с японского</li>
+	<li><span>Осень 2015</span> &raquo; <a href ="http://www.fansubs.ru/base.php?id=5270">Nagato Yuki-chan no Shoushitsu OVA</a> &ndash; перевод OVA с японского</li>
+	<li><span>Осень 2015</span> &raquo; <a href ="http://www.fansubs.ru/base.php?id=5196">Rakudai Kishi no Cavalry</a> &ndash; перевод сериала: 9, 10 серии</li>
+	{% for post in site.categories.anime %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
-<p>Также можете заглянуть в <a href="https://github.com/RinonNinqueon/source/tree/master/translate">репозиторий</a>. Тут можете найти подробный разбор переводов.</p>
-<br>
+<p>Также можете заглянуть в <a href="https://github.com/RinonNinqueon/source/tree/master/translate">репозиторий</a>. Тут можете найти подробный разбор переводов.</p><br>
 На Kage: <a href="http://fansubs.ru/base.php?au=3177">тыц</a>.<br>
 </div>

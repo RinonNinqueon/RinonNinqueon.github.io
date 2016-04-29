@@ -2,7 +2,7 @@
 layout: post
 title:  "Эндинг к 'Nagato Yuki-chan no Shoushitsu'"
 date:   2015-11-08 15:45:50
-categories: [translate, anime]
+categories: [translate, song]
 ---
 
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">

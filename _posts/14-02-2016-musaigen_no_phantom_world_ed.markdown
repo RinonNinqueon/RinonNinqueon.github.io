@@ -2,7 +2,7 @@
 layout: post
 title:  "Эндинг к 'Musaigen no Phantom World'"
 date:   2016-02-14 20:00:00
-categories: [translate, anime]
+categories: [translate, song]
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

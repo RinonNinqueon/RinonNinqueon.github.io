@@ -2,7 +2,7 @@
 layout: post
 title:  "Опенинг к 'Hidan No Aria AA'"
 date:   2015-10-08 15:45:50
-categories: [translate, anime]
+categories: [translate, song]
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

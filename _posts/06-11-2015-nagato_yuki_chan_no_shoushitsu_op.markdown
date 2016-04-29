@@ -2,7 +2,7 @@
 layout: post
 title:  "Опенинг к 'Nagato Yuki-chan no Shoushitsu'"
 date:   2015-11-06 15:45:50
-categories: [translate, anime]
+categories: [translate, song]
 ---
 
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">

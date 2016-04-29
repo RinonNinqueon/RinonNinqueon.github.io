@@ -2,7 +2,7 @@
 layout: post
 title:  "Опенинг к 'One Punch Man'"
 date:   2015-10-19 15:45:50
-categories: [translate, anime]
+categories: [translate, song]
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
@@ -25,7 +25,7 @@ categories: [translate, anime]
 Для <a href="http://vk.com/yukiosub">YukioSub</a><br>
 <hr>
 Один Удар!<br>
-3, 2, 1, прекрасно!<br>
+3, 2, 1, удар!<br>
 <br>
 Бой, триумф, в истории сильнейший!<br>
 Что сказал ты, разочарован? Меня не остановить!<br>
