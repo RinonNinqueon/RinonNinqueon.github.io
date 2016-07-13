@@ -35,7 +35,7 @@ categories: schematics
 <div class="thumbnails">
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
-      <img src="/img/DriveIt/DriveIt_5_preview.JPG" alt="/img/DriveIt/DriveIt_5.JPG" class="img-thumbnail"><br>
+      <img src="/img/DriveIt/DriveIt_5_preview.png" alt="/img/DriveIt/DriveIt_5.png" class="img-thumbnail"><br>
 	  <center>Rev.03 схема</center>
 	</span>
    	</li>
