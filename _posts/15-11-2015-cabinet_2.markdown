@@ -20,7 +20,7 @@ categories: schematics
 
 ### Что теперь
 
-В [прошлой части](http://rinonninqueon.ru/schematics/cabinet_1/) я рассказал, как я делал дупло. Дупло уже рабочее, но тут мне ударила в голову известная жидкость.<br>
+В [прошлой части](/schematics/cabinet_1/) я рассказал, как я делал дупло. Дупло уже рабочее, но тут мне ударила в голову известная жидкость.<br>
 Так что на этот раз поговорим об электронной начинке.<br>
 
 ### УМЗЧ
@@ -268,7 +268,7 @@ categories: schematics
 	</div>
 </div>
 
-К примеру, весь альбом [Shinkyuu](http://rinonninqueon.ru/music/Shinkyuu/) был записан с этого аппарата.<br>
+К примеру, весь альбом [Shinkyuu](/music/Shinkyuu/) был записан с этого аппарата.<br>
 Так же у меня остались файлики для Proteus 7.10: [тыц](https://github.com/RinonNinqueon/source/tree/master/schematics/proteus/cabinet)<br>
 
 <br><br><br><br><br>

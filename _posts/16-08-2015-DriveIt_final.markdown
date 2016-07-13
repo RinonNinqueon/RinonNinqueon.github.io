@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Педаль перегруза DriveIt! -- финал"
+title:  "Педаль перегруза DriveIt! - финал"
 date:   2015-08-16 23:30:21
 categories: schematics
 ---
@@ -18,7 +18,7 @@ categories: schematics
 <div class="thumbnails">
 </div>
 
-(Начало --- [Педаль перегруза DriveIt!](http://rinonninqueon.github.io/schematics/DriveIt/))
+(Начало --- [Педаль перегруза DriveIt!](/schematics/DriveIt/))
 
 ### Последние штрихи
 
@@ -51,7 +51,7 @@ categories: schematics
 <div class="thumbnails">
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
-      <img src="/img/DriveIt/5_preview.JPG" alt="/img/DriveIt/5_1.JPG" class="img-thumbnail"><br>
+      <img src="/img/DriveIt/5_preview.JPG" alt="/img/DriveIt/5.JPG" class="img-thumbnail"><br>
 	  <center>Девайс в сборе</center>
 	</span>
    	</li>
