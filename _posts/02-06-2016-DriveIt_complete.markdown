@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Педаль перегруза DriveIt! -- работа над ошибками"
+title:  "Педаль перегруза DriveIt! - работа над ошибками"
 date:   2016-06-02 15:30:21
 categories: schematics
 ---
@@ -48,7 +48,7 @@ categories: schematics
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/DriveIt/7_preview.JPG" alt="/img/DriveIt/7.JPG" class="img-thumbnail"><br>
-	  <center>Девайс в сборе</center>
+	  <center>Два близнеца</center>
 	</span>
    	</li>
 </div>
