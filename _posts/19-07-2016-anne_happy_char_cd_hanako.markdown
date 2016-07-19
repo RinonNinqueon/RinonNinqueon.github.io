@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anne Happy Character CD: Hanakoizumi An"
+title:  "Anne Happy Character CD - Hanakoizumi An"
 date:   2016-07-19 14:45:50
 categories: [translate, song]
 ---
