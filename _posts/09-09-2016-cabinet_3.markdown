@@ -55,9 +55,9 @@ categories: schematics
 	data-allowfullscreen="true"
 	data-keyboard="true"
 	data-width="50%"
-	data-minwidth="400"
+	data-minwidth="720"
 	data-maxwidth="1280"
-	data-minheight="720"
+	data-minheight="405"
     data-maxheight="100%">
 	<a href="/img/cabinet/DSC01107.JPG" data-caption="Задние стенки"><img src="/img/cabinet/DSC01107_preview.JPG"></a>
 	<a href="/img/cabinet/DSC01108.JPG" data-caption="Корпус"><img src="/img/cabinet/DSC01108_preview.JPG"></a>
