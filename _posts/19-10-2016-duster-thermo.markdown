@@ -84,7 +84,7 @@ categories: schematics
 <div class="thumbnails">
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
-      <img src="/img/duster/2.png" alt="/img/duster/2.png" class="img-thumbnail"><br>
+      <img src="/img/duster/3.png" alt="/img/duster/3.png" class="img-thumbnail"><br>
 	  <center>Дупло</center>
 	</span>
    	</li>
