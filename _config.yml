@@ -8,9 +8,11 @@ url: "http://rinonninqueon.ru"
 destination: ./
 markdown: kramdown
 kramdown:
+ input: GFM
+ hard_wrap: false
  extensions: ["strikethrough", "smart"]
 permalink: /:categories/:title/
 pagination: 15
 paginate_path : "/page:num"
-highlighter: false
+highlighter: rouge
 encoding: utf-8
