@@ -4,7 +4,6 @@ title:  "Опенинг к 'Yuyushiki: Komarasetari, Komarasaretari'"
 date:   2017-03-28 15:45:50
 categories: [translate, song]
 ---
-
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
