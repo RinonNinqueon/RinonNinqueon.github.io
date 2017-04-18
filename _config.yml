@@ -13,6 +13,6 @@ kramdown:
  extensions: ["strikethrough", "smart"]
 permalink: /:categories/:title/
 pagination: 15
-paginate_path : "/page:num"
+paginate_path: "/page:num"
 highlighter: rouge
 encoding: utf-8
