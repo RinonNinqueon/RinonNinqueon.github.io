@@ -1,9 +1,9 @@
 name: Rinon Ninqueon
 title: Rinon Ninqueon Electronics
-email: mail@rinonninqueon.com
+email: mail@rinonninqueon.ru
 description: "Заметки по электронике и музыке и переводы."
 baseurl: ""
-url: "http://rinonninqueon.com"
+url: "http://rinonninqueon.ru"
 
 destination: ./
 markdown: kramdown
