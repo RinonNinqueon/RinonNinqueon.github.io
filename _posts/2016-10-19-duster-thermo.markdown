@@ -137,7 +137,7 @@ categories: schematics
 	<a href="/img/duster/DSC01116.JPG" data-caption="Врезка в прикуриватель"><img src="/img/duster/DSC01116.JPG"></a>
 	<a href="/img/duster/DSC01118.JPG" data-caption="Разъёмы"><img src="/img/duster/DSC01118.JPG"></a>
 	<a href="/img/duster/DSC01120.JPG" data-caption="Уплотнитель со стороны капота"><img src="/img/duster/DSC01120.JPG"></a>
-	<a href="/img/duster/DSC01122.JPG" data-caption="Датчик, куча термоусадки с верёвка"><img src="/img/duster/DSC01122.JPG"></a>
+	<a href="/img/duster/DSC01122.JPG" data-caption="Датчик, куча термоусадки, верёвка"><img src="/img/duster/DSC01122.JPG"></a>
 	<a href="/img/duster/DSC01123.JPG" data-caption="Петля, датчик и изолента (facepalm)"><img src="/img/duster/DSC01123.JPG"></a>
 	<a href="/img/duster/DSC01124.JPG" data-caption="Где-то тут можно добраться до уплотнителя"><img src="/img/duster/DSC01124.JPG"></a>
 	<a href="/img/duster/DSC01126.JPG" data-caption="Прибор"><img src="/img/duster/DSC01126.JPG"></a>
