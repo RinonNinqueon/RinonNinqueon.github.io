@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Эндинг к 'Yuyushiki: Komarasetari, Komarasaretari'"
+title:  "Эндинг к 'Yuyushiki&#58 Komarasetari, Komarasaretari'"
 date:   2017-03-28 16:45:50
 categories: [translate, song]
 ---
