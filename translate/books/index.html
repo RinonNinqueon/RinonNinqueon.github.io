@@ -1,0 +1,21 @@
+---
+layout: default
+title: Переводы манги и ранобе || Rinon Ninqueon
+---
+
+<div class="container">
+<p>Я увлекаюсь переводами с японского.<br>
+Это манга, ранобе, аниме и песни.</p>
+<h3>Манга:</h3>
+<ul class="posts">
+    {% for post in site.categories.manga %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+<h3>Ранобе:</h3>
+<ul class="posts">
+    {% for post in site.categories.ranobe %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+</div>
