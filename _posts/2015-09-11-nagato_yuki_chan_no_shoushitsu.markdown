@@ -11,6 +11,8 @@ categories: [translate, manga]
 <br>
 Я же перевожу непосредственно с японского. Все фразы максимально приближены к оригиналу, но, вот, со стилем у меня туго.<br>
 Перевожу я долго и лениво, поэтому не могу сказать, когда закончу все главы (на данный момент их 63), и не заброшу ли.<br>
+UPD.  
+Проект заморожен до лучших времён.  
 <br>
 <center>
 <p class="switch-group">Управление <strong class="key js-arrow" data-fotorama="#keyboard" data-show="&lt;">&larr;</strong> и <strong class="key js-arrow" data-fotorama="#keyboard" data-show="&gt;">&rarr;</strong> на клавиатуре.</p>
