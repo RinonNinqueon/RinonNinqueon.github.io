@@ -66,7 +66,7 @@ categories: schematics
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/powerbank/schematic_main_preview.png" alt="/img/powerbank/schematic_main.png" class="img-thumbnail"><br>
-	  <center>Схема 2</center>
+	  <center>Основная схема</center>
 	</span>
    	</li>
 </div>
@@ -80,7 +80,7 @@ categories: schematics
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/powerbank/schematic_ind_preview.png" alt="/img/powerbank/schematic_ind.png" class="img-thumbnail"><br>
-	  <center>Схема 2</center>
+	  <center>Схема индикатора заряда</center>
 	</span>
    	</li>
 </div>
@@ -115,7 +115,9 @@ categories: schematics
 	data-maxwidth="1280"
 	data-minheight="405"
     data-maxheight="100%">
-	<a href="/img/powerbank/DSC_0005.JPG" data-caption="1"><img src="/img/powerbank/DSC_0005_preview.JPG"></a>
-	<a href="/img/powerbank/DSC_0007.JPG" data-caption="2"><img src="/img/powerbank/DSC_0007_preview.JPG"></a>
-	<a href="/img/powerbank/DSC_0008.JPG" data-caption="3"><img src="/img/powerbank/DSC_0008_preview.JPG"></a>
+	<a href="/img/powerbank/IMG_20181014_234754_414.jpg" data-caption="Плата сверху"><img src="/img/powerbank/IMG_20181014_234754_414_preview.jpg"></a>
+	<a href="/img/powerbank/IMG_20181014_234754_418.jpg" data-caption="Плата снизу"><img src="/img/powerbank/IMG_20181014_234754_418_preview.jpg"></a>
+	<a href="/img/powerbank/DSC_0005.JPG" data-caption="Внутренности"><img src="/img/powerbank/DSC_0005_preview.JPG"></a>
+	<a href="/img/powerbank/DSC_0007.JPG" data-caption="Работает"><img src="/img/powerbank/DSC_0007_preview.JPG"></a>
+	<a href="/img/powerbank/DSC_0008.JPG" data-caption="Заряжается"><img src="/img/powerbank/DSC_0008_preview.JPG"></a>
 </div>
