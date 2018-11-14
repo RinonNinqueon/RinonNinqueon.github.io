@@ -110,6 +110,7 @@ categories: schematics
 	data-nav="thumbs"
 	data-allowfullscreen="true"
 	data-keyboard="true"
+	data-swipe="true"
 	data-width="50%"
 	data-maxwidth="1280"
     data-maxheight="100%">
