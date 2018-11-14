@@ -80,7 +80,7 @@ ript>
     var as = audiojs.createAll();
   });
   jQuery(document).ready(function($) {
-  $('ul.nav li.dropdown, ul.nav li.dropdown-submenu').hover(function() {
+  $('ul.navbar-nav div.dropdown-menu, ul.navbar-nav div.dropdown-submenu').hover(function() {
 		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeIn();
 	}, function() {
 		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeOut();
@@ -100,14 +100,17 @@ ript>
 					<li class="nav-item"><a class="nav-link" href="/">Главная</a></li>
 					<li class="nav-item"><a class="nav-link" href="/schematics">Схемы</a></li>
 					<li class="nav-item"><a class="nav-link" href="/it">IT</a></li>
-					<li  class="nav-item dropdown">
-						<a class="nav-link" href="/translate" >Переводы<span class="caret"></span></a>
-						<ul class="dropdown-menu">
-							<li><a class="nav-link" href="/translate/anime">Аниме</a></li>
-							<li><a class="nav-link" href="/translate/books">Манга/Ранобе</a></li>
-							<li><a class="nav-link" href="/translate/song">Песни</a></li>
-							<li><a class="nav-link" href="/translate/games">Игры</a></li>
-						</ul>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Переводы<span class="caret"></span></a>
+						
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="/translate">Всё</a>
+							<div class="dropdown-divider"></div>
+							<a class="dropdown-item" href="/translate/anime">Аниме</a>
+							<a class="dropdown-item" href="/translate/books">Манга/Ранобе</a>
+							<a class="dropdown-item" href="/translate/song">Песни</a>
+							<a class="dropdown-item" href="/translate/games">Игры</a>
+						</div>
 					</li>
 					<li class="nav-item"><a class="nav-link" href="http://github.com/RinonNinqueon/source">Исходники</a></li>
 					<li class="nav-item"><a class="nav-link" href="/music">Музыка</a></li>
