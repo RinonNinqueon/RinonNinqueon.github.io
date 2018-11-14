@@ -111,9 +111,7 @@ categories: schematics
 	data-allowfullscreen="true"
 	data-keyboard="true"
 	data-width="50%"
-	data-minwidth="720"
 	data-maxwidth="1280"
-	data-minheight="405"
     data-maxheight="100%">
 	<a href="/img/powerbank/IMG_20181014_234754_414.jpg" data-caption="Плата сверху"><img src="/img/powerbank/IMG_20181014_234754_414_preview.jpg"></a>
 	<a href="/img/powerbank/IMG_20181014_234754_418.jpg" data-caption="Плата снизу"><img src="/img/powerbank/IMG_20181014_234754_418_preview.jpg"></a>
