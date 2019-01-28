@@ -5,14 +5,8 @@ title: Альбомы || Rinon Ninqueon
 <h1>Альбомы</h1>
 
 <div class="row">
-{% assign counter = 0 %}
-{% assign end_div = false %}
 {% for post in site.posts %}
 	{% if post.categories contains 'albums' %}
-		{% assign modul = counter | modulo: 3 %}
-		{% if modul == 0 or forloop.first %}
-			{% assign end_div = false %}
-		{% endif %}
 		<div class="card text-center" id="releases_card">
 			<a href='{{ post.url }}'>
 				<img src="/img/albums/preview/{{ post.image }}" style='width:200px;height:200px;' class='rounded'/>
@@ -22,12 +16,4 @@ title: Альбомы || Rinon Ninqueon
 				<p>{{ post.title }}</p>
 			</div>
 		</div>
-		{% assign counter = counter | plus: 1 %}
-		{% if modul == 2 %}
-			</div>
-			{% assign end_div = true %}
-		{% endif %}
-	{% endif %}
-	{% if forloop.last and end_div == false %}
-	{% endif %}
 {% endfor %}
