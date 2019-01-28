@@ -10,16 +10,15 @@ title: Альбомы || Rinon Ninqueon
 	{% if post.categories contains 'albums' %}
 		{% assign modul = counter | modulo: 3 %}
 		{% if modul == 0 or forloop.first %}
-			<div class="row">
 			{% assign end_div = false %}
 		{% endif %}
-		<div class="col-md-4">
-			<div class="thumbnail"> 
-				<a href="{{ post.url }}">
-					<img src="/img/albums/preview/{{ post.image }}" class="img-responsive img-rounded"/>
-					<span class="label label-default">{{ post.date | date_to_string }}</span><br>
-					<p>{{ post.title }}</p>
-				</a>
+		<div class="card text-center" id="releases_card">
+			<a href='{{ post.url }}'>
+				<img src="/img/albums/preview/{{ post.image }}" class="img-responsive img-rounded"/>
+			</a>
+			<div class='card-body'>
+				<span class="badge badge-secondary">{{ post.date | date_to_string }}</span><br>
+				<p>{{ post.title }}</p>
 			</div>
 		</div>
 		{% assign counter = counter | plus: 1 %}
@@ -29,6 +28,5 @@ title: Альбомы || Rinon Ninqueon
 		{% endif %}
 	{% endif %}
 	{% if forloop.last and end_div == false %}
-		</div>
 	{% endif %}
 {% endfor %}
