@@ -24,3 +24,13 @@ html, body, .container, .content {
     position: relative;
     height: 50px;
 }
+
+#releases_card
+{
+	display: block;
+	width: 200px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

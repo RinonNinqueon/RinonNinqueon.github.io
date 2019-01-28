@@ -4,6 +4,7 @@ title: Альбомы || Rinon Ninqueon
 ---
 <h1>Альбомы</h1>
 
+<div class="row">
 {% assign counter = 0 %}
 {% assign end_div = false %}
 {% for post in site.posts %}
@@ -30,3 +31,4 @@ title: Альбомы || Rinon Ninqueon
 	{% if forloop.last and end_div == false %}
 	{% endif %}
 {% endfor %}
+</div>
