@@ -1,0 +1,135 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<a href="/img/albums/{{ page.image }}" class="thumbnail" target="_blank">
+	<img src="/img/albums/preview/{{ page.image }}" width="256px" alt="{{ page.title }}"/><br>
+</a>
+<div class="row">
+	<div class="col-md-12">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<center>
+					<h3 id="current-song-id">{{ page.title }}</h3>
+				</center>
+			</div>
+			<div class="panel-body">
+				<center>
+					<audio preload="none"></audio>
+					<br>
+	<table class="table table-hover" id="songs_table">
+	<tr>
+	<th>#</th>
+		<th>Название</th>
+		<th>Слушать</th>
+		<th>Длительность</th>
+	</tr>
+	
+	{% assign items = site.posts | sort: 'title' %}
+	{% for post in items %}
+		{% if post.categories contains 'songs' %}
+			{% if post.albums %}
+				{% for alb in post.albums %}
+					{% if alb.album == page.name %}
+						<tr sort_position="{{ alb.album_position }}">
+						<td align="center">{{ alb.album_position }}</td>
+						<td><a href="{{ post.url }}">{{ post.name }}</a></td>
+						<td class="gruppa-media-url-td" align="center">
+						{% if post.download and post.download != '' %}
+							{% for dnl in post.download %}
+								<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }}">
+									{{ dnl.name }}
+								</div>
+								{% if forloop.last == false %}
+									&nbsp;
+								{% endif %}
+							{% endfor %}
+						{% else %}
+							-
+						{% endif %}
+						</td>
+						<td align="center">
+							{% if post.length %}
+								{{ post.length }}
+							{% else %}
+								-
+							{% endif %}
+						</td>
+						</tr>
+					{% endif %}
+				{% endfor %}
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+	</tr>
+	</table>
+	<script>
+	$(document).ready(function()
+	{
+		console.log("ready");
+		var audio = audiojs.createAll()[0];
+		console.log("created");
+        $('div.gruppa-media-url').click(function(e)
+		{
+          e.preventDefault();
+		  $('div.gruppa-media-url').removeClass('playing');
+          $(this).addClass('playing');
+          audio.load($(this).attr('data-src'));
+          audio.play();
+		  var cur = "Сейчас играет: \"" + $(this).attr("alt") + "\"";
+		  $("#current-song-id").html(cur);
+        });
+		sortTable();
+	});
+	
+	function sortTable()
+	{
+	  var table, rows, switching, i, x, y, shouldSwitch;
+	  table = document.getElementById("songs_table");
+	  switching = true;
+	  /*Make a loop that will continue until
+	  no switching has been done:*/
+	  while (switching)
+	  {
+		//start by saying: no switching is done:
+		switching = false;
+		rows = table.getElementsByTagName("tr");
+		/*Loop through all table rows (except the
+		first, which contains table headers):*/
+		for (i = 1; i < (rows.length - 1); i++)
+		{
+		  //start by saying there should be no switching:
+		  shouldSwitch = false;
+		  /*Get the two elements you want to compare,
+		  one from current row and one from the next:*/
+		  x = rows[i].getElementsByTagName("td")[0];
+		  y = rows[i + 1].getElementsByTagName("td")[0];
+		  //check if the two rows should switch place:
+		  if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase())
+		  {
+			//if so, mark as a switch and break the loop:
+			shouldSwitch= true;
+			break;
+		  }
+		}
+		if (shouldSwitch)
+		{
+		  /*If a switch has been marked, make the switch
+		  and mark that a switch has been done:*/
+		  rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+		  switching = true;
+		}
+	  }
+	}
+    </script>
+				</center>
+			</div>
+		</div>
+	</div>
+</div>
+<p class="meta">{{ page.date | date_to_string }}</p>
+<hr>
+<h1>{{ page.name }}</h1>
+<div class="post">
+{{ content }}
+</div>

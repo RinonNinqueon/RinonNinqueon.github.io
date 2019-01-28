@@ -1,0 +1,87 @@
+---
+layout: default
+title: Песни || Rinon Ninqueon
+---
+	<script src="/js/player.js"></script>
+	
+<h1>Песни Песни</h1>
+<div class="row">
+	<div class="col-md-12">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<center>
+					<h3 id="current-song-id">А ещё песни можно слушать</h3>
+				</center>
+			</div>
+			<div class="panel-body">
+				<center>
+					<audio preload="none"></audio>
+				</center>
+			</div>
+		</div>
+	</div>
+</div>
+<table class="table table-hover">
+<tr>
+	<th>#</th>
+	<th>Название</th>
+	<th>Альбом</th>
+	<th>Слушать</th>
+	<th>Длительность</th>
+</tr>
+{% assign counter = 1 %}
+{% assign items = site.posts | sort: 'title' %}
+{% for post in items %}
+	{% if post.categories contains 'songs' %}
+    	<tr>
+		<td align="center">{{ counter }}</td>
+		<td><a href="{{ post.url }}">{{ post.name }}</a></td>
+		<td>
+			{% if post.albums %}
+				{% for alb in post.albums %}
+					{% if alb.album and alb.album_url %}
+						<a href="{{ alb.album_url }}">
+							{{ alb.album }}
+						</a>
+					{% else %}
+						-
+					{% endif %}
+					<br>
+				{% endfor %}
+			{% else %}
+				-
+			{% endif %}
+		</td>
+		<td class="gruppa-media-url-td" align="center">
+			{% if post.download and post.download != '' %}
+				{% for dnl in post.download %}
+					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }}">
+						<span class="span_play_button">&#9654;</span><span class="span_pause_button">&#10074;&#10074;</span>&nbsp;{{ dnl.name }}
+					</div>
+					{% if forloop.last == false %}
+						&nbsp;
+					{% endif %}
+				{% endfor %}
+			{% else %}
+				-
+			{% endif %}
+		</td>
+		<td align="center">
+			{% if post.length %}
+				{{ post.length }}
+			{% else %}
+				-
+			{% endif %}
+		</td>
+		</tr>
+		{% assign counter = counter | plus: 1 %}
+	{% endif %}
+{% endfor %}
+</table>
+<br>
+<hr>
+<br>
+<h2>Для энтузиастов</h2>
+Если захотите поковыряться в исходниках, то заходите: <a href="https://cloud.mail.ru/public/B2Ej/u15BmJFEX">ТЫЦ</a>.<br>
+Там как песни Группы, так и Rinon Ninqueon. Песни поделены на альбомы.<br>
+Учтите, что для работы вам понадобится как минимум Ardour. Из плагинов в основном Calf, Tap, Guitarix, GVST. Возможно, что-то ещё, но история это умалчивает.<br>
