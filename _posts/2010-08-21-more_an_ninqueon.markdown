@@ -33,4 +33,4 @@ image: "MoreArNinque.jpg"
 15. 23 &ndash; Написана для стихотворения Eruraina
 16. Morë Ar Ninquë (Improvisation) &ndash; Чёрное и белое. Остановите гитариста
 17. Серые дни (инструментал) &ndash; Инструментальная версия композиции Круля Я.С.
-18. Rock'n'Roll Improvisation &ndash; Остановите гитариста
+18. Rock'n'Roll Improvisation &ndash; Остановите гитариста  
