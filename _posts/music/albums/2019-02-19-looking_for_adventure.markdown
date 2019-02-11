@@ -4,7 +4,7 @@ title: "Looking for Adventure"
 description: "эксперементальный"
 date: 2019-02-19 16:00:00
 categories: albums
-name: "Adventure"
+name: "Looking for Adventure"
 image: "Adventure.jpg"
 ---
 
