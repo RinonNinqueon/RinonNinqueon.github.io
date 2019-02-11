@@ -1,9 +1,9 @@
 ---
 layout: song
-title: "Сruise | Looking for Adventure"
+title: "Cruise | Looking for Adventure"
 description: "О композиции"
 categories: songs
-name: "Сruise"
+name: "Cruise"
 date: 2019-02-13 16:01:00
 length: "2:32"
 download:
