@@ -1,0 +1,33 @@
+---
+layout: song
+title: "Сruise | Looking for Adventure"
+description: "О композиции"
+categories: songs
+name: "Сruise"
+date: 2019-02-13 16:01:00
+length: "2:32"
+download:
+ - name: 2019
+   url: "/audio/2019_Looking_for_Adventure/05_Сruise.mp3"
+   
+albums:
+ - album: "Looking for Adventure"
+   album_url: "/albums/looking_for_adventure/"
+   album_position: 5
+---
+
+
+## О композиции
+
+Порядковый номер - 39.  
+Скорей всего я придумывал основу для композиции "Сёрф российских автодорог" для [Группы](http://gruppa.utkorose.ru/).  
+Ранее были записи с импровизацией и жутким качеством, просто чтобы понять, что получается.  
+Гитары записаны с живым пружинным ревербератором.  
+
+Записано под Ubuntu в Ardour.  
+
+Из инструментов:
+- Неживая ударка
+- Чистые гитары
+- Бас
+- Орган Хаммонда

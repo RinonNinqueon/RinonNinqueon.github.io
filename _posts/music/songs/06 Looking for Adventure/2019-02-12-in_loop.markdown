@@ -1,0 +1,31 @@
+---
+layout: song
+title: "In Loop | Looking for Adventure"
+description: "О композиции"
+categories: songs
+name: "In Loop"
+date: 2019-02-12 16:01:00
+length: "2:48"
+download:
+ - name: 2019
+   url: "/audio/2019_Looking_for_Adventure/04_In_Loop.mp3"
+   
+albums:
+ - album: "Looking for Adventure"
+   album_url: "/albums/looking_for_adventure/"
+   album_position: 4
+---
+
+
+## О композиции
+
+Порядковый номер - 36.  
+Когда мы в очередной раз собрались коллективом [The How Are You], чтобы сделать и отрепетировать кавер "Назад в Архангельск" к конкурсу Аквариума... мы больше страдали фигнёй, нежели репетировали. И в одной импровизации родился этот рифф, который в последствии доведён до ума.  
+
+Записано под Ubuntu в Ardour.  
+
+Из инструментов:
+- Неживая ударка
+- Overdrive/distortion гитары
+- Бас
+- Орган Хаммонда
