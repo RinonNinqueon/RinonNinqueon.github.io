@@ -8,14 +8,20 @@
 	<meta http-equiv="content-language" content="ru" />
     <title>{{ site.name }}</title>
 	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@RinonNinqueon">
+	<meta name="twitter:creator" content="@RinonNinqueon">
 	{% if page.title %}
 		<meta property="og:title" content="{{ page.title }}">
+		<meta name="twitter:title" content="{{ page.title }}">
 	{% endif %}
 	{% if page.description %}
 		<meta property="og:description" content="{{ page.description }}">
+		<meta name="twitter:description" content="{{ page.description }}">
 	{% endif %}
 	{% if page.image %}
 		<meta property="og:image" content="{{ site.url }}{{ page.image }}">
+		<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
 	{% endif %}
 	{% if page.url %}
 		<meta property="og:url" content="{{ site.url }}{{ page.url }}">
