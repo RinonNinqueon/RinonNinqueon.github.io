@@ -7,6 +7,7 @@ categories: [translate, song]
 
 ### Maekawa Yoko (前川陽子) &ndash; Mahou no Mambo (魔法のマンボ)
 
+Волшебное мамбо  
 Перевод с японского --- Rinon Ninqueon<br>
 Редактура --- Num Templar<br>
 <hr>

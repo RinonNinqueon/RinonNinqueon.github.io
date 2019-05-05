@@ -5,8 +5,9 @@ date:   2018-09-16 18:15:50
 categories: [translate, song]
 ---
 
-### Yukari Asai, Masako Nozawa, Midori Kato and Michiko Hirai &ndash; "Itazura no Uta (いたずらのうた)"
+### Yukari Asai (朝井ゆかり), Masako Nozawa (野沢雅子), Midori Kato (加藤みどり), Michiko Hirai (平井道子) &ndash; "Itazura no Uta (いたずらのうた)"
 
+Шаловливая песня  
 Перевод с японского --- Rinon Ninqueon<br>
 <hr>
 (Пацаны)  
