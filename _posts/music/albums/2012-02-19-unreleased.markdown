@@ -32,3 +32,6 @@ image: "Unreleased.jpg"
 15. Palë &ndash; Rock
 16. Lóna &ndash; Остров  
 
+## Нелюди
+
+* Guitar Pro
