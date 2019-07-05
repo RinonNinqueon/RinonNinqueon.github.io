@@ -23,3 +23,16 @@ image: "Shinkyuu.jpg"
 6. Jikken da! (実験だ！) &ndash; Ээээксперимент! - хотелось чего-то необычного и подвижного
 7. Ressha (列車) &ndash; Поезд, автор - Круль Я.С.
 8. Uchuu (宇宙) &ndash; Космос - эксперименты с электронной музыкой  
+
+
+## Нелюди
+
+* FL Studio
+* Cubase &ndash; для Natsu no Taiyo, ритм-гитара ещё с записи 2011 года; Часть партий Ressha тоже  
+* Гитара Aria Pro II SL420  
+* Гитара Jay Turser JT-300  
+* Синтезатор Yamaha PSR-295  
+* Микрофон *AKG Perception 120*
+* Педаль перегруза *[DriveIt!](http://rinonninqueon.ru/schematics/DriveIt_complete/)*
+* Самодельный гибридный *[комбо-усилитель](http://rinonninqueon.ru/schematics/cabinet_3/)*
+* Звуковая карта Focusrite Scarlett 2i2  
