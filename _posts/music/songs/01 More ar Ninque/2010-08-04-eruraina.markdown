@@ -1,0 +1,52 @@
+---
+layout: song
+title: "Eruraina | Morë Ar Ninquë"
+description: "О композиции"
+categories: songs
+name: "Eruraina"
+date: 2010-08-04 16:01:00
+length: "3:54"
+download:
+ - name: 2010
+   url: "/audio/2010_More_ar_Ninque/02_Eruraina.mp3"
+   
+albums:
+ - album: "Morë Ar Ninquë"
+   album_url: "/albums/more_an_ninque/"
+   album_position: 2
+---
+
+
+## О композиции
+
+Порядковый номер - утерян.  
+Песня, посвящённая девушке, которую я называл Eruraina.  
+
+Из инструментов:
+- Электрогитара
+- Блок-флейта
+- Ударка и бас - из набора Guitar Pro RSE
+  
+## Слова
+
+Ëa vanya wendë  
+Lá cenneccë  
+Carni fininya  
+Fainar  
+  
+Eruraina, Eruraina,  
+Mélinyet, ai, Eruraina!  
+Attuluvatyë na nin,  
+Istanyë!  
+  
+Illy ner mára  
+Nan melmë firnë  
+Lá enyalarë  
+Nan melinyes  
+  
+Eruraina, Eruraina,  
+Mélinyet, ai, Eruraina!  
+Attuluvatyë na nin,  
+Istanyë!  
+
+А перевод не дам!  
