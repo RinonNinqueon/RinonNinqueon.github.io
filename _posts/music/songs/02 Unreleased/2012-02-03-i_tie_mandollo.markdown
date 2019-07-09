@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "I Tië Mandollo | Unrelased"
+title: "I Tië Mandollo | Unreleased"
 description: "О композиции"
 categories: songs
 name: "I Tië Mandollo"
@@ -11,7 +11,7 @@ download:
    url: "/audio/2012_Unreleased/01_I_Tie_Mandollo.mp3"
    
 albums:
- - album: "Unrelased"
+ - album: "Unreleased"
    album_url: "/albums/unreleased/"
    album_position: 1
 ---
