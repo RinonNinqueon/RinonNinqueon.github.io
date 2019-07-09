@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Palë'r'Quitë | Morë Ar Ninquë"
+title: "Palë'r'Quitë | Morë ar Ninquë"
 description: "О композиции"
 categories: songs
 name: "Palë'r'Quitë"
@@ -11,7 +11,7 @@ download:
    url: "/audio/2010_More_ar_Ninque/08_Pale_r_Quite.mp3"
    
 albums:
- - album: "Morë Ar Ninquë"
+ - album: "Morë ar Ninquë"
    album_url: "/albums/more_an_ninque/"
    album_position: 8
 ---

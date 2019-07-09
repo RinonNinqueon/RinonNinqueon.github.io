@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Eruraina | Morë Ar Ninquë"
+title: "Eruraina | Morë ar Ninquë"
 description: "О композиции"
 categories: songs
 name: "Eruraina"
@@ -11,7 +11,7 @@ download:
    url: "/audio/2010_More_ar_Ninque/02_Eruraina.mp3"
    
 albums:
- - album: "Morë Ar Ninquë"
+ - album: "Morë ar Ninquë"
    album_url: "/albums/more_an_ninque/"
    album_position: 2
 ---

@@ -1,0 +1,33 @@
+---
+layout: song
+title: "23 | Morë ar Ninquë"
+description: "О композиции"
+categories: songs
+name: "23"
+date: 2010-08-17 16:01:00
+length: "9:01"
+download:
+ - name: 2010
+   url: "/audio/2010_More_ar_Ninque/15_23.mp3"
+   
+albums:
+ - album: "Morë ar Ninquë"
+   album_url: "/albums/more_an_ninque/"
+   album_position: 15
+---
+
+
+## О композиции
+
+Порядковый номер - 23.  
+Музыка для большого стихотворения Eruraina.  
+Была впервые опробована запись на микрофон. Перегруз новый, ламповый [HotBox](http://radiokot.ru/circuit/analog/games/09/). Слайдер делал из старого советского конденсатора (зачем, спрашивается?).  
+
+Из инструментов:
+- Электрогитара
+- Флейта Stagg
+- Ударка и бас - из набора Guitar Pro RSE
+  
+## Слова
+
+Утеряны.  

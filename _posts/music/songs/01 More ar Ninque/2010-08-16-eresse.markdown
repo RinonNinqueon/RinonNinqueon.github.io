@@ -1,0 +1,32 @@
+---
+layout: song
+title: "Eressë | Morë ar Ninquë"
+description: "О композиции"
+categories: songs
+name: "Eressë"
+date: 2010-08-16 16:01:00
+length: "3:17"
+download:
+ - name: 2010
+   url: "/audio/2010_More_ar_Ninque/14_Eresse.mp3"
+   
+albums:
+ - album: "Morë ar Ninquë"
+   album_url: "/albums/more_an_ninque/"
+   album_position: 14
+---
+
+
+## О композиции
+
+Порядковый номер - 22, кажется.  
+"Одиночество", посвящено Eruraina.  
+
+Из инструментов:
+- Электрогитара
+- Блок-флейта
+- Ударка и бас - из набора Guitar Pro RSE
+  
+## Слова
+
+Нет.  

@@ -1,9 +1,9 @@
 ---
 layout: song
-title: "Morë Ar Ninquë | Morë Ar Ninquë"
+title: "Morë ar Ninquë | Morë ar Ninquë"
 description: "О композиции"
 categories: songs
-name: "Morë Ar Ninquë"
+name: "Morë ar Ninquë"
 date: 2010-08-05 16:01:00
 length: "3:17"
 download:
@@ -11,7 +11,7 @@ download:
    url: "/audio/2010_More_ar_Ninque/03_More_Ar_Ninque.mp3"
    
 albums:
- - album: "Morë Ar Ninquë"
+ - album: "Morë ar Ninquë"
    album_url: "/albums/more_an_ninque/"
    album_position: 3
 ---

@@ -1,0 +1,30 @@
+---
+layout: song
+title: "Серые дни | Morë ar Ninquë"
+description: "О композиции"
+categories: songs
+name: "Серые дни"
+date: 2010-08-19 16:01:00
+length: "3:28"
+download:
+ - name: 2010
+   url: "/audio/2010_More_ar_Ninque/17_Gray_Days.mp3"
+   
+albums:
+ - album: "Morë ar Ninquë"
+   album_url: "/albums/more_an_ninque/"
+   album_position: 17
+---
+
+
+## О композиции
+
+Инструментальная версия песни Круля Я.С.  
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - из набора Guitar Pro RSE
+  
+## Слова
+
+Они есть.

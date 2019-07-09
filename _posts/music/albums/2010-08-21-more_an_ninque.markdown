@@ -1,10 +1,10 @@
 ---
 layout: album
-title: "Morë Ar Ninquë"
+title: "Morë ar Ninquë"
 description: "пробный"
 date: 2010-08-21 16:00:00
 categories: albums
-name: "Morë Ar Ninquë"
+name: "Morë ar Ninquë"
 image: "MoreArNinque.jpg"
 ---
 
@@ -18,7 +18,7 @@ image: "MoreArNinque.jpg"
 
 1. Nanyë I Elen &ndash; Я - Звезда
 2. Eruraina &ndash; Посвящение девушке, чьё имя на квенья Eruraina
-3. Morë Ar Ninquë &ndash; Чёрное и белое
+3. Morë ar Ninquë &ndash; Чёрное и белое
 4. Mára Ré &ndash; Хороший день
 5. Vára &ndash; Плохая, грязная
 6. Mahta &ndash; Сражайся
@@ -31,7 +31,7 @@ image: "MoreArNinque.jpg"
 13. 21 &ndash; Уже не помню истории
 14. Eressë &ndash; Одиночество
 15. 23 &ndash; Написана для стихотворения Eruraina
-16. Morë Ar Ninquë (Improvisation) &ndash; Чёрное и белое. Остановите гитариста
+16. Morë ar Ninquë (Improvisation) &ndash; Чёрное и белое. Остановите гитариста
 17. Серые дни (инструментал) &ndash; Инструментальная версия композиции Круля Я.С.
 18. Rock'n'Roll Improvisation &ndash; Остановите гитариста  
 

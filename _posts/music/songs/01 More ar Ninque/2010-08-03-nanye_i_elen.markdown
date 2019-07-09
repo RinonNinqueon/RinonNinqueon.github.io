@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Nanyë I Elen | Morë Ar Ninquë"
+title: "Nanyë I Elen | Morë ar Ninquë"
 description: "О композиции"
 categories: songs
 name: "Nanyë I Elen"
@@ -11,7 +11,7 @@ download:
    url: "/audio/2010_More_ar_Ninque/01_Nanye_I_Elen.mp3"
    
 albums:
- - album: "Morë Ar Ninquë"
+ - album: "Morë ar Ninquë"
    album_url: "/albums/more_an_ninque/"
    album_position: 1
 ---

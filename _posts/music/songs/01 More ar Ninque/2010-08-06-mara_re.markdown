@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Mára Ré | Morë Ar Ninquë"
+title: "Mára Ré | Morë ar Ninquë"
 description: "О композиции"
 categories: songs
 name: "Mára Ré"
@@ -11,7 +11,7 @@ download:
    url: "/audio/2010_More_ar_Ninque/04_Mara_re.mp3"
    
 albums:
- - album: "Morë Ar Ninquë"
+ - album: "Morë ar Ninquë"
    album_url: "/albums/more_an_ninque/"
    album_position: 4
 ---
