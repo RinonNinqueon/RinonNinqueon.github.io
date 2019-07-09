@@ -13,7 +13,7 @@ kramdown:
  extensions: ["strikethrough", "smart"]
 permalink: /:categories/:title/
 gems: [jekyll-paginate]
-pagination: 15
+pagination: 20
 paginate_path: "/page:num"
 highlighter: rouge
 encoding: utf-8
