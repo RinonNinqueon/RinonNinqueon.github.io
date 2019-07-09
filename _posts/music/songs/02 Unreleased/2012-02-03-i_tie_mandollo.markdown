@@ -11,7 +11,7 @@ download:
    url: "/audio/2012_Unreleased/01_I_Tie_Mandollo.mp3"
    
 albums:
- - album: "Morë ar Ninquë"
+ - album: "Unrelased"
    album_url: "/albums/unreleased/"
    album_position: 1
 ---
