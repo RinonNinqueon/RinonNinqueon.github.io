@@ -13,7 +13,7 @@ download:
    url: "/audio/2010_More_ar_Ninque/12_19.mp3"
  - name: 2015 (CC BY-SA)
    url: "/audio/various/19_2015.mp3"
- - name: 2014 (акустика)
+ - name: 2016 (акустика)
    url: "/audio/various/19_2016.mp3"
    
 albums:
