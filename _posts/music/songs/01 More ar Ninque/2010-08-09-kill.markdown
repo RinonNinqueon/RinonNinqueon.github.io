@@ -1,0 +1,31 @@
+---
+layout: song
+title: "Kill | Morë Ar Ninquë"
+description: "О композиции"
+categories: songs
+name: "Kill"
+date: 2010-08-09 16:01:00
+length: "5:28"
+download:
+ - name: 2010
+   url: "/audio/2010_More_ar_Ninque/07_Kill.mp3"
+   
+albums:
+ - album: "Morë Ar Ninquë"
+   album_url: "/albums/more_an_ninque/"
+   album_position: 7
+---
+
+
+## О композиции
+
+Порядковый номер - утерян.  
+Смешалось всё - и увлечение Burzum/Mayhem, и депрессия... В итоге, родилось это.  
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - из набора Guitar Pro RSE
+  
+## Слова
+
+Они есть, и их лучше не видеть.  
