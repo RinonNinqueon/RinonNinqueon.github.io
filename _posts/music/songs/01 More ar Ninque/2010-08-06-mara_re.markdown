@@ -1,0 +1,31 @@
+---
+layout: song
+title: "Mára Ré | Morë Ar Ninquë"
+description: "О композиции"
+categories: songs
+name: "Mára Ré"
+date: 2010-08-06 16:01:00
+length: "2:21"
+download:
+ - name: 2010
+   url: "/audio/2010_More_ar_Ninque/04_Mara_re.mp3"
+   
+albums:
+ - album: "Morë Ar Ninquë"
+   album_url: "/albums/more_an_ninque/"
+   album_position: 4
+---
+
+
+## О композиции
+
+Порядковый номер - утерян.  
+"Хороший день". Возникла так же внезапно, как и то хорошее настроение, под которым я её написал.  
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - из набора Guitar Pro RSE
+  
+## Слова
+
+Нет.  
