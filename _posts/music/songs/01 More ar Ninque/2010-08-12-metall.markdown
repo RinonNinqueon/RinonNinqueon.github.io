@@ -4,7 +4,7 @@ title: "Heavy Metal | Morë ar Ninquë"
 description: "О композиции"
 categories: songs
 name: "Heavy Metal"
-date: 2010-08-13 16:01:00
+date: 2010-08-12 16:01:00
 length: "3:55"
 download:
  - name: 2010
