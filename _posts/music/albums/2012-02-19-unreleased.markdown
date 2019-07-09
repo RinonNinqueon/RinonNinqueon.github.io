@@ -25,7 +25,7 @@ image: "Unreleased.jpg"
 8. Sarda &ndash; Жёсткий
 9. Exë &ndash; Другой
 10. Orcor &ndash; Орки
-11. Rinca &ndash; УЛовка
+11. Rinca &ndash; Уловка
 12. Mára &ndash; Хороший
 13. Réna &ndash; Граница
 14. Yalúmëa &ndash; Былой
