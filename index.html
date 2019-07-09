@@ -6,7 +6,7 @@ title: Rínon Nínqueon
 <div id="home">
 	<h1>Последние обновления</h1>
 	<p class="rss-subscribe">RSS <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><img src="http://www.barrowupontrentparish.co.uk/blog/wp-content/uploads/2011/02/rss-icon.png" height="24"></a></p>
-	{% for post in site.posts %}
+	{% for post in paginator.posts %}
 	<div id="id_post" class="container">
 		<div class="row">
 			<div class="col-xs-12 col-md-12">
@@ -24,4 +24,21 @@ title: Rínon Nínqueon
 		</div>
 	</div>
 	{% endfor %}
+	<hr>
+	<!-- Pagination links -->
+	<div class="pagination">
+	  {% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page_path }}" class="previous">До</a>
+	  {% else %}
+		<span class="previous">До</span>
+	  {% endif %}
+	  <span class="page_number ">
+		Page: {{ paginator.page }} of {{ paginator.total_pages }}
+	  </span>
+	  {% if paginator.next_page %}
+		<a href="{{ paginator.next_page_path }}" class="next">После</a>
+	  {% else %}
+		<span class="next">После</span>
+	  {% endif %}
+	</div>
 </div>

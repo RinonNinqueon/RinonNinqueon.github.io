@@ -12,6 +12,7 @@ kramdown:
  hard_wrap: false
  extensions: ["strikethrough", "smart"]
 permalink: /:categories/:title/
+gems: [jekyll-paginate]
 pagination: 15
 paginate_path: "/page:num"
 highlighter: rouge
