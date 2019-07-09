@@ -1,0 +1,24 @@
+---
+layout: song
+title: "Hwan | Unreleased"
+description: "О композиции"
+categories: songs
+name: "Hwan"
+date: 2012-02-05 16:01:00
+length: "0:44"
+download:
+ - name: 2012
+   url: "/audio/2012_Unreleased/03_Hwan.mp3"
+   
+albums:
+ - album: "Unreleased"
+   album_url: "/albums/unreleased/"
+   album_position: 3
+---
+
+
+## О композиции
+
+"Мухомор (либо гриб)".  
+С какого-то учебника по игре на электрогитаре.  
+  

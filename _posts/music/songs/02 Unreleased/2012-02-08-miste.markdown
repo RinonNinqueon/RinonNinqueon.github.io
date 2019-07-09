@@ -1,0 +1,23 @@
+---
+layout: song
+title: "Mistë | Unreleased"
+description: "О композиции"
+categories: songs
+name: "Mistë"
+date: 2012-02-08 16:01:00
+length: "1:15"
+download:
+ - name: 2012
+   url: "/audio/2012_Unreleased/06_Miste.mp3"
+   
+albums:
+ - album: "Unreleased"
+   album_url: "/albums/unreleased/"
+   album_position: 6
+---
+
+
+## О композиции
+
+"Дождик".  
+  

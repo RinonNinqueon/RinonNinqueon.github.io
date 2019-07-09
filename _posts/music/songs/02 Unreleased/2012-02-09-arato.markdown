@@ -1,0 +1,23 @@
+---
+layout: song
+title: "Aráto | Unreleased"
+description: "О композиции"
+categories: songs
+name: "Aráto"
+date: 2012-02-09 16:01:00
+length: "1:03"
+download:
+ - name: 2012
+   url: "/audio/2012_Unreleased/07_Arato.mp3"
+   
+albums:
+ - album: "Unreleased"
+   album_url: "/albums/unreleased/"
+   album_position: 7
+---
+
+
+## О композиции
+
+"Победитель".  
+  
