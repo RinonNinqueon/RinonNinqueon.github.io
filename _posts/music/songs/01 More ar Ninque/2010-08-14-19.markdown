@@ -7,8 +7,14 @@ name: "19"
 date: 2010-08-14 16:01:00
 length: "2:45"
 download:
+ - name: 2009 (demo)
+   url: "/audio/various/19_old.mp3"
  - name: 2010
    url: "/audio/2010_More_ar_Ninque/12_19.mp3"
+ - name: 2015 (CC BY-SA)
+   url: "/audio/various/19_2015.mp3"
+ - name: 2014 (акустика)
+   url: "/audio/various/19_2016.mp3"
    
 albums:
  - album: "Morë ar Ninquë"
