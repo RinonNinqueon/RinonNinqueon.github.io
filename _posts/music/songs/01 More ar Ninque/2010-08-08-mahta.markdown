@@ -1,0 +1,31 @@
+---
+layout: song
+title: "Mahta | Morë Ar Ninquë"
+description: "О композиции"
+categories: songs
+name: "Mahta"
+date: 2010-08-08 16:01:00
+length: "2:06"
+download:
+ - name: 2010
+   url: "/audio/2010_More_ar_Ninque/06_Mahta.mp3"
+   
+albums:
+ - album: "Morë Ar Ninquë"
+   album_url: "/albums/more_an_ninque/"
+   album_position: 6
+---
+
+
+## О композиции
+
+Порядковый номер - утерян.  
+Перевод: "Сражаться". Попытка справиться с депрессией, насколько я помню.  
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - из набора Guitar Pro RSE
+  
+## Слова
+
+Нет. А может и да...  

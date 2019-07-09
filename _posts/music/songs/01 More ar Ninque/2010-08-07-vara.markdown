@@ -1,0 +1,31 @@
+---
+layout: song
+title: "Vára | Morë Ar Ninquë"
+description: "О композиции"
+categories: songs
+name: "Vára"
+date: 2010-08-07 16:01:00
+length: "1:14"
+download:
+ - name: 2010
+   url: "/audio/2010_More_ar_Ninque/05_Vara.mp3"
+   
+albums:
+ - album: "Morë Ar Ninquë"
+   album_url: "/albums/more_an_ninque/"
+   album_position: 5
+---
+
+
+## О композиции
+
+Порядковый номер - утерян.  
+Это был эксперимент с перегрузом в Fruty Loops. Есть там такой встроенный простой плагин... Я поставил сразу два. Потому и название - "Грязный".  
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - из набора Guitar Pro RSE
+  
+## Слова
+
+Нет.  
