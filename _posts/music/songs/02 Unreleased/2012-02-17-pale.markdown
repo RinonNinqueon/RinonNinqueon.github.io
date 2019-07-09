@@ -1,0 +1,23 @@
+---
+layout: song
+title: "Palë | Unreleased"
+description: "О композиции"
+categories: songs
+name: "Palë"
+date: 2012-02-17 16:01:00
+length: "2:03"
+download:
+ - name: 2012
+   url: "/audio/2012_Unreleased/15_Pale.mp3"
+   
+albums:
+ - album: "Unreleased"
+   album_url: "/albums/unreleased/"
+   album_position: 15
+---
+
+
+## О композиции
+
+"Rock".  
+Легла в основу "Гильдии маляров".  

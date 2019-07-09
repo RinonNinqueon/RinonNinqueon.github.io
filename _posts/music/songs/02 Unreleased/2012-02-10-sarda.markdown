@@ -1,0 +1,23 @@
+---
+layout: song
+title: "Sarda | Unreleased"
+description: "О композиции"
+categories: songs
+name: "Sarda"
+date: 2012-02-10 16:01:00
+length: "0:47"
+download:
+ - name: 2012
+   url: "/audio/2012_Unreleased/08_Sarda.mp3"
+   
+albums:
+ - album: "Unreleased"
+   album_url: "/albums/unreleased/"
+   album_position: 8
+---
+
+
+## О композиции
+
+"Жёсткий".  
+  

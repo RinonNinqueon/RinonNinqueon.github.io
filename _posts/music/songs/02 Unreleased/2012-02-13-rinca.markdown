@@ -1,0 +1,23 @@
+---
+layout: song
+title: "Rinca | Unreleased"
+description: "О композиции"
+categories: songs
+name: "Rinca"
+date: 2012-02-13 16:01:00
+length: "0:59"
+download:
+ - name: 2012
+   url: "/audio/2012_Unreleased/11_Rinca.mp3"
+   
+albums:
+ - album: "Unreleased"
+   album_url: "/albums/unreleased/"
+   album_position: 11
+---
+
+
+## О композиции
+
+"Уловка".  
+  

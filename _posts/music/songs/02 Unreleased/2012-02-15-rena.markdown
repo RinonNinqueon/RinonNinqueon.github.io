@@ -1,0 +1,23 @@
+---
+layout: song
+title: "Réna | Unreleased"
+description: "О композиции"
+categories: songs
+name: "Réna"
+date: 2012-02-15 16:01:00
+length: "1:15"
+download:
+ - name: 2012
+   url: "/audio/2012_Unreleased/13_Rena.mp3"
+   
+albums:
+ - album: "Unreleased"
+   album_url: "/albums/unreleased/"
+   album_position: 13
+---
+
+
+## О композиции
+
+"Граница".  
+  

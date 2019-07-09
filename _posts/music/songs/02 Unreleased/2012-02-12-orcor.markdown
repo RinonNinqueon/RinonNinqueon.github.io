@@ -1,0 +1,23 @@
+---
+layout: song
+title: "Orcor | Unreleased"
+description: "О композиции"
+categories: songs
+name: "Orcor"
+date: 2012-02-12 16:01:00
+length: "0:37"
+download:
+ - name: 2012
+   url: "/audio/2012_Unreleased/10_Orcor.mp3"
+   
+albums:
+ - album: "Unreleased"
+   album_url: "/albums/unreleased/"
+   album_position: 10
+---
+
+
+## О композиции
+
+"Орки".  
+  
