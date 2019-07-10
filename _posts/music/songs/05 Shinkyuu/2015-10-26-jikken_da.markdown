@@ -1,0 +1,29 @@
+---
+layout: song
+title: "Jikken Da! (実験だ！) | Shinkyuu"
+description: "О композиции"
+categories: songs
+name: "Jikken Da! (実験だ！)"
+date: 2015-10-26 16:01:00
+length: "3:38"
+download:
+ - name: 2015
+   url: "/audio/2015_Shinkyuu/06_Jikken_Da.mp3"
+   
+albums:
+ - album: "Shinkyuu"
+   album_url: "/albums/Shinkyuu/"
+   album_position: 6
+---
+
+
+## О композиции
+
+Порядковый номер - 46.  
+"Это эксперимент!".  
+Вторая попытка родить j-pop.  
+
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - синтезированные

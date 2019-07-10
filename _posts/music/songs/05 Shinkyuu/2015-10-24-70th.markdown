@@ -1,0 +1,28 @@
+---
+layout: song
+title: "70th | Shinkyuu"
+description: "О композиции"
+categories: songs
+name: "70th"
+date: 2015-10-24 16:01:00
+length: "4:42"
+download:
+ - name: 2015
+   url: "/audio/2015_Shinkyuu/04_70th.mp3"
+   
+albums:
+ - album: "Shinkyuu"
+   album_url: "/albums/Shinkyuu/"
+   album_position: 4
+---
+
+
+## О композиции
+
+Порядковый номер - 47.  
+Некая отсылка на лёгкий рок 70-х.  
+
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - синтезированные

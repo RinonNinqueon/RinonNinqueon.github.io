@@ -1,0 +1,29 @@
+---
+layout: song
+title: "Uchuu (宇宙) | Shinkyuu"
+description: "О композиции"
+categories: songs
+name: "Uchuu (宇宙)"
+date: 2015-10-28 16:01:00
+length: "5:02"
+download:
+ - name: 2015
+   url: "/audio/2015_Shinkyuu/08_Uchuu.mp3"
+   
+albums:
+ - album: "Shinkyuu"
+   album_url: "/albums/Shinkyuu/"
+   album_position: 8
+---
+
+
+## О композиции
+
+Порядковый номер - отсутствует.  
+"Космос".  
+Эксперименты с электронной музыкой в FL Studio.  
+
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - синтезированные

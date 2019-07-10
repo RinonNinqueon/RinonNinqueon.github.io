@@ -1,0 +1,30 @@
+---
+layout: song
+title: "Ressha (列車) | Shinkyuu"
+description: "О композиции"
+categories: songs
+name: "Ressha (列車)"
+date: 2015-10-27 16:01:00
+length: "3:03"
+download:
+ - name: 2015
+   url: "/audio/2015_Shinkyuu/07_Ressha.mp3"
+   
+albums:
+ - album: "Shinkyuu"
+   album_url: "/albums/Shinkyuu/"
+   album_position: 7
+---
+
+
+## О композиции
+
+Порядковый номер - отсутствует.  
+"Поезд", автор - Круль Я.С.  
+Первую версию записали во время "августовского интенсива" в 2011 году.  
+В версии для этого альбома оставлены оригинальные дорожки.  
+
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - синтезированные
