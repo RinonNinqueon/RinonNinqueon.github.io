@@ -1,11 +1,11 @@
 ---
 layout: song
-title: "Enshrouded by Darkness | Pocketful of Variety"
+title: "Eternal Road | Pocketful of Variety"
 description: "О композиции"
 categories: songs
-name: "Enshrouded by Darkness"
-date: 2015-06-07 16:01:00
-length: "5:38"
+name: "Eternal Road"
+date: 2015-06-08 16:01:00
+length: "10:52"
 download:
  - name: 2015
    url: "/audio/2015_Pocketful_of_Variety/10_Eternal_Road.mp3"
