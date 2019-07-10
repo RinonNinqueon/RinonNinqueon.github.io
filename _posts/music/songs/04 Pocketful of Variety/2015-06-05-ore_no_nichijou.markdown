@@ -7,9 +7,9 @@ name: "Ore No Nichijou (俺の日常)"
 date: 2015-06-05 16:01:00
 length: "3:44"
 download:
- - name: 2015
+ - name: 2015 (Strat)
    url: "/audio/2015_Pocketful_of_Variety/07_Ore_No_Nichijou.mp3"
- - name: 2015
+ - name: 2015 (SG)
    url: "/audio/2015_Shinkyuu/03_Ore_No_Nichijou.mp3"
    
 albums:
