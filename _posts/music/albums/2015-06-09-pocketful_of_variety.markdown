@@ -19,7 +19,7 @@ image: "Variety.jpg"
 3. Some Blues &ndash; То-то оно и о том
 4. Use Templates &ndash; Нечто очень банальное, как по шаблону писанное
 5. The Rínon Song (orchestral version) &ndash; Уже было в прошлом альбоме, но добавлены инструменты
-6. Taltail &ndash; ...не помню...
+6. Taltail &ndash; Скольжения
 7. Ore no Nichijou &ndash; (яп.) Моя повседневность
 8. Under The Rain &ndash; Импровизация с Крулём Я.С.
 9. Enshrounded by Darkness &ndash; Психодел-трип с Крулём Я.С., он играет, я балуюсь со звуком

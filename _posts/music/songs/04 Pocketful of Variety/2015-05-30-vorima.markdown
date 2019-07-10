@@ -1,0 +1,28 @@
+---
+layout: song
+title: "Vórima | Pocketful of Variety"
+description: "О композиции"
+categories: songs
+name: "Vórima"
+date: 2015-05-30 16:01:00
+length: "2:45"
+download:
+ - name: 2015
+   url: "/audio/2015_Pocketful_of_Variety/01_Vorima.mp3"
+   
+albums:
+ - album: "Pocketful of Variety"
+   album_url: "/albums/pocketful_of_variety/"
+   album_position: 1
+---
+
+
+## О композиции
+
+Порядковый номер - 43.  
+"Возвращение к чему-либо". Внезапно, посвящено Eruraina.  
+Мне достался какой-то процессор эффектов, решил его и испробовать.  
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - синтезированные

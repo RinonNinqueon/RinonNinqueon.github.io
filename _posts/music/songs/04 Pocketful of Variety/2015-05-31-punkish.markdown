@@ -1,0 +1,28 @@
+---
+layout: song
+title: "Punkish | Pocketful of Variety"
+description: "О композиции"
+categories: songs
+name: "Punkish"
+date: 2015-05-31 16:01:00
+length: "1:18"
+download:
+ - name: 2015
+   url: "/audio/2015_Pocketful_of_Variety/02_Punkish.mp3"
+   
+albums:
+ - album: "Pocketful of Variety"
+   album_url: "/albums/pocketful_of_variety/"
+   album_position: 2
+---
+
+
+## О композиции
+
+Порядковый номер - 44.  
+Здесь уже начинает чувствоваться моё увлечение j-pop.  
+Название, кстати, было подсмотрено у "Punkish Regular". В смысле, что есть такое слово.  
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - синтезированные

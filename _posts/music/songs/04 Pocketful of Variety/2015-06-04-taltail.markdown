@@ -1,0 +1,28 @@
+---
+layout: song
+title: "Taltail | Pocketful of Variety"
+description: "О композиции"
+categories: songs
+name: "Taltail"
+date: 2015-06-04 16:01:00
+length: "2:28"
+download:
+ - name: 2015
+   url: "/audio/2015_Pocketful_of_Variety/06_Taltail.mp3"
+   
+albums:
+ - album: "Pocketful of Variety"
+   album_url: "/albums/pocketful_of_variety/"
+   album_position: 6
+---
+
+
+## О композиции
+
+Порядковый номер - отсутствует.  
+"Скольжения".  
+Учусь работать слайдером.  
+
+Из инструментов:
+- Электрогитара
+- Ударка и бас - синтезированные
