@@ -176,7 +176,7 @@ categories: music
 
 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="825" data-minheight="512" data-maxheight="100%">
 	<a href="/img/shamisen/draw/shamisen_parts_1.png" data-caption="Строение Сямисэна"><img src="/img/shamisen/thumbs/draw/shamisen_parts_1.png"></a>
-	<a href="/img/shamisen/draw/shamisen.png" data-caption="Строение Сямисэна"><img src="/img/shamisen/thumbs/draw/shamisen.png"></a>
+	<a href="/img/shamisen/draw/shamisen.png" data-caption="Общий чертёж Сямисэна"><img src="/img/shamisen/thumbs/draw/shamisen.png"></a>
 </div>
 
 Давайте пойдём сверху.  
@@ -857,6 +857,6 @@ http://kiyokutadasiku.seesaa.net/article/370130513.html
 И даже без инструментов. Их же я тоже закупил на примерно такую же сумму, если не больше.  
 
 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="1920" data-minheight="512" data-maxheight="100%">
-	<a href="/img/shamisen/DSC_0726.JPG" data-caption="Утеплённый"><img src="/img/shamisen/thumbs/DSC_0726.JPG"></a>
+	<a href="/img/shamisen/DSC_0726.JPG" data-caption="Трунь"><img src="/img/shamisen/thumbs/DSC_0726.JPG"></a>
 </div> 
 
