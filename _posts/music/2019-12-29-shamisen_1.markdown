@@ -862,3 +862,4 @@ http://kiyokutadasiku.seesaa.net/article/370130513.html
 	<a href="/img/shamisen/DSC_0726.JPG" data-caption="Трунь"><img src="/img/shamisen/thumbs/DSC_0726.JPG"></a>
 </div> 
 
+Все 3D модели и чертежи можно найти здесь: [ТЫЦ](https://github.com/RinonNinqueon/source/tree/master/drawings/Shamisen).  
