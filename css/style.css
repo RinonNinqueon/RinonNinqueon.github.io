@@ -72,3 +72,12 @@ footer {
   font-size: 0.65em;
   text-align: center;
 }
+
+blockquote
+{
+  position: relative;
+  padding-left: 1em;
+  border-left: 0.2em solid black;
+  line-height: 1.5em;
+  font-weight: 100;
+}
