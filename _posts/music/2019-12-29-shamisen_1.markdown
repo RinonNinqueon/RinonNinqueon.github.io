@@ -829,6 +829,7 @@ http://kiyokutadasiku.seesaa.net/article/370130513.html
 
 А в итоге, получился инструмент, который можно назвать Сямисэном, но с некоторыми оговорками. Осталось  его собрать, натянуть струны и сделать \*трунь\*. Но как на нём играть — это уже другая история.  
 Давайте посчитаем, во что обойдётся самостоятельное изготовление.  
+По возможности оставил ссылки именно на то, что покупал я.  
 
 | Материал | Опции | Цена |
 |:---------|:------|:-----|
@@ -861,5 +862,11 @@ http://kiyokutadasiku.seesaa.net/article/370130513.html
 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="1920" data-minheight="512" data-maxheight="100%">
 	<a href="/img/shamisen/DSC_0726.JPG" data-caption="Трунь"><img src="/img/shamisen/thumbs/DSC_0726.JPG"></a>
 </div> 
-
+<br>
+<hr>
+<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K1zX6TowIto" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<hr>
+<br>
 Все 3D модели и чертежи можно найти здесь: [ТЫЦ](https://github.com/RinonNinqueon/source/tree/master/drawings/Shamisen).  
