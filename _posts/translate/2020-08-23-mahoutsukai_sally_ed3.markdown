@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Эндинг к 'Mahoutsukai Sally (1966)' №2"
+title:  "Эндинг к 'Mahoutsukai Sally (1966)' №3"
 date:   2020-08-23 15:15:50
 categories: [translate, song]
 ---
