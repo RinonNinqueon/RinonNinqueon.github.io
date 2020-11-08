@@ -18,10 +18,6 @@
 		<li class="page-item active" aria-current="page">
 			<a class="page-link" href="#"><span class="ml-1 mr-1">{{ page }}</span></a>
 		</li>
-    {% elsif page == 1 %}
-		<li class="page-item">
-			<a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-		</li>
     {% else %}
 		<li class="page-item">
 			<a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
