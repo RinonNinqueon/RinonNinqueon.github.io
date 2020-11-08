@@ -7,7 +7,7 @@ title: Rínon Nínqueon
 	<h1>Последние обновления</h1>
 	<p class="rss-subscribe">RSS <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><img src="/img/social/rss.png" height="24"></a></p>
 	<ul class="posts">
-	{% for post in site.posts %}
+	{% for post in paginator.posts %}
 	<!--
 	<div id="id_post" class="container">
 		<div class="row">
