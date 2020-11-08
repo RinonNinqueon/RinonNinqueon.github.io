@@ -12,10 +12,11 @@ kramdown:
  hard_wrap: false
  extensions: ["strikethrough", "smart"]
 permalink: /:categories/:title/
+plugins:
+  - jekyll-paginate
 str_next_page: "Туда"  
 str_previous_page: "Сюда"
-pagination_nr: 5
-pagination: 15
+paginate: 15
 paginate_path: "/page:num"
 highlighter: rouge
 encoding: utf-8
