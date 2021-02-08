@@ -747,10 +747,10 @@ Bachi состоит из двух частей: ручки и наконечн�
 И финальный штрих — наше любимое масло. В любой непонятной ситуации <s>приваривай подшипник</s> покрывай дерево маслом. Всё так же, на три слоя, с шлифовкой. Только кость маслом покрывать не надо, внимательней около границы дерево-кость. Ничего страшного кости от этого не станет, но выглядеть будет не очень.  
 
 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="825" data-minheight="512" data-maxheight="100%">
-	<a href="/img/shamisen/IMG_20210106_150614.JPG" data-caption="Балансировка припоем"><img src="/img/shamisen/thumbs/IMG_20210106_150614.JPG"></a>
-	<a href="/img/shamisen/DSC_0388.IMG_20210106_234902" data-caption="Один слой масла"><img src="/img/shamisen/thumbs/IMG_20210106_234902.JPG"></a>
-	<a href="/img/shamisen/DSC_0388.IMG_20210107_220431" data-caption="Два слоя масла"><img src="/img/shamisen/thumbs/IMG_20210107_220431.JPG"></a>
-	<a href="/img/shamisen/DSC_0388.IMG_20210108_191316" data-caption="Три слоя масла"><img src="/img/shamisen/thumbs/IMG_20210108_191316.JPG"></a>
+	<a href="/img/shamisen/IMG_20210106_150614.jpg" data-caption="Балансировка припоем"><img src="/img/shamisen/thumbs/IMG_20210106_150614.jpg"></a>
+	<a href="/img/shamisen/IMG_20210106_234902.jpg" data-caption="Один слой масла"><img src="/img/shamisen/thumbs/IMG_20210106_234902.jpg"></a>
+	<a href="/img/shamisen/IMG_20210107_220431.jpg" data-caption="Два слоя масла"><img src="/img/shamisen/thumbs/IMG_20210107_220431.jpg"></a>
+	<a href="/img/shamisen/IMG_20210108_191316.jpg" data-caption="Три слоя масла"><img src="/img/shamisen/thumbs/IMG_20210108_191316.jpg"></a>
 </div>
 
 О том, как правильно держать и как правильно играть — уже другой вопрос.  
