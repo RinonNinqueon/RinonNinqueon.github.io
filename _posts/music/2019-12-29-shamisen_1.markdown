@@ -902,6 +902,7 @@ http://kiyokutadasiku.seesaa.net/article/370130513.html
 | [Сатин](https://vk.com/sunduchek_textilja_remesel) | 220 см x 50 см | 445 руб |
 | Ступенька | Сосна 300x800x40 мм | 500 руб |
 | [Кофр](https://vk.com/kofr_music) | Заказной | 5000 руб |
+| [Кость](https://ebay.us/tKes04) | 105x24x4 мм | 15$ |
 
 Итого: округлим до 20000 руб. Это без учёта доставки отдельных заказов.  
 И даже без инструментов. Их же я тоже закупил на примерно такую же сумму, если не больше.  
@@ -917,6 +918,14 @@ http://kiyokutadasiku.seesaa.net/article/370130513.html
 <hr>
 <br>
 Все 3D модели и чертежи можно найти здесь: [ТЫЦ](https://github.com/RinonNinqueon/source/tree/master/drawings/Shamisen).  
+
+# Полезные ссылки
+
+* https://shamisen.space - табулатуры для сямисэна
+* https://bachido.com - главный англоязычный ресурс по сямисэну, есть как бесплатные курсы, так и платные
+* https://www.youtube.com/channel/UCGX57x8Sjd7P7MGnsJ1CR1A - YouTube канал ShamisenTV, много полезных тонкостей в игре и не только
+* http://www.youtube.com/user/RinonNinqueon - мой канал
+* https://www.youtube.com/channel/UCcj_A98wo8WswHJ9eiYviDw - мой второй канал "Сямисэн по-русски"
 
 <script type="text/javascript">
 	$("table").addClass("table");
