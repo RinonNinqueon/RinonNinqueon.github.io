@@ -64,10 +64,10 @@ categories: music
 Вот, что получилось:
 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="825" data-minheight="512" data-maxheight="100%">
 	<a href="/img/guitar_stand/IMG_20220116_135451.jpg" data-caption=""><img src="/img/guitar_stand/thumbs/IMG_20220116_135451.jpg"></a>
-	<a href="/img/guitar_stand/IMG_20220116_135500.jpg" data-caption=""><img src="/img/guitar_stand/thumbs/draw/side.png"></a>
-	<a href="/img/guitar_stand/IMG_20220116_135506.jpg" data-caption=""><img src="/img/guitar_stand/thumbs/draw/top.png"></a>
-	<a href="/img/guitar_stand/IMG_20220116_135513.jpg" data-caption=""><img src="/img/guitar_stand/thumbs/draw/top.png"></a>
-	<a href="/img/guitar_stand/IMG_20220226_133541.jpg" data-caption="С трубкой"><img src="/img/guitar_stand/thumbs/draw/top.png"></a>
+	<a href="/img/guitar_stand/IMG_20220116_135500.jpg" data-caption=""><img src="/img/guitar_stand/thumbs/IMG_20220116_135500.jpg"></a>
+	<a href="/img/guitar_stand/IMG_20220116_135506.jpg" data-caption=""><img src="/img/guitar_stand/thumbs/IMG_20220116_135506.jpg"></a>
+	<a href="/img/guitar_stand/IMG_20220116_135513.jpg" data-caption=""><img src="/img/guitar_stand/thumbs/IMG_20220116_135513.jpg"></a>
+	<a href="/img/guitar_stand/IMG_20220226_133541.jpg" data-caption="С трубкой"><img src="/img/guitar_stand/thumbs/IMG_20220226_133541.jpg"></a>
 </div>
 
 
