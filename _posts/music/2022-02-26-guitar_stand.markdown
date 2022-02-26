@@ -70,3 +70,4 @@ categories: music
 	<a href="/img/guitar_stand/IMG_20220226_133541.jpg" data-caption="С трубкой"><img src="/img/guitar_stand/thumbs/draw/top.png"></a>
 </div>
 
+
