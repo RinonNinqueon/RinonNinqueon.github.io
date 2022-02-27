@@ -2,7 +2,7 @@
 layout: post
 title:  "Стойка для нескольких гитар"
 description: "Простая деревянная мультигитарная стойка своими руками"
-image: "/img/guitar-stand/IMG_20220226_133541.jpg"
+image: "/img/guitar_stand/IMG_20220226_133541.jpg"
 date:   2022-02-26 15:35:03
 categories: music
 ---
