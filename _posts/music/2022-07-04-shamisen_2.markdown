@@ -131,6 +131,7 @@ categories: music
 Для наглядности разберём самую простую композицию: "Сакура".  
 
 ![Sakura Sakura](/img/shamisen/SakuraSakura.png)  
+[PDF](https://shamisen.space/sakura-sakura.pdf)  
 
 Что мы здесь видим: размер 2/4, строй 二上り, то есть, CGC.  
 Почти всё произведение играется на третьей струне. Начинаем с 4 лада первым (указательным) пальцем, отсчитываем четверти:
@@ -162,7 +163,7 @@ categories: music
 Как это вообще играть, спросите вы? А вот так!  
 
 Все шесть целиком:  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HmAdj1qucE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_HmAdj1qucE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 Первый с разбором полётов:  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mIXzcays4xc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
