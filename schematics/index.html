@@ -18,8 +18,8 @@ title: Схемы || Rinon Ninqueon
 <br>
 <h2>Проекты</h2><br>
 <ul class="posts">
-    {% for post in site.categories.schematics %}
+    {%- for post in site.categories.schematics -%}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+    {%- endfor -%}
   </ul>
 </div>

@@ -27,42 +27,42 @@ layout: default
 		<th>Длительность</th>
 	</tr>
 	
-	{% assign items = site.posts | sort: 'title' %}
-	{% for post in items %}
-		{% if post.categories contains 'songs' %}
-			{% if post.albums %}
-				{% for alb in post.albums %}
-					{% if alb.album == page.name %}
+	{%- assign items = site.posts | sort: 'title' -%}
+	{%- for post in items -%}
+		{%- if post.categories contains 'songs' -%}
+			{%- if post.albums -%}
+				{%- for alb in post.albums -%}
+					{%- if alb.album == page.name -%}
 						<tr sort_position="{{ alb.album_position }}">
 						<td align="center">{{ alb.album_position }}</td>
 						<td><a href="{{ post.url }}">{{ post.name }}</a></td>
 						<td class="gruppa-media-url-td" align="center">
-						{% if post.download and post.download != '' %}
-							{% for dnl in post.download %}
+						{%- if post.download and post.download != '' -%}
+							{%- for dnl in post.download -%}
 								<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }}">
 									{{ dnl.name }}
 								</div>
-								{% if forloop.last == false %}
+								{%- if forloop.last == false -%}
 									&nbsp;
-								{% endif %}
-							{% endfor %}
-						{% else %}
+								{%- endif -%}
+							{%- endfor -%}
+						{%- else -%}
 							-
-						{% endif %}
+						{%- endif -%}
 						</td>
 						<td align="center">
-							{% if post.length %}
+							{%- if post.length -%}
 								{{ post.length }}
-							{% else %}
+							{%- else -%}
 								-
-							{% endif %}
+							{%- endif -%}
 						</td>
 						</tr>
-					{% endif %}
-				{% endfor %}
-			{% endif %}
-		{% endif %}
-	{% endfor %}
+					{%- endif -%}
+				{%- endfor -%}
+			{%- endif -%}
+		{%- endif -%}
+	{%- endfor -%}
 	</tr>
 	</table>
 	<script>

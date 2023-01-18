@@ -5,8 +5,8 @@ title: Альбомы || Rinon Ninqueon
 <h1>Альбомы</h1>
 
 <div class="row">
-{% for post in site.posts %}
-	{% if post.categories contains 'albums' %}
+{%- for post in site.posts -%}
+	{%- if post.categories contains 'albums' -%}
 		<div class="card text-center" id="releases_card">
 			<a href='{{ post.url }}'>
 				<img src="/img/albums/preview/{{ post.image }}" style='width:200px;height:200px;' class='rounded'/>
@@ -16,6 +16,6 @@ title: Альбомы || Rinon Ninqueon
 				<p>{{ post.title }}</p>
 			</div>
 		</div>
-	{% endif %}
-{% endfor %}
+	{%- endif -%}
+{%- endfor -%}
 </div>

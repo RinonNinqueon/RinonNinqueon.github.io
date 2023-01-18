@@ -29,54 +29,54 @@ title: Песни || Rinon Ninqueon
 	<th>Слушать</th>
 	<th>Длительность</th>
 </tr>
-{% assign counter = 1 %}
-{% assign items = site.posts | sort: 'title' %}
-{% for post in items %}
-	{% if post.categories contains 'songs' %}
+{%- assign counter = 1 -%}
+{%- assign items = site.posts | sort: 'title' -%}
+{%- for post in items -%}
+	{%- if post.categories contains 'songs' -%}
     	<tr>
 		<td align="center">{{ counter }}</td>
 		<td><a href="{{ post.url }}">{{ post.name }}</a></td>
 		<td>
-			{% if post.albums %}
-				{% for alb in post.albums %}
-					{% if alb.album and alb.album_url %}
+			{%- if post.albums -%}
+				{%- for alb in post.albums -%}
+					{%- if alb.album and alb.album_url -%}
 						<a href="{{ alb.album_url }}">
 							{{ alb.album }}
 						</a>
-					{% else %}
+					{%- else -%}
 						-
-					{% endif %}
+					{%- endif -%}
 					<br>
-				{% endfor %}
-			{% else %}
+				{%- endfor -%}
+			{%- else -%}
 				-
-			{% endif %}
+			{%- endif -%}
 		</td>
 		<td class="gruppa-media-url-td" align="center">
-			{% if post.download and post.download != '' %}
-				{% for dnl in post.download %}
+			{%- if post.download and post.download != '' -%}
+				{%- for dnl in post.download -%}
 					<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ post.name }}">
 						<span class="span_play_button">&#9654;</span><span class="span_pause_button">&#10074;&#10074;</span>&nbsp;{{ dnl.name }}
 					</div>
-					{% if forloop.last == false %}
+					{%- if forloop.last == false -%}
 						&nbsp;
-					{% endif %}
-				{% endfor %}
-			{% else %}
+					{%- endif -%}
+				{%- endfor -%}
+			{%- else -%}
 				-
-			{% endif %}
+			{%- endif -%}
 		</td>
 		<td align="center">
-			{% if post.length %}
+			{%- if post.length -%}
 				{{ post.length }}
-			{% else %}
+			{%- else -%}
 				-
-			{% endif %}
+			{%- endif -%}
 		</td>
 		</tr>
-		{% assign counter = counter | plus: 1 %}
-	{% endif %}
-{% endfor %}
+		{%- assign counter = counter | plus: 1 -%}
+	{%- endif -%}
+{%- endfor -%}
 </table>
 <br>
 <hr>
