@@ -6,7 +6,7 @@ title: Rínon Nínqueon
 <div id="home">
 	<ul class="posts">
   {% for file in site.static_files %}
-	<li><span>{{ image.path }}</li>	
+	<li>{{ file.path }}</li>	
 	{% endfor %}
 	</ul>
 	<hr>

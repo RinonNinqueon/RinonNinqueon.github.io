@@ -9,7 +9,7 @@
 {% for image in site.static_files %}
 	{% if image.path contains post.image_path %}
 		{% unless image.path contains 'thumbs' %}
-			<a href="{{/ | append: image.path }}" data-caption=""><img src="{{ post.image_path | append: '/thumbs/' | append: image.name }}"></a>
+			<a href="{{'/' | append: image.path }}" data-caption=""><img src="{{ post.image_path | append: '/thumbs/' | append: image.name }}"></a>
 		{% endunless %}
 	{% endif %}
 {% endfor %}
