@@ -1,0 +1,23 @@
+﻿{% include header.html %}
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ page.date | date_to_string }}</p>
+<hr>
+<div class="post">
+	<div class="row">
+		<div class="col-xs-6 col-md-6">
+		<div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="825" data-minheight="512" data-maxheight="100%">
+{% for image in site.static_files %}
+	{% if image.path contains post.image_path %}
+		{% unless image.path contains 'thumbs' %}
+			<a href="{{ image.path }}" data-caption=""><img src="{{ post.image_path | append: '/thumbs/' | append: image.name }}"></a>
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+			</div>
+		</div>
+		<div class="col-xs-6 col-md-6">
+			{{ content }}
+		</div>
+	</div>
+</div>
+ {% include footer.html %}

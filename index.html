@@ -13,7 +13,11 @@ title: Rínon Nínqueon
 		<div class="row">
 			<div class="col-xs-12 col-md-12">
 			<h3>
+{% if post.tags contains 'diy' and 'completed' %}
+				 <a href="{{ post.url }}">Проект завершён: {{ post.title }}</a> &raquo; <span>{{ post.date | date_to_string }}</span>
+{% else %}
 				 <a href="{{ post.url }}">{{ post.title }}</a> &raquo; <span>{{ post.date | date_to_string }}</span>
+{% endif %}
 			</h3>
 			</div>
 		</div>
