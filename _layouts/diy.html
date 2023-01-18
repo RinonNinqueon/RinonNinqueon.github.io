@@ -5,11 +5,11 @@
 <div class="post">
 	<div class="row">
 		<div class="col-xs-6 col-md-6">
-		<div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="825" data-minheight="512" data-maxheight="100%">
+			<div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="825" data-minheight="512" data-maxheight="100%">
 {% for image in site.static_files %}
 	{% if image.path contains post.image_path %}
 		{% unless image.path contains 'thumbs' %}
-			<a href="{{ image.path }}" data-caption=""><img src="{{ post.image_path | append: '/thumbs/' | append: image.name }}"></a>
+			<a href="{{/ | append: image.path }}" data-caption=""><img src="{{ post.image_path | append: '/thumbs/' | append: image.name }}"></a>
 		{% endunless %}
 	{% endif %}
 {% endfor %}
