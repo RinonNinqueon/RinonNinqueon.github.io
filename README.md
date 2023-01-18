@@ -1,1 +1,3 @@
-# Rinon Ninqueon Site
+# Rinon Ninqueon Home Page
+
+Schematics, translates, music and DIY  
