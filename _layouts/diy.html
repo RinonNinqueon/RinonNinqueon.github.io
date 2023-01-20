@@ -13,7 +13,7 @@
 {%- for image in site.static_files -%}
 	{%- if image.path contains page.image_path -%}
 		{%- unless image.path contains 'thumbs' -%}
-			<a href="{{ image.path }}" data-caption=""><img src="{{'/' | append: page.image_path | append: '/thumbs/' | append: image.name }}"></a>
+			&nbsp;<a href="{{ image.path }}" data-caption=""><img src="{{'/' | append: page.image_path | append: '/thumbs/' | append: image.name }}"></a>
 		{%- endunless -%}
 	{%- endif -%}
 {%- endfor -%}
