@@ -3,6 +3,7 @@ layout: post
 title:  "Педаль перегруза DriveIt! - работа над ошибками"
 date:   2016-06-02 15:30:21
 categories: schematics
+tags: schematics diy driveit
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

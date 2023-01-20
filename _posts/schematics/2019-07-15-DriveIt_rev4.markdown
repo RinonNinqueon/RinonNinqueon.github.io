@@ -3,6 +3,7 @@ layout: post
 title:  'DriveIt! ревизия 4'
 date:   2019-07-15 16:30:21
 categories: schematics
+tags: schematics diy driveit
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

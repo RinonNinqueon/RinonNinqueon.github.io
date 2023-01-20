@@ -3,6 +3,7 @@ layout: post
 title:  "Ламповый компрессор, заметки"
 date:   2014-01-16 23:54:19
 categories: schematics
+tags: schematics diy tubecompressor
 ---
 
 #Ламповый компрессор

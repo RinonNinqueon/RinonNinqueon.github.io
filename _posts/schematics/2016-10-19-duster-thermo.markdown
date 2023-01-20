@@ -3,6 +3,7 @@ layout: post
 title:  'Термометр в Renault Duster'
 date:   2016-10-19 23:30:21
 categories: schematics
+tags: schematics diy dusterthermo
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

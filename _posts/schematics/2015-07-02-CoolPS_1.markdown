@@ -3,6 +3,7 @@ layout: post
 title:  "Правильный блок питания для гитарных эффектов. Часть 1"
 date:   2015-07-02 13:07:52
 categories: schematics
+tags: schematics diy pedalpower
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

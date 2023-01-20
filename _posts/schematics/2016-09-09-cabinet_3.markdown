@@ -3,6 +3,7 @@ layout: post
 title:  'Делаем комбик 12", часть 3'
 date:   2016-09-09 15:30:21
 categories: schematics
+tags: schematics diy combo
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

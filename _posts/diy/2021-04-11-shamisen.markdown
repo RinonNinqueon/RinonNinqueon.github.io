@@ -20,8 +20,14 @@ image_path: "img/shamisen/release"
 * Порожек - Амарант + TUSQ  
 * Ритейнер - Кокоболо  
 
-### Ссылки:
-* <a href="/music/shamisen_1/">Изготовление</a>  
-* <a href="/music/shamisen_2/">Как играть</a>
+### Связанные статьи:
+
+<ul class="posts">
+{%- for post in site.posts -%}
+	{%- if post.tags contains 'shamisen' -%}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{%- endif -%}
+{%- endfor -%}
+</ul>
 
 <br><br>  

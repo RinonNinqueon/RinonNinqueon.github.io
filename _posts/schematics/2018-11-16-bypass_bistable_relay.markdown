@@ -3,6 +3,7 @@ layout: post
 title:  'Bypass на поляризованном реле'
 date:   2018-11-16 15:30:21
 categories: schematics
+tags: schematics diy bypass
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
