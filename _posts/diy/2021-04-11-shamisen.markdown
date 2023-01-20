@@ -5,7 +5,7 @@ description: ""
 image: "/img/shamisen/DSC_0608.JPG"
 date:   2021-04-11 15:36:07
 categories: diy
-tags: music diy
+tags: music diy completed
 image_path: "img/shamisen/release"
 ---
 
