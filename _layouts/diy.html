@@ -9,7 +9,7 @@
 <div class="post">
 	<div class="row">
 		<div class="col-xs-6 col-md-6">
-			<div class="fotorama" data-nav="thumbs" data-allowfullscreen="true" data-keyboard="true" data-width="50%" data-minwidth="512" data-maxwidth="825" data-minheight="512" data-maxheight="100%">
+			<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-keyboard="true" data-width="50%" data-minwidth="400" data-maxwidth="100%" data-minheight="300" data-maxheight="100%">
 {%- for image in site.static_files -%}
 	{%- if image.path contains page.image_path -%}
 		{%- unless image.path contains 'thumbs' -%}
