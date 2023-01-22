@@ -1,0 +1,33 @@
+---
+layout: diy
+title:  "Мини-тревел Bziccolo"
+description: "Бегзоловая мини гитара с мензурой 500 мм"
+image: "/img/bziccolo/IMG_20230106_001320.jpg"
+date:   2023-01-06 01:06:00
+categories: diy
+tags: music diy completed
+image_path: "img/bziccolo"
+---
+
+# Сямисэн
+
+### Спецификация
+
+* Гриф сквозной — Клён  
+* Корпус доклейки — Махагон кая / Сапеле  
+* Топ — Шпон волнистого клёна  
+* Накладка головы — Шпон волнистого клёна  
+* Накладка — Красный эбен  
+* Мензура — 500 мм, 24 лада Sintoms 2.3 mm  
+* Фурнитура — какая-то  
+* Звукосниматели — Fokin Saboteur Bridge  
+* Переменник — CTS Push-Pull  
+* Стреплоки — Shaller  
+* Покрытие — Спиртовые красками, поверх - Датское масло  
+* Вес — 1.8 кг  
+
+### Видео:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w_pA__TVCQw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br>  
