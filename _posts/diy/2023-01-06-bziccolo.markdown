@@ -9,7 +9,7 @@ tags: music diy completed
 image_path: "img/bziccolo"
 ---
 
-# Сямисэн
+# Мини-тревел Bziccolo
 
 ### Спецификация
 
