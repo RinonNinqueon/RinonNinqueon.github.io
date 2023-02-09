@@ -1,0 +1,35 @@
+---
+layout: diy
+title:  "Les Paul"
+description: "Реплика Les Paul в честь юбилея модели"
+image: "/img/lespaul2022/DSCF1059.JPG"
+date:   2022-10-10 10:10:00
+categories: diy
+tags: music diy completed
+image_path: "img/lespaul2022"
+---
+
+# Les Paul
+
+### Спецификация
+
+* Корпус — Махагон кая
+* Топ — Волнистый клён
+* Накладка головы — Волнистый клён
+* Гриф — Махагон кая
+* Накладка — Каталокс
+* Мензура — 24.75 дюйма, 22 лада Sintoms 2.3 mm
+* Фурнитура — Gotoh
+* Звукосниматели — Fishman Fluence Classic Open Core
+* Переменники — CTS Push-Pull
+* Стреплоки — Shaller
+* Покрытие — Tobacco Burst спиртовыми красками, поверх - НЦ
+* Вес — 4 кг  
+
+### Видео:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gRW5hYUx6eA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+Так же есть серия видео по изготовлению.<br>
+
+<br><br>  
