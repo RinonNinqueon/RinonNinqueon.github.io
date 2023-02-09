@@ -3,6 +3,7 @@ layout: diy
 title:  "Les Paul"
 description: "Реплика Les Paul в честь юбилея модели"
 image: "/img/lespaul2022/DSCF1059.JPG"
+thumb: "/img/lespaul2022/thumbs/DSCF1059.JPG"
 date:   2022-10-10 10:10:00
 categories: diy
 tags: music diy completed
