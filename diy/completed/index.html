@@ -1,0 +1,40 @@
+---
+layout: default
+title: Завершённые проекты
+---
+<h1>Проекты</h1>
+
+<div class="container">
+<ul class="posts">
+{%- assign counter = 0 -%}
+{%- assign end_div = false -%}
+{%- for post in site.posts -%}
+	{%- if post.tags contains 'diy' -%}
+		{%- if post.tags contains 'completed' -%}
+			{%- assign modul = counter | modulo: 3 -%}
+			{%- if modul == 0 or forloop.first -%}
+				<div class="row">
+				{%- assign end_div = false -%}
+			{%- endif -%}
+			<div class="col-md-4">
+				<div class="thumbnail"> 
+					<a href="{{ post.url }}">
+						<img src="{{ post.image }}" class="img-responsive img-rounded"/>
+						<span class="label label-default">{{ post.date | date_to_string }}</span><br>
+						<p>{{ post.title }}</p>
+					</a>
+				</div>
+			</div>
+			{%- assign counter = counter | plus: 1 -%}
+			{%- if modul == 2 %}
+				</div>
+				{%- assign end_div = true -%}
+			{%- endif -%}
+		{%- endif -%}
+	{%- endif -%}
+	{% if forloop.last and end_div == false %}
+		</div>
+	{% endif %}
+{%- endfor -%}
+</ul>
+</div>
