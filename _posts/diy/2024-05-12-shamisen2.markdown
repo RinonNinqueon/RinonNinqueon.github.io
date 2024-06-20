@@ -1,0 +1,46 @@
+---
+layout: diy
+title:  "Сямисэны Futago"
+description: ""
+image: "/img/shamisen2/DSCF4550.jpg"
+thumb: "/img/shamisen2/thumbs/DSCF4550.jpg"
+date:   2024-05-12 15:36:07
+categories: diy
+tags: music diy completed
+image_path: "img/shamisen2/release"
+---
+
+# Сямисэн
+
+Цугару футодзао сямисэн "Futago", 2 шт.
+
+### Спецификация
+
+* Гриф — Вишня волнистая. Гриф неразборный, размер — 30x35 мм на первом ладу  
+* Дека — Орех. Размер — 5-bun, есть резьба Komochi-ayasugi  
+* Козья кожа  
+* Втулки — латунь, точил на токарном  
+* Колки — Африканское чёрное дерево  
+* Порожек верхний — JESCAR EVO Gold  
+* Порожек нижний - Африканское чёрное дерево + TUSQ  
+* Покрытие — спиртовые краски, датское масло, воск  
+
+* Звукосниматель — пьеза Shaller Oyster  
+* Докакэ — картон, фетр, обшито сатином  
+* Нэо — шёлк, с Японии  
+* Струны поставил Marusan Hashimoto — 太口-1, 15-2, 15-3  
+
+* Длина — 102 см  
+* Вес — 1.8 кг  
+
+### Связанные статьи:
+
+<ul class="posts">
+{%- for post in site.posts -%}
+	{%- if post.tags contains 'shamisen' -%}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{%- endif -%}
+{%- endfor -%}
+</ul>
+
+<br><br>  
