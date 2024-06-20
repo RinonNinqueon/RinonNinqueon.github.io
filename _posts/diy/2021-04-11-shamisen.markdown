@@ -2,8 +2,8 @@
 layout: diy
 title:  "Сямисэн"
 description: ""
-image: "/img/shamisen/DSC_0608.JPG"
-thumb: "/img/shamisen/thumbs/DSC_0608.JPG"
+image: "/img/shamisen/release/IMG_20191209_211956.jpg"
+thumb: "/img/shamisen/release/thumbs/IMG_20191209_211956.jpg"
 date:   2021-04-11 15:36:07
 categories: diy
 tags: music diy completed
