@@ -1,0 +1,33 @@
+---
+layout: diy
+title:  "Dean ML"
+description: "Dean ML памяти Dimebag Darrel"
+image: "/img/deanml2024/DSCF5924.jpg"
+thumb: "/img/deanml2024/thumbs/DSCF5924.jpg"
+date:   2024-10-07 17:38:00
+categories: diy
+tags: music diy completed
+image_path: "img/deanml2024"
+---
+
+# Dean ML
+
+### Спецификация
+
+* Корпус — Махагон кая  
+* Топ — Волнистый клён  
+* Накладка головы — Волнистый клён  
+* Гриф — Махагон кая  
+* Накладка — Красный эбен  
+* Мензура — 25.5 дюйма, 24 лада Sintoms 2.8 mm
+* Бридж — Schaller LockMeister  6
+* Звукосниматели — Bill Lawrence L500XL (развёрнут) + Seymour Duncan SH-1B  
+* Колки — Gotoh SG381-20  
+* Покрытие — Slime Burst спиртовыми красками, поверх - НЦ  
+* Вес — 4.6 кг  
+
+### Видео:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3y_1bqWkOjSYtBuC&amp;list=PLw3vh-A4Wvl_OtYpS3l3kXbSAkbzMvUAK" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br>  
