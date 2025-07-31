@@ -17,10 +17,10 @@ title: Завершённые проекты
 				{%- assign end_div = false -%}
 			{%- endif -%}
 			<div class="col-md-4">
-				<div class="thumbnail"> 
+				<div class="img-thumbnail"> 
 					<a href="{{ post.url }}">
-						<img src="{{ post.thumb }}" class="img-responsive img-rounded" width="256px" height="256px"/>
-						<span class="label label-default">{{ post.date | date_to_string }}</span><br>
+						<img src="{{ post.thumb }}" class="img-fluid rounded" width="256px" height="256px"/>
+						<span class="badge text-bg-dark">{{ post.date | date_to_string }}</span><br>
 						<p>{{ post.title }}</p>
 					</a>
 				</div>
