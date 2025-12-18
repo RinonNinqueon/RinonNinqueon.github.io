@@ -1,0 +1,35 @@
+.agreement-consent {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(33, 37, 41, 0.95);
+    color: #fff;
+    padding: 1rem;
+    z-index: 9999;
+    transform: translateY(100%);
+    transition: transform 0.3s ease-in-out;
+}
+
+.agreement-consent.show {
+    transform: translateY(0);
+}
+
+.agreement-consent.hiding {
+    transform: translateY(100%);
+}
+
+.agreement-settings {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.agreement-settings.show {
+    max-height: 300px;
+}
+
+.form-check-input:checked {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
