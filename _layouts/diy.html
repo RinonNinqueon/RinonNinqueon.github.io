@@ -6,9 +6,8 @@
       {%- endfor -%}
 </p>
 <hr>
-<div class="post">
-	<div class="row">
-		<div class="col-xs-6 col-md-6">
+<div class="post container-fluid px-0">
+	<div class="d-block d-md-inline-block col-md-6 float-md-start me-md-4 mb-3">
 			<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-keyboard="true" data-width="50%" data-minwidth="400" data-maxwidth="100%" data-minheight="300" data-maxheight="100%">
 {%- for image in site.static_files -%}
 	{%- if image.path contains page.image_path -%}
@@ -18,10 +17,9 @@
 	{%- endif -%}
 {%- endfor -%}
 			</div>
-		</div>
-		<div class="col-xs-6 col-md-6">
+	</div>
+	<div class="overflow-hidden-disable-float">
 			{{ content }}
-		</div>
 	</div>
 </div>
  {%- include footer.html -%}
