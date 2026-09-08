@@ -5,7 +5,7 @@ function()
 	{
 		var src = $(this).attr('alt');
 		
-		var img = '<img src="' + src + '" class="img-fluid"/>';
+		var img = '<img src="' + src + '" class="img-fluid" style="max-height: 85vh; width: auto;"/>';
 		var modalEl = document.getElementById('myModal');
 		if (!modalEl)
 			return;
@@ -15,7 +15,19 @@ function()
 		
 		$(modalEl).off('shown.bs.modal').on('shown.bs.modal', function()
 		{
-			$(this).find('.modal-dialog').css({ width: 'auto', height: 'auto', 'max-height': '100%' });
+			var $dialog = $(this).find('.modal-dialog');
+			$dialog.css({
+                'max-width': '90%', 
+                'width': 'auto', 
+                'display': 'inline-block'
+            });
+			
+			$dialog.parent().css({
+                'display': 'flex',
+                'justify-content-center': 'center',
+                'align-items': 'center'
+            });
+			
 			$('#myModal .modal-body').html(img);
 		});
 
