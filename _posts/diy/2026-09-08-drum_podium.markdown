@@ -110,7 +110,7 @@ image_path: "img/podium/photos"
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/podium/no_podium_preview.png" alt="/img/podium/no_podium.png" class="img-thumbnail"><br>
-	  <center>Cхема</center>
+	  <center>Спектр без подиума</center>
 	</span>
    	</li>
 </div>
@@ -121,7 +121,7 @@ image_path: "img/podium/photos"
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/podium/podium_preview.png" alt="/img/podium/podium.png" class="img-thumbnail"><br>
-	  <center>Cхема</center>
+	  <center>Спектр с подиумом</center>
 	</span>
    	</li>
 </div>
