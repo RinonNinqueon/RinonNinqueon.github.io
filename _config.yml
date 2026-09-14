@@ -3,7 +3,7 @@ title: Rínon Nínqueon
 email: mail@rinonninqueon.ru
 description: "Заметки по электронике, музыке и переводы"
 baseurl: ""
-url: "http://rinonninqueon.ru"
+url: "https://rinonninqueon.ru"
 
 destination: ./
 markdown: kramdown
@@ -14,6 +14,7 @@ kramdown:
 permalink: /:categories/:title/
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 str_next_page: "Туда"  
 str_previous_page: "Сюда"
 paginate: 15
