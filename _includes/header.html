@@ -7,7 +7,11 @@
 	<meta name="google-site-verification" content="rnBOtSuaYG5ZOfzf0UlIBaaUw3psDyto75cfg2LfOFg" />
 	
 	<meta http-equiv="content-language" content="ru" />
-    <title>{{ site.name }}</title>
+	{% if page.title %}
+		<title>{{ page.title }} | {{ site.name }}</title>
+	{% else %}
+		<title>{{ site.name }}</title>
+	{% endif %}
 	
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@RinonNinqueon">
