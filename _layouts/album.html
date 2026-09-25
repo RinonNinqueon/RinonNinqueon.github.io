@@ -1,22 +1,22 @@
 ---
 layout: default
 ---
-<center>
+<div class="text-center">
 <h1>{{ page.title }}</h1>
-<a href="/img/albums/{{ page.image }}" class="thumbnail" target="_blank">
-	<img src="/img/albums/preview/{{ page.image }}" width="256px" alt="{{ page.title }}"/><br>
-</a>
-</center>
+</div>
 <div class="row">
 	<div class="col-md-12">
 		<div class="card text-center">
 			<div class='card-body'>
+				<a href="/img/albums/{{ page.image }}" class="d-inline-block mb-3" target="_blank">
+					<img src="/img/albums/preview/{{ page.image }}" class="img-fluid" width="256px" alt="{{ page.title }}"/>
+				</a>
 			<h5 class="card-title">
-				<center>
+				<div class="text-center">
 					<h3 id="current-song-id">{{ page.title }}</h3>
-				</center>
+				</div>
 			</h5>
-				<center>
+				<div class="text-center">
 					<audio preload="none"></audio>
 					<br>
 	<table class="table table-hover" id="songs_table">
@@ -81,7 +81,7 @@ layout: default
 		  var cur = "Сейчас играет: \"" + $(this).attr("alt") + "\"";
 		  $("#current-song-id").html(cur);
         });
-		sortTable();
+	sortTable();
 	});
 	
 	function sortTable()
@@ -124,7 +124,7 @@ layout: default
 	  }
 	}
     </script>
-				</center>
+				</div>
 			</div>
 		</div>
 	</div>

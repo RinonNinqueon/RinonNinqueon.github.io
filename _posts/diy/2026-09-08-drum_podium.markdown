@@ -13,10 +13,10 @@ image_path: "img/podium/photos"
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-		<center>
+		<div class="text-center">
           <div class="modal-body">               
           </div>
-		</center>
+		</div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
@@ -110,7 +110,7 @@ image_path: "img/podium/photos"
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/podium/no_podium_preview.png" alt="/img/podium/no_podium.png" class="img-thumbnail"><br>
-	  <center>Спектр без подиума</center>
+	  <div class="text-center">Спектр без подиума</div>
 	</span>
    	</li>
 </div>
@@ -121,7 +121,7 @@ image_path: "img/podium/photos"
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/podium/podium_preview.png" alt="/img/podium/podium.png" class="img-thumbnail"><br>
-	  <center>Спектр с подиумом</center>
+	  <div class="text-center">Спектр с подиумом</div>
 	</span>
    	</li>
 </div>

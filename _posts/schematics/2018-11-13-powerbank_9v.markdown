@@ -8,10 +8,10 @@ tags: schematics diy pedalpower
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-		<center>
+		<div class="text-center">
           <div class="modal-body">               
           </div>
-		</center>
+		</div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
@@ -67,7 +67,7 @@ tags: schematics diy pedalpower
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/powerbank/schematic_main_preview.png" alt="/img/powerbank/schematic_main.png" class="img-thumbnail"><br>
-	  <center>Основная схема</center>
+	  <div class="text-center">Основная схема</div>
 	</span>
    	</li>
 </div>
@@ -81,7 +81,7 @@ tags: schematics diy pedalpower
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/powerbank/schematic_ind_preview.png" alt="/img/powerbank/schematic_ind.png" class="img-thumbnail"><br>
-	  <center>Схема индикатора заряда</center>
+	  <div class="text-center">Схема индикатора заряда</div>
 	</span>
    	</li>
 </div>

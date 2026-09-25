@@ -8,10 +8,10 @@ tags: schematics diy driveit
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-		<center>
+		<div class="text-center">
           <div class="modal-body">               
           </div>
-		</center>
+		</div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
@@ -41,7 +41,7 @@ tags: schematics diy driveit
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/DriveIt/DriveIt_1_preview.JPG" alt="/img/DriveIt/DriveIt_1.JPG" class="img-thumbnail"><br>
-	  <center>Схема 1</center>
+	  <div class="text-center">Схема 1</div>
 	</span>
    	</li>
 </div>
@@ -58,7 +58,7 @@ tags: schematics diy driveit
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/DriveIt/DriveIt_2_preview.JPG" alt="/img/DriveIt/DriveIt_2.JPG" class="img-thumbnail"><br>
-	  <center>Схема 2</center>
+	  <div class="text-center">Схема 2</div>
 	</span>
    	</li>
 </div>
@@ -74,7 +74,7 @@ tags: schematics diy driveit
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/DriveIt/DriveIt_3_preview.JPG" alt="/img/DriveIt/DriveIt_3.JPG" class="img-thumbnail"><br>
-	  <center>Схема 3</center>
+	  <div class="text-center">Схема 3</div>
 	</span>
    	</li>
 </div>

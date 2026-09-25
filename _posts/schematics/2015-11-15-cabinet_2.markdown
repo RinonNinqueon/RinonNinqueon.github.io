@@ -8,10 +8,10 @@ tags: schematics diy combo
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-		<center>
+		<div class="text-center">
           <div class="modal-body">               
           </div>
-		</center>
+		</div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
@@ -43,7 +43,7 @@ tags: schematics diy combo
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/cabinet/6n23p.gif" alt="/img/cabinet/6n23p.gif" class="img-thumbnail"><br>
-	  <center>Расчёт каскада</center>
+	  <div class="text-center">Расчёт каскада</div>
 	</span>
    	</li>
 </div>
@@ -121,7 +121,7 @@ tags: schematics diy combo
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/cabinet/hybrid_ps_preview.png" alt="/img/cabinet/hybrid_ps.png" class="img-thumbnail"><br>
-	  <center>Схема БП</center>
+	  <div class="text-center">Схема БП</div>
 	</span>
    	</li>
 </div>
@@ -137,7 +137,7 @@ tags: schematics diy combo
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/cabinet/hybrid_preview.png" alt="/img/cabinet/hybrid.png" class="img-thumbnail"><br>
-	  <center>Общая схема</center>
+	  <div class="text-center">Общая схема</div>
 	</span>
    	</li>
 </div>
@@ -162,7 +162,7 @@ tags: schematics diy combo
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/cabinet/contour.jpg" alt="/img/cabinet/contour.jpg" class="img-thumbnail"><br>
-	  <center>Чёртов резонанс!</center>
+	  <div class="text-center">Чёртов резонанс!</div>
 	</span>
    	</li>
 </div>

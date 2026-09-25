@@ -15,14 +15,12 @@ layout: default
 {%- if page.download and page.download != '' -%}
 <div class="row">
 	<div class="col-md-12">
-		<div class="panel panel-default">
-			<div class="panel-heading">
-				<center>
-					<h3 id="current-song-id">{{ page.name }}</h3>
-				</center>
+		<div class="card">
+			<div class="card-header text-center">
+				<h3 id="current-song-id">{{ page.name }}</h3>
 			</div>
-			<div class="panel-body">
-				<center>
+			<div class="card-body">
+				<div class="text-center">
 					<audio preload="none"></audio>
 					<br>
 	<table class="table table-hover">
@@ -41,7 +39,7 @@ layout: default
 	</tr>
 	</table>
 	<script src="/js/player.js"></script>
-				</center>
+				</div>
 			</div>
 		</div>
 	</div>

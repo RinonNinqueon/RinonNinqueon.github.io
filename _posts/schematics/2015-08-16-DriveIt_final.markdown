@@ -8,10 +8,10 @@ tags: schematics diy driveit
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-		<center>
+		<div class="text-center">
           <div class="modal-body">               
           </div>
-		</center>
+		</div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
@@ -32,7 +32,7 @@ tags: schematics diy driveit
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/DriveIt/DriveIt_4_preview.JPG" alt="/img/DriveIt/DriveIt_4.JPG" class="img-thumbnail"><br>
-	  <center>Финальная схема</center>
+	  <div class="text-center">Финальная схема</div>
 	</span>
    	</li>
 </div>
@@ -53,7 +53,7 @@ tags: schematics diy driveit
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/DriveIt/5_preview.JPG" alt="/img/DriveIt/5.JPG" class="img-thumbnail"><br>
-	  <center>Девайс в сборе</center>
+	  <div class="text-center">Девайс в сборе</div>
 	</span>
    	</li>
 </div>

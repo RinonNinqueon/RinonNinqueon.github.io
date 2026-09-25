@@ -8,10 +8,10 @@ tags: schematics diy pedalpower
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-		<center>
+		<div class="text-center">
           <div class="modal-body">               
           </div>
-		</center>
+		</div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
@@ -38,7 +38,7 @@ tags: schematics diy pedalpower
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/CoolPS/BP_1_preview.png" alt="/img/CoolPS/BP_1.png" class="img-thumbnail"><br>
-	  <center>Схема 1</center>
+	  <div class="text-center">Схема 1</div>
 	</span>
    	</li>
 </div>
@@ -54,7 +54,7 @@ tags: schematics diy pedalpower
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/CoolPS/BP_2_preview.png" alt="/img/CoolPS/BP_2.png" class="img-thumbnail"><br>
-	  <center>Схема 2</center>
+	  <div class="text-center">Схема 2</div>
 	</span>
    	</li>
 </div>

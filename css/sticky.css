@@ -1,4 +1,12 @@
-html, body, .container, .content {
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 60px;
+}
+
+.container, .content {
     height: 100%;
 }
 

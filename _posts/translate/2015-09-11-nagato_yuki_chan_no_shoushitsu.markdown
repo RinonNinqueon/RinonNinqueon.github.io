@@ -14,7 +14,7 @@ categories: [translate, manga]
 UPD.  
 Проект заморожен до лучших времён.  
 <br>
-<center>
+<div class="text-center">
 <p class="switch-group">Управление <strong class="key js-arrow" data-fotorama="#keyboard" data-show="&lt;">&larr;</strong> и <strong class="key js-arrow" data-fotorama="#keyboard" data-show="&gt;">&rarr;</strong> на клавиатуре.</p>
 <div class="fotorama"
 	data-nav="thumbs"
@@ -76,6 +76,6 @@ UPD.
 	<a href="/img/manga/nagato_yuki_chan_no_shoushitsu/nagato_01_0048.png"><img src="/img/manga/nagato_yuki_chan_no_shoushitsu/preview/nagato_01_0048_preview.png"></a>
 </div>
 <p class="switch-group">Управление <strong class="key js-arrow" data-fotorama="#keyboard" data-show="&lt;">&larr;</strong> и <strong class="key js-arrow" data-fotorama="#keyboard" data-show="&gt;">&rarr;</strong> на клавиатуре.</p>
-</center>
+</div>
 Всё также есть в альбоме ВК: [тыц](http://vk.com/album10438371_221012470).<br>
 <br><br><br><br><br>

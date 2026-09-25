@@ -8,10 +8,10 @@ tags: schematics diy dusterthermo
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-		<center>
+		<div class="text-center">
           <div class="modal-body">               
           </div>
-		</center>
+		</div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
@@ -43,7 +43,7 @@ tags: schematics diy dusterthermo
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/duster/double_thermo.png" alt="/img/duster/double_thermo.png" class="img-thumbnail"><br>
-	  <center>Схема</center>
+	  <div class="text-center">Схема</div>
 	</span>
    	</li>
 </div>
@@ -68,7 +68,7 @@ tags: schematics diy dusterthermo
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/duster/1.png" alt="/img/duster/1.png" class="img-thumbnail"><br>
-	  <center>Заглушка</center>
+	  <div class="text-center">Заглушка</div>
 	</span>
    	</li>
 </div>
@@ -77,7 +77,7 @@ tags: schematics diy dusterthermo
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/duster/2.png" alt="/img/duster/2.png" class="img-thumbnail"><br>
-	  <center>Только крепление</center>
+	  <div class="text-center">Только крепление</div>
 	</span>
    	</li>
 </div>
@@ -86,7 +86,7 @@ tags: schematics diy dusterthermo
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/duster/3.png" alt="/img/duster/3.png" class="img-thumbnail"><br>
-	  <center>Дупло</center>
+	  <div class="text-center">Дупло</div>
 	</span>
    	</li>
 </div>

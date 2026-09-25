@@ -8,10 +8,10 @@ tags: schematics diy bypass
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-		<center>
+		<div class="text-center">
           <div class="modal-body">               
           </div>
-		</center>
+		</div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
@@ -59,7 +59,7 @@ tags: schematics diy bypass
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/schematic/switch_schematic_preview.png" alt="/img/schematic/switch_schematic.png" class="img-thumbnail"><br>
-	  <center>Cхема</center>
+	  <div class="text-center">Cхема</div>
 	</span>
    	</li>
 </div>
