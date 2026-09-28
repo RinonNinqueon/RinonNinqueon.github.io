@@ -5,7 +5,9 @@ description: "Подарочная шкатулка"
 image: "/img/box/IMG_20240224_195853.jpg"
 thumb: "/img/box/thumbs/IMG_20240224_195853.jpg"
 date:   2024-02-24 01:06:00
-categories: diy
+categories: woodwork
+redirect_from:
+  - /diy/box/
 tags: diy completed
 image_path: "img/box"
 ---

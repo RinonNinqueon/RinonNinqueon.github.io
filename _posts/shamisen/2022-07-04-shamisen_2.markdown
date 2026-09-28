@@ -2,8 +2,10 @@
 layout: post
 title:  "Сямисэн по-русски. Часть 2: Как играть на Сямисэне?"
 date:   2022-07-04 01:01:00
-categories: music
-tags: music shamisen
+categories: woodwork
+redirect_from:
+  - /music/shamisen_2/
+tags: music diy shamisen japan shamisen
 ---
 
 Начало [здесь](/music/shamisen_1/).  

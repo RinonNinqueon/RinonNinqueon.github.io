@@ -5,7 +5,9 @@ description: "Бегзоловая мини гитара с мензурой 500
 image: "/img/bziccolo/IMG_20230106_001320.jpg"
 thumb: "/img/bziccolo/thumbs/IMG_20230106_001320.jpg"
 date:   2023-01-06 01:06:00
-categories: diy
+categories: woodwork
+redirect_from:
+  - /diy/bziccolo/
 tags: music diy completed
 image_path: "img/bziccolo"
 ---

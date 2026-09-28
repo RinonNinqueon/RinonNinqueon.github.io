@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  'Powerbank 9v для гитарных педалей'
+image: "/img/powerbank/DSC_0005.JPG"
+thumb: "/img/powerbank/DSC_0005_preview.JPG"
 date:   2018-11-13 14:30:21
 categories: schematics
-tags: schematics diy pedalpower
+tags: schematics diy pedalpower completed
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

@@ -15,6 +15,7 @@ permalink: /:categories/:title/
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 str_next_page: "Туда"  
 str_previous_page: "Сюда"
 paginate: 15

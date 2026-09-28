@@ -5,7 +5,9 @@ description: ""
 image: "/img/shamisen2/release/DSCF4550.jpg"
 thumb: "/img/shamisen2/release/thumbs/DSCF4550.jpg"
 date:   2024-05-12 15:36:07
-categories: diy
+categories: woodwork
+redirect_from:
+  - /diy/shamisen2/
 tags: music diy completed
 image_path: "img/shamisen2/release"
 ---

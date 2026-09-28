@@ -5,7 +5,9 @@ description: "Dean ML памяти Dimebag Darrel"
 image: "/img/deanml2024/DSCF5924.jpg"
 thumb: "/img/deanml2024/thumbs/DSCF5924.jpg"
 date:   2024-10-07 17:38:00
-categories: diy
+categories: woodwork
+redirect_from:
+  - /diy/dean_ml/
 tags: music diy completed
 image_path: "img/deanml2024"
 ---

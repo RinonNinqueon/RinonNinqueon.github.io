@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  'Делаем комбик 12", часть 3'
+image: "/img/cabinet/DSC01137.JPG"
+thumb: "/img/cabinet/DSC01137_preview.JPG"
 date:   2016-09-09 15:30:21
 categories: schematics
-tags: schematics diy combo
+tags: schematics diy combo completed
 ---
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">

@@ -3,9 +3,12 @@ layout: post
 title:  "Сямисэн по-русски. Часть 1: Как сделать Сямисэн?"
 description: "Мы поговорим про историю Сямисэна, классификацию и его изготовление в 'дачных' условиях"
 image: "/img/shamisen/DSC_0608.JPG"
+thumb: "/img/shamisen/thumbs/DSC_0608.JPG"
 date:   2019-12-29 15:36:07
-categories: music
-tags: music diy shamisen
+categories: woodwork
+redirect_from:
+  - /music/shamisen_1/
+tags: music diy shamisen japan shamisen
 ---
 
 Есть такой чудесный народный японский инструмент, Сямисэн. Дальний брат нашей балалайки, или "один палка — три струна", только без ладов.  

@@ -5,7 +5,9 @@ description: "Реплика Les Paul в честь юбилея модели"
 image: "/img/lespaul2022/DSCF1059.JPG"
 thumb: "/img/lespaul2022/thumbs/DSCF1059.JPG"
 date:   2022-10-10 10:10:00
-categories: diy
+categories: woodwork
+redirect_from:
+  - /diy/les_paul/
 tags: music diy completed
 image_path: "img/lespaul2022"
 ---
