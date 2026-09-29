@@ -152,12 +152,3 @@ a:visited { color: #a0a; }
   background-color: #333;
 }
 
-/* Card hover effects */
-.hover-shadow {
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
-}
-
-.hover-shadow:hover {
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
-  transform: translateY(-2px);
-}

@@ -42,3 +42,60 @@ body {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
+/* Floating Action Button */
+.btn-floating {
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 20px !important;
+  left: auto !important;
+  width: 56px !important;
+  height: 56px !important;
+  border-radius: 50% !important;
+  z-index: 1050 !important;
+  background-color: #0d6efd !important;
+  color: #fff !important;
+  border: none !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3) !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.btn-floating:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+  background-color: #0b5ed7;
+}
+
+.btn-floating svg {
+  width: 24px;
+  height: 24px;
+}
+
+.text-center .audiojs {
+  width: 100% !important;
+  box-sizing: border-box;
+  margin: 15px 0;
+}
+
+.text-center .audiojs .scrubber {
+  width: calc(100% - 160px) !important;
+  box-sizing: border-box;
+}
+
+.text-center {
+  padding: 0 20px;
+}
+
+
+/* Card hover effects */
+.hover-shadow {
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  transform: translateY(-2px);
+}

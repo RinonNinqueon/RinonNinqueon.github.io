@@ -48,5 +48,47 @@
         </div>
     </div>
 </div>
+
+<!-- FAB Button (вне sticky footer layout) -->
+<button class="btn-floating" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebarOffcanvas" aria-label="Open sidebar">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+</button>
+
+<!-- Offcanvas Sidebar -->
+<div class="offcanvas offcanvas-end offcanvas-sm" tabindex="-1" id="sidebarOffcanvas" aria-labelledby="sidebarOffcanvasLabel">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="sidebarOffcanvasLabel">Связаться и слушать</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <!-- Соцсети -->
+    <div class="card text-center mb-3">
+      <div class="card-body">
+        <h6 class="card-title">Социальные сети</h6>
+        <div class="d-flex justify-content-center gap-3">
+          <a rel="me" href="https://mastodon.ml/@RinonNinqueon" class="text-decoration-none"><img src="/img/social/mastodon.png" width="32px" alt="Mastodon"/></a>
+          <a href="https://t.me/rinonninqueonchannel" class="text-decoration-none"><img src="/img/social/telegram.png" width="32px" alt="Telegram"/></a>
+          <a href="https://www.youtube.com/user/RinonNinqueon" class="text-decoration-none"><img src="/img/social/youtube.png" width="32px" alt="YouTube"/></a>
+        </div>
+      </div>
+    </div>
+    <!-- Музыка -->
+    <div class="card text-center">
+      <div class="card-body">
+        <h6 class="card-title">Слушайте и покупайте</h6>
+        <div class="d-flex flex-column align-items-center gap-2">
+          <a href="https://geo.itunes.apple.com/ru/artist/rinon-ninqueon/id1144412656?mt=1&app=music" class="text-decoration-none"><img src="/img/music-lrg.svg" width="150px" alt="iTunes"/></a>
+          <a href="https://play.google.com/store/music/artist/Rínon_Nínqueon?id=Ahollubkeh642xufsuikttepaoe" class="text-decoration-none"><img src="/img/ru_badge_web_music.png" width="150px" alt="Google Play"/></a>
+          <a href="https://music.yandex.ru/artist/4565078" class="text-decoration-none"><img src="/img/button_main.png" width="150px" alt="Яндекс Музыка"/></a>
+          <div class="d-flex gap-3">
+            <a href="https://www.jamendo.com/en/artist/441217/rinon-ninqueon" class="text-decoration-none"><img src="/img/social/jamendo.png" width="32px" alt="Jamendo"/></a>
+            <a href="https://soundcloud.com/rinonninqueon" class="text-decoration-none"><img src="/img/social/soundcloud.png" width="32px" alt="SoundCloud"/></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>
