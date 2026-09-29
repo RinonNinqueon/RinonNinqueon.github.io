@@ -7,20 +7,17 @@ title: Песни
 <h1>Песни</h1>
 <div class="row">
 	<div class="col-md-12">
-		<div class="panel panel-default">
-			<div class="panel-heading">
-				<center>
-					<h3 id="current-song-id">А ещё песни можно слушать</h3>
-				</center>
+		<div class="card">
+			<div class="card-header text-center">
+				<h3 id="current-song-id">А ещё песни можно слушать</h3>
 			</div>
-			<div class="panel-body">
-				<center>
-					<audio preload="none"></audio>
-				</center>
+			<div class="card-body text-center">
+				<audio preload="none"></audio>
 			</div>
 		</div>
 	</div>
 </div>
+<div class="table-responsive my-4">
 <table class="table table-hover">
 <tr>
 	<th>#</th>
@@ -33,7 +30,7 @@ title: Песни
 {%- assign items = site.posts | sort: 'title' -%}
 {%- for post in items -%}
 	{%- if post.categories contains 'songs' -%}
-    	<tr>
+   	<tr>
 		<td align="center">{{ counter }}</td>
 		<td><a href="{{ post.url }}">{{ post.name }}</a></td>
 		<td>
@@ -78,10 +75,9 @@ title: Песни
 	{%- endif -%}
 {%- endfor -%}
 </table>
-<br>
-<hr>
-<br>
-<h2>Для энтузиастов</h2>
-Если захотите поковыряться в исходниках, то заходите: <a href="https://cloud.mail.ru/public/B2Ej/u15BmJFEX">ТЫЦ</a>.<br>
-Там как песни Группы, так и Rinon Ninqueon. Песни поделены на альбомы.<br>
-Учтите, что для работы вам понадобится как минимум Ardour. Из плагинов в основном Calf, Tap, Guitarix, GVST. Возможно, что-то ещё, но история это умалчивает.<br>
+</div>
+<hr class="my-4">
+<h2 class="my-4">Для энтузиастов</h2>
+<p>Если захотите поковыряться в исходниках, то заходите: <a href="https://cloud.mail.ru/public/B2Ej/u15BmJFEX">ТЫЦ</a>.</p>
+<p>Там как песни Группы, так и Rinon Ninqueon. Песни поделены на альбомы.</p>
+<p>Учтите, что для работы вам понадобится как минимум Ardour. Из плагинов в основном Calf, Tap, Guitarix, GVST. Возможно, что-то ещё, но история это умалчивает.</p>
