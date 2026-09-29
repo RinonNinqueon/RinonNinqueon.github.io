@@ -10,20 +10,6 @@ tags: diy completed
 image_path: "img/podium/photos"
 ---
 
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
-
 # Подиум для электронных барабанов
 
 — "Свершилось! наконец-то я купил электронные барабаны!" — подумал я, как понял, что надо бы обезопасить соседей снизу от шума. Ведь когда вы ударяете пусть даже по пластиковым/резиновым/сетчатым элементам ударки, часть энергии через крепления, раму и ножки доходит до пола. Что уж говорить про педали, которые вы вдавливаете в пол. И это у меня ещё просто педаль, без колотушки, которая даёт ещё больше шума.

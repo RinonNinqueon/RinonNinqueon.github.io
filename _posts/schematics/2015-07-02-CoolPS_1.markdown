@@ -5,19 +5,6 @@ date:   2015-07-02 13:07:52
 categories: schematics
 tags: schematics diy pedalpower
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 ### Что такое и зачем?
 

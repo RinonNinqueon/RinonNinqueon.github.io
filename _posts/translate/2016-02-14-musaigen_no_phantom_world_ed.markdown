@@ -4,19 +4,6 @@ title:  "Эндинг к 'Musaigen no Phantom World'"
 date:   2016-02-14 20:00:00
 categories: [translate, song]
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 ### Azusa Tadokoro &ndash; Junshin Always (純真Always)
 

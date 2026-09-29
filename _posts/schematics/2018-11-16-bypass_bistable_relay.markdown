@@ -5,19 +5,6 @@ date:   2018-11-16 15:30:21
 categories: schematics
 tags: schematics diy bypass
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 Идея делать bypass на реле далеко не нова, есть специальные сигнальные миниатюрные реле, которые переключаются быстро без щелчков, не требовательные к минимальному напряжению на контактах. Да и потребление их минимально.  
 Но меня заинтересовал именно вариант с поляризованным реле или, как ещё ео называют, бистабильным.

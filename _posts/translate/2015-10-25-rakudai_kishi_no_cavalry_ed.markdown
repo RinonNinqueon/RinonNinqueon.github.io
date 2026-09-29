@@ -4,19 +4,6 @@ title:  "Эндинг к 'Rakudai Kishi no Cavalry'"
 date:   2015-10-25 15:45:50
 categories: [translate, song]
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 ### ALI PROJECT &ndash; Haramitsu Renka (波羅蜜恋華)
 

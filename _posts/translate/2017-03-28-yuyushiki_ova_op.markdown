@@ -4,19 +4,6 @@ title:  "Опенинг к 'Yuyushiki&#58 Komarasetari, Komarasaretari'"
 date:   2017-03-28 15:45:50
 categories: [translate, song]
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 ### Jouhoushori-bu (情報処理部) &ndash; Kirameki! no Hi (きらめきっ！の日)
 

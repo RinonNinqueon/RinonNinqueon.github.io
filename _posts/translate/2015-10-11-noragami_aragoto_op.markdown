@@ -4,19 +4,6 @@ title:  "Опенинг к 'Noragami Aragoto'"
 date:   2015-10-11 15:45:50
 categories: [translate, song]
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 ### THE ORAL CIGARETTES &ndash; Kyouran Hey Kids!! (狂乱Hey Kids!!)
 

@@ -5,20 +5,6 @@ date:   2015-11-06 15:45:50
 categories: [translate, song]
 ---
 
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
-
 ### Kitakou Bungei-bu Joshikai (北高文芸部女子会) &ndash; Fure Fure Mirai (フレ降レミライ)
 
 Перевод с японского --- Rinon Ninqueon<br>

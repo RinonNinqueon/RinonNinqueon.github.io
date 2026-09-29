@@ -5,19 +5,6 @@ date:   2019-07-15 16:30:21
 categories: schematics
 tags: schematics diy driveit
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 С последней переделки прошло уже много времени. К тому же, я пользуюсь самой первой версией своей платы на два канала. Естественно, что что-то пойдёт не так и придётся чинить.  
 Вот об устранении, вернее, предотвращении этих неисправностей мы и поговорим.  

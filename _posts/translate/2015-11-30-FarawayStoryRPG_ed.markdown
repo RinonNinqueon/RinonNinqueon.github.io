@@ -4,19 +4,6 @@ title:  "Эндинг к 'Faraway Story RPG'"
 date:   2015-11-30 2:30:50
 categories: [translate, song]
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 ### Tamaki Kinoshita &ndash; 空の邂逅 / Sora no kaigou
 A Chance Meeting in the Sky<br>

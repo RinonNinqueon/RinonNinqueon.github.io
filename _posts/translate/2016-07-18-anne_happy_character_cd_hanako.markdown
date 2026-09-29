@@ -4,19 +4,6 @@ title:  "Anne Happy Character CD&#58 Hanakoizumi An"
 date:   2016-07-18 23:45:50
 categories: [translate, song]
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 ### Hanamori Yumiri (花守ゆみり）&ndash; Naru Maru Maaru (なるまるまーる) 
 

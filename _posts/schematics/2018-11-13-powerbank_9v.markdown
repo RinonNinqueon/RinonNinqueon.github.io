@@ -7,19 +7,6 @@ date:   2018-11-13 14:30:21
 categories: schematics
 tags: schematics diy pedalpower completed
 ---
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-		<div class="text-center">
-          <div class="modal-body">               
-          </div>
-		</div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-<div class="thumbnails">
-</div>
 
 Как-то мне в руки попали аккумуляторы 18650 из аккумуляторной батареи ноутбука. Контроллер решил, что одна банка сдохла и всё заблокировал. Чтобы не мучиться, просто купили новую батарею, а старую я распотрошил. Посаженной банке я дал волшебный пендель постоянкой, с малым током, подняв её напряжение до трёх с копейками вольт.  
 И тут мне пришла идея сделать из этих аккумуляторов повербанк для гитарных педалей. Идея огонь: не нужна розетка, весит меньше, чем трансформатор, фона нет - красота! Осталось только поставить ТЗ.  
