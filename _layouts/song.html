@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>{{ page.name }}
 {%- if page.albums -%}
-	из&nbsp;
+	&nbsp;из&nbsp;
 	{%- for alb in page.albums -%}
 		{{ alb.album }}
 		{%- if forloop.last == false -%}
@@ -23,22 +23,22 @@ layout: default
 				<div class="text-center">
 					<audio preload="none"></audio>
 					<br>
-	<table class="table table-hover">
-	<tr>
-	<th scope="row">Версии:</th>
-	{%- for dnl in page.download -%}
-		<td>
-		<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
-			<span class="span_play_button">&#9654;</span><span class="span_pause_button">&#10074;&#10074;</span>&nbsp;{{ dnl.name }}
-		</div>
-		{%- if forloop.last == false -%}
-			&nbsp;
-		{%- endif -%}
-		</td>
-	{%- endfor -%}
-	</tr>
-	</table>
-	<script src="/js/player.js"></script>
+					<table class="table table-hover">
+					<tr>
+					<th scope="row">Версии:</th>
+					{%- for dnl in page.download -%}
+						<td>
+						<div data-src="{{ dnl.url }}" class="gruppa-media-url" alt="{{ page.name }}">
+							<span class="span_play_button">&#9654;</span><span class="span_pause_button">&#10074;&#10074;</span>&nbsp;{{ dnl.name }}
+						</div>
+						{%- if forloop.last == false -%}
+							&nbsp;
+						{%- endif -%}
+						</td>
+					{%- endfor -%}
+					</tr>
+					</table>
+					<script src="/js/player.js"></script>
 				</div>
 			</div>
 		</div>
