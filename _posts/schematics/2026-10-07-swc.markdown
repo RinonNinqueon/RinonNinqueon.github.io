@@ -164,7 +164,7 @@ tags: schematics diy completed swc car radio key button encoder
 
 Ссылка на проект на GitHub:  
 
-* https://github.com/RinonNinqueon/car-radio-key-adapter
+* [https://github.com/RinonNinqueon/car-radio-key-adapter](https://github.com/RinonNinqueon/car-radio-key-adapter)
 
 Товары на AliExpress могут быть недоступны, поэтому пишу название лотов.  
 
