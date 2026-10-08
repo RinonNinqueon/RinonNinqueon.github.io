@@ -34,16 +34,14 @@ tags: schematics diy completed swc car radio key button encoder
 
 Для начала - схема:
 
-<div class="thumbnails">
+<div class="thumbnails d-flex list-unstyled gap-3">
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/swc/1.png" alt="/img/swc/1.png" class="img-thumbnail"><br>
 	  <div class="text-center">Четыре кнопки, один ряд</div>
 	</span>
    	</li>
-</div>
 
-<div class="thumbnails">
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/swc/2.png" alt="/img/swc/2.png" class="img-thumbnail"><br>
@@ -68,11 +66,18 @@ tags: schematics diy completed swc car radio key button encoder
 
 По итогу схема получилась вот такая:  
 
-<div class="thumbnails">
+<div class="thumbnails d-flex list-unstyled gap-3">
 	<li class="tmb">
 	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
       <img src="/img/swc/thumbs/schematic.png" alt="/img/swc/schematic.png" class="img-thumbnail"><br>
-	  <div class="text-center">Схема устройства</div>
+	  <div class="text-center">Схема основной платы</div>
+	</span>
+   	</li>
+	
+	<li class="tmb">
+	<span class="thumbnail" role="button" tabindex="0" style="cursor: pointer;">
+      <img src="/img/swc/thumbs/encoder.png" alt="/img/swc/encoder.png" class="img-thumbnail"><br>
+	  <div class="text-center">Схема платы энкодера</div>
 	</span>
    	</li>
 </div>
