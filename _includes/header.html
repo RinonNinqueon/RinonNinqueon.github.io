@@ -13,8 +13,11 @@
 		<meta name="twitter:title" content="{{ page.title }}">
 	{% endif %}
 	{% if page.description %}
+		<meta name="description" content="{{ page.description }}">
 		<meta property="og:description" content="{{ page.description }}">
 		<meta name="twitter:description" content="{{ page.description }}">
+	{% else %}
+		<meta name="description" content="{{ site.description }}">
 	{% endif %}
 	{% if page.image %}
 		<meta property="og:image" content="{{ site.url }}{{ page.image }}">
@@ -27,7 +30,6 @@
 		<link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
 	{% endif %}
 
-    <meta name="description" content="{{ site.description }}">
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
