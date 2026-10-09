@@ -1,9 +1,10 @@
 ---
 layout: default
+{% if paginator.page and paginator.page > 1 %}description: {{ site.name }} | Страница {{ paginator.page }}{% endif %}
 ---
 
 <div id="home">
-	<h1>Последние обновления</h1>
+	<h1>Последние обновления{% if paginator.page and paginator.page > 1 %} | Страница {{ paginator.page }}{% endif %}</h1>
 	<p class="rss-subscribe">RSS <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><img src="/img/social/rss.png" height="24" alt="RSS"></a></p>
 	<ul class="posts">
 	{%- for post in paginator.posts -%}
