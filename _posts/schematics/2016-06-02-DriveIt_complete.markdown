@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Педаль перегруза DriveIt! - работа над ошибками"
+description: "Моя 'фирменная' педаль перегруза - работа над ошибками"
 date:   2016-06-02 15:30:21
 categories: schematics
 tags: schematics diy driveit

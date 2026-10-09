@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  'Делаем комбик 12", часть 3'
+description: 'Комбик 12" своими руками - финальное покрытие'
 image: "/img/cabinet/DSC01137.JPG"
 thumb: "/img/cabinet/DSC01137_preview.JPG"
 date:   2016-09-09 15:30:21

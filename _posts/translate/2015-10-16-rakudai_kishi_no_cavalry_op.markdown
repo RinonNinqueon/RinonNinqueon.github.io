@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Rakudai Kishi no Cavalry'"
+description: "Mikio Sakai - Identity"
 date:   2015-10-16 15:45:50
 categories: [translate, song]
 ---

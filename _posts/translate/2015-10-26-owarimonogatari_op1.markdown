@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Owarimonogatari'"
+description: "Ougi Oshino (Kaori Mizuhashi) - Decent Black"
 date:   2015-10-26 15:45:50
 categories: [translate, song]
 ---

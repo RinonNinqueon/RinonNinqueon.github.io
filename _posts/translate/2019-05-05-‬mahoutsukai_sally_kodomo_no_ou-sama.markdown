@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kodomo no Ou-sama из 'Mahoutsukai Sally (1966)'"
+description: "Michiko Hirai - Kodomo no Ou-sama"
 date:   2019-05-05 16:17:50
 categories: [translate, song]
 ---

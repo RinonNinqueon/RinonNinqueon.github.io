@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Опенинг к 'Jugoku Shoujo: Yoi no Togi'"
+description: "Mio Yamazaki - Noise"
 date:   2017-07-12 18:42:50
 categories: [translate, song]
 ---
 
-### ミオヤマザキ &ndash; ノイズ
+### Mio Yamazaki (ミオヤマザキ) &ndash; Noise (ノイズ)
 
 Перевод с японского --- Rinon Ninqueon<br>
 <hr>

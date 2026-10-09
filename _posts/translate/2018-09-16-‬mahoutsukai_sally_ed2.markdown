@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Эндинг к 'Mahoutsukai Sally (1966)' №2"
+description: "Yukari Asai, Masako Nozawa, Midori Kato, Michiko Hirai - Itazura no Uta"
 date:   2018-09-16 18:15:50
 categories: [translate, song]
 ---

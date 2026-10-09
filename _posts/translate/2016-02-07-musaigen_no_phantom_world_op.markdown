@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Musaigen no Phantom World'"
+description: "SCREEN mode - Naked Dive"
 date:   2016-02-07 20:00:00
 categories: [translate, song]
 ---

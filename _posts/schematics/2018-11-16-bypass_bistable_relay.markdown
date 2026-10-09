@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  'Bypass на поляризованном реле'
+description: "Активный Bypass, который не потребляет ток"
 date:   2018-11-16 15:30:21
 categories: schematics
 tags: schematics diy bypass

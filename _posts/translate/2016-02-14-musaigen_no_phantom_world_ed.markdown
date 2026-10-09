@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Эндинг к 'Musaigen no Phantom World'"
+description: "Azusa Tadokoro - Junshin Always"
 date:   2016-02-14 20:00:00
 categories: [translate, song]
 ---

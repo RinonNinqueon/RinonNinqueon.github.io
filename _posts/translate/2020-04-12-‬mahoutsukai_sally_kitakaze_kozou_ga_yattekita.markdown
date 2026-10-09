@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kitakaze Kozou ga Yattekita (Kitakazekko) из 'Mahoutsukai Sally (1966)'"
+description: "Schoolmates - Kitakaze Kozou ga Yattekita (Kitakazekko)"
 date:   2020-04-12 16:15:50
 categories: [translate, song]
 ---

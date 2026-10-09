@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Yuyushiki&#58 Komarasetari, Komarasaretari'"
+description: "Jouhoushori-bu - Kirameki! no Hi"
 date:   2017-03-28 15:45:50
 categories: [translate, song]
 ---

@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Эндинг к 'Faraway Story RPG'"
+description: "Tamaki Kinoshita - Sora no Kaigou"
 date:   2015-11-30 2:30:50
 categories: [translate, song]
 ---
 
-### Tamaki Kinoshita &ndash; 空の邂逅 / Sora no kaigou
+### Tamaki Kinoshita &ndash; 空の邂逅 / Sora no Kaigou
 A Chance Meeting in the Sky<br>
 Случайная Встреча в Небесах<br>
 <hr>

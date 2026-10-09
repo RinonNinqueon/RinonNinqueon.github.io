@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Эндинг к 'Jugoku Shoujo: Yoi no Togi'"
+description: "Noto Mamiko - Irogami"
 date:   2017-07-22 18:42:50
 categories: [translate, song]
 ---
 
-### 能登麻美子 &ndash; いろがみ
+### Noto Mamiko (能登麻美子) &ndash; Irogami (いろがみ)
 
 Перевод с японского --- Rinon Ninqueon<br>
 <hr>

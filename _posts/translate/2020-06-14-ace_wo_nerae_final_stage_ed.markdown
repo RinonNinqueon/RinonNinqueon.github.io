@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Эндинг к 'Ace wo Nerae! Final Stage'"
+description: "Moriguchi Hiroko - Manatsu no Alice"
 date:   2020-06-14 18:44:00
 categories: [translate, song]
 ---

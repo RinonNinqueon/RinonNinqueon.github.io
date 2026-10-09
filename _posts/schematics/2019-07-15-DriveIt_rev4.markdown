@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  'DriveIt! ревизия 4'
+description: "Моя 'фирменная' педаль перегруза - новая версия"
 date:   2019-07-15 16:30:21
 categories: schematics
 tags: schematics diy driveit

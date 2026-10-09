@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Эндинг к 'Mahoutsukai Sally (1966)' №3"
+description: "Mozugaki Youko, Four mates - Papapa no Choina"
 date:   2020-08-23 15:15:50
 categories: [translate, song]
 ---
 
 ### Mozugaki Youko (水垣洋子), Four mates (フォーメイツ) &ndash; "Papapa no Choina (パパパのチョイナ)"
 
+Очень не уверен в смысле "Papapa no Choina". Это может быть зазывалка или что-нибудь типа "легче лёгкого".<br>
 Перевод с японского --- Rinon Ninqueon<br>
 <hr>
 

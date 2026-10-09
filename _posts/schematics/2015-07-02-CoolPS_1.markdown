@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Правильный блок питания для гитарных эффектов. Часть 1"
+description: "Блок питания для гитарных педалей с изолированными выходами"
 date:   2015-07-02 13:07:52
 categories: schematics
 tags: schematics diy pedalpower

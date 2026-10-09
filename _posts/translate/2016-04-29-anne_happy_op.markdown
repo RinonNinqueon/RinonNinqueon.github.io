@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Anne Happy'"
+description: "Happy Clover - PUNCH☆MIND☆HAPPINESS"
 date:   2016-04-29 15:45:50
 categories: [translate, song]
 ---

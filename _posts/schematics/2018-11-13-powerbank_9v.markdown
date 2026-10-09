@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  'Powerbank 9v для гитарных педалей'
+description: "Powerbank для гитарных педалей с изолированными выходами"
 image: "/img/powerbank/DSC_0005.JPG"
 thumb: "/img/powerbank/DSC_0005_preview.JPG"
 date:   2018-11-13 14:30:21

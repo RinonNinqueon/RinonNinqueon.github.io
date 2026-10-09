@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'URAHARA'"
+description: "Uesaka Sumire - Antithese Escape"
 date:   2017-10-20 18:42:50
 categories: [translate, song]
 ---

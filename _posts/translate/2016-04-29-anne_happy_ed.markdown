@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Эндинг к 'Anne Happy'"
+description: "Happy Clover - Ashita de ii kara"
 date:   2016-04-29 15:44:50
 categories: [translate, song]
 ---
 
-### Happy Clover &ndash; Ashita de Ii kara (明日でいいから)
+### Happy Clover &ndash; Ashita de ii kara (明日でいいから)
 
 Перевод с японского --- Rinon Ninqueon<br>
 <hr>

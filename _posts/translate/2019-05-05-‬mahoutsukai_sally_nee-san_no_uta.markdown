@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Nee-san no Uta из 'Mahoutsukai Sally (1966)'"
+description: "Midori Kato, Michiko Hirai - Nee-san no Uta"
 date:   2019-05-05 16:16:50
 categories: [translate, song]
 ---
 
 ### Midori Kato (加藤みどり), Michiko Hirai (平井道子) &ndash; "Nee-san no Uta (姉さんの唄)"
 
-Песня сестры  
+Песня старшей сестры  
 Перевод с японского --- Rinon Ninqueon<br>
 <hr>
 Мы с подружкой девочки разнесчастные  

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Эндинг к 'Mahoutsukai Sally (1966)' №1"
+description: "Maekawa Yoko - Mahou no Mambo"
 date:   2017-11-08 18:42:50
 categories: [translate, song]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Эндинг к 'Hidan No Aria AA'"
+description: "Team AA [Akari Mamiya (Ayane Sakura) & Aria Holmes Kanzaki (Rie Kugimiya)] - Pulse"
 date:   2015-10-09 15:45:50
 categories: [translate, song]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Манга 'Nagato Yuki-chan no Shoushitsu'"
+description: "Манга 'Исчезновение Юки Нагато'"
 date:   2015-09-11 15:45:50
 categories: [translate, manga]
 ---

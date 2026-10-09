@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Укрощение Ardour"
+description: "Подготовка Ubuntu, компиляция Ardour и плагинов Calf"
 date:   2016-02-01 13:00:00
 categories: it
 ---

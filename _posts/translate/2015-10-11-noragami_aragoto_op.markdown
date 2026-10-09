@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Noragami Aragoto'"
+description: "THE ORAL CIGARETTES - Kyouran Hey Kids!!"
 date:   2015-10-11 15:45:50
 categories: [translate, song]
 ---
