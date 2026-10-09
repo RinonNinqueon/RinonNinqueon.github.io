@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rakugaki no Uta из 'Mahoutsukai Sally (1966)'"
+description: "Yukari Asai, Masako Nozawa, Sachiko Chijimatsu - Rakugaki no Uta"
 date:   2019-05-05 16:15:50
 categories: [translate, song]
 ---

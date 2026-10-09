@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'One Punch Man'"
+description: "JAM Project - THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~"
 date:   2015-10-19 15:45:50
 categories: [translate, song]
 ---

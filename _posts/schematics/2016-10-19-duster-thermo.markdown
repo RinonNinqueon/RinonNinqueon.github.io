@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  'Термометр в Renault Duster'
+description: "Маленький термометр на место штатной заглушки"
 date:   2016-10-19 23:30:21
 image: "/img/duster/DSC00980.JPG"
 thumb: "/img/duster/DSC00980_preview.JPG"

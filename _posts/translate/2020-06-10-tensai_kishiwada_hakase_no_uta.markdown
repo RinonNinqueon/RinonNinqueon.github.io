@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tensai! Kishiwada Hakase no Uta"
+description: "Animetal - Tensai! Kishiwada Hakase no Uta"
 date:   2020-06-10 16:15:50
 categories: [translate, song]
 ---

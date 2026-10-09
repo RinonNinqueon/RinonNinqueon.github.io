@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Hidan No Aria AA'"
+description: "Nano - Bull's Eye"
 date:   2015-10-08 15:45:50
 categories: [translate, song]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Ace wo Nerae! Final Stage'"
+description: "Moriguchi Hiroko - Never Say Goodbye"
 date:   2020-06-14 18:18:00
 categories: [translate, song]
 ---

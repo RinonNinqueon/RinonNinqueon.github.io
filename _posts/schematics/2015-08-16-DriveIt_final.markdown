@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Педаль перегруза DriveIt! - финал"
+description: "Моя 'фирменная' педаль перегруза - корпус"
 date:   2015-08-16 23:30:21
 categories: schematics
 tags: schematics diy driveit

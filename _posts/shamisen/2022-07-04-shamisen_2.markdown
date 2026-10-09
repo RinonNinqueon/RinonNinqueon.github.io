@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Сямисэн по-русски. Часть 2: Как играть на Сямисэне?"
+description: "Мои заметки по технике игры на сямисэне"
 date:   2022-07-04 01:01:00
 categories: woodwork
 redirect_from:

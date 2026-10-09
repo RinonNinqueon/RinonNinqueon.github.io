@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Эндинг к 'Rakudai Kishi no Cavalry'"
+description: "ALI PROJECT - Haramitsu Renka"
 date:   2015-10-25 15:45:50
 categories: [translate, song]
 ---

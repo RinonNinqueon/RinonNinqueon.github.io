@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sally wa Kawaii Mahoutsukai из 'Mahoutsukai Sally (1966)'"
+description: "Michiko Hirai - Sally wa Kawaii Mahoutsukai"
 date:   2020-01-04 16:15:50
 categories: [translate, song]
 ---

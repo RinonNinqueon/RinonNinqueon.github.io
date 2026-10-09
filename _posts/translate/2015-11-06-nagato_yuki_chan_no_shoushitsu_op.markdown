@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Nagato Yuki-chan no Shoushitsu'"
+description: "Kitakou Bungei-bu Joshikai - Fure Fure Mirai"
 date:   2015-11-06 15:45:50
 categories: [translate, song]
 ---

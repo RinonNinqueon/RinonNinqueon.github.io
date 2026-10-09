@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Anne Happy Character CD&#58 Hanakoizumi An"
+description: "Hanamori Yumiri - Naru Maru Maaru"
 date:   2016-07-18 23:45:50
 categories: [translate, song]
 ---

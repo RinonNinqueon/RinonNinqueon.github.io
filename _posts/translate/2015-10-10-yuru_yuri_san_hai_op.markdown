@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Yuru Yuri San☆Hai!'"
+description: "Nanamori Chu☆Goraku Bu - Chochocho! Yuru Yuri☆Capriccio!!!"
 date:   2015-10-10 15:45:50
 categories: [translate, song]
 ---

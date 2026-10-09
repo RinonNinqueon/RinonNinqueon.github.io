@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Taimadou Gakuen 35 Shiken Shoutai'"
+description: "Afilia Saga - Embrace Blade"
 date:   2015-10-17 15:45:50
 categories: [translate, song]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Himouto! Umaru-chan'"
+description: "Umaru Doma (Aimi Tanaka) - Kakushinteki☆Metamaruphose!"
 date:   2015-09-16 15:45:50
 categories: [translate, song]
 ---

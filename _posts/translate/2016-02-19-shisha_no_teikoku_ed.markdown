@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Эндинг к 'Shisha no Teikoku'"
+description: "EGOIST - Door"
 date:   2016-02-19 15:45:50
 categories: [translate, song]
 ---

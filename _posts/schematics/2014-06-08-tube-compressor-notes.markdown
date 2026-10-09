@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ламповый компрессор, заметки"
+description: "Идея по реализации лампового компрессора"
 date:   2014-01-16 23:54:19
 categories: schematics
 tags: schematics diy tubecompressor

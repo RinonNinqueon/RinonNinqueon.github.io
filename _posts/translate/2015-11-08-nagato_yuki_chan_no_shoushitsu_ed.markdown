@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Эндинг к 'Nagato Yuki-chan no Shoushitsu'"
+description: "Minori Chihara - Arigatou, Daisuki"
 date:   2015-11-08 15:45:50
 categories: [translate, song]
 ---

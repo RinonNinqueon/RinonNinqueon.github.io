@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Опенинг к 'Mahoutsukai Sally (1966)'"
+description: "Three Graces - Mahoutsukai Sally"
 date:   2017-11-05 18:42:50
 categories: [translate, song]
 ---

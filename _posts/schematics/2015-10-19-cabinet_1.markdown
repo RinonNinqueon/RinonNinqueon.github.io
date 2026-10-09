@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  'Делаем комбик 12", часть 1'
+description: 'Комбик 12" своими руками - дерево'
 date:   2015-10-19 23:30:21
 categories: schematics
 tags: schematics diy combo
