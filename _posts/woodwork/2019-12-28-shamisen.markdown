@@ -1,13 +1,14 @@
 ---
 layout: diy
 title:  "Сямисэн"
-description: ""
+description: "Мой первый самодельный сямисэн"
 image: "/img/shamisen/release/IMG_20191209_211956.jpg"
 thumb: "/img/shamisen/release/thumbs/IMG_20191209_211956.jpg"
 date:   2019-12-28 15:36:07
 categories: woodwork
 redirect_from:
   - /diy/shamisen/
+canonical: true
 tags: music diy completed japan shamisen
 image_path: "img/shamisen/release"
 ---

@@ -8,6 +8,7 @@ date:   2022-10-10 10:10:00
 categories: woodwork
 redirect_from:
   - /diy/les_paul/
+canonical: true
 tags: music diy completed
 image_path: "img/lespaul2022"
 ---

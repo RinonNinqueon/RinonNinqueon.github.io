@@ -8,6 +8,7 @@ date:   2022-02-26 15:35:03
 categories: woodwork
 redirect_from:
   - /music/guitar_stand/
+canonical: true
 tags: wood diy guitarstand completed
 ---
 
