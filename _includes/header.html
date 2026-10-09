@@ -6,15 +6,8 @@
 	<meta name="google-site-verification" content="rnBOtSuaYG5ZOfzf0UlIBaaUw3psDyto75cfg2LfOFg" />
 	
 	<meta http-equiv="content-language" content="ru" />
-	{% if page.title %}
-		<title>{{ page.title }} | {{ site.name }}</title>
-	{% else %}
-		<title>{{ site.name }}</title>
-	{% endif %}
+	{% if page.title %}<title>{{ page.title }} | {{ site.name }}{% else %}<title>{{ site.name }}{% endif %}{% if paginator.page and paginator.page > 1 %} | Страница {{ paginator.page }}{% endif %}</title>
 	
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@RinonNinqueon">
-	<meta name="twitter:creator" content="@RinonNinqueon">
 	{% if page.title %}
 		<meta property="og:title" content="{{ page.title }}">
 		<meta name="twitter:title" content="{{ page.title }}">
@@ -30,7 +23,6 @@
 	{% if page.url %}
 		<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 	{% endif %}
-	
 	{% if page.canonical %}
 		<link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
 	{% endif %}
@@ -55,12 +47,6 @@
 	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 	<meta name="yandex-verification" content="b76ece52b29bc27b" />
-<!--	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
-
-	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
-	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script> -->
 
 	<link rel="stylesheet" href="/css/bootstrap.min.css"/>
 	<link rel="stylesheet" href="/css/sticky.css" />
@@ -72,12 +58,6 @@
 	<script src="/js/audio.min.js"></script>
 	<script src="/js/bootstrap.bundle.min.js"></script>
 	<script src="/js/fotorama.js"></script>
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></sc\
-ript>
-    <![endif]-->
 	
 	<!-- Yandex.Metrika counter -->
 	<link rel="stylesheet" href="/css/CookieConsent.css" />
